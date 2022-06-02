@@ -1,101 +1,48 @@
 # Radical kindness
 
-While on a months-long meditation retreat many years ago, I experienced a profound shift in perception that I think is worth sharing, regarding the nature of evil. I will describe it in mystical-sounding language. If that triggers you, please consider it poetry.
+> *Be kind, for everyone you meet is fighting a great battle.* --- Author unknown
 
-One aspect of your mind already knows everything I'm about to say, and another aspect will find it hopelessly naïve. Please try reading through the first lens.
-
----
-
-The fundamental nature of mind is *pure Love; primordial Goodness.* It is what you most deeply *are*, and what everyone else is, too. What differs is how *estranged* we are from it.
-
-You would think that the more estranged a person is from Love, the *sadder* they would appear. But because it is the source of Good, the more estranged they are, the more *evil* they actually appear. This is what all evil ultimately *is*. The further they get, the harder it becomes to recognize as estrangement, and the more clearly it appears to be a character flaw. But nobody would actually *want* to be marooned from Home, if only they could remember what it's like.
-
-We think that "bad people" *deserve* our contempt. But how could someone who's estranged from Love "deserve" to be pushed further from it? This is how *new evil* is born --- usually in the name of "good."
-
-Their increased evil confirms to us that *we were right about them* --- alleviating any misgivings we might have had about our behavior, and justifying escalation --- but *why don't we see our role in creating it?*
-
-Our allies cheer us on, but why can't we see that we've only darkened their minds, too? Meanwhile, our target and their allies now perceive *us* as evil --- and in an important sense they are correct: we are trapped in the same confusion that we always see clearly in others but somehow never in ourselves.
-
-We feel that *the ends justify the means*, but the ends that we tell ourselves we're accomplishing are not the ends that our subconscious is secretly accomplishing through us: the *entrenchment of darkness in the world.*
-
-Why on Earth would someone whose "true nature is Love" *entrench darkness in the world?*
-
-We have a primal need to know ourselves as good. When we are alienated from genuine Goodness, we must settle for the next best thing: *self-righteousness.* The only way to keep this supply fresh is to perpetually push others down. But it is absolutely crucial that we never suspect --- let alone admit --- that we are doing any of this, because that would destroy the *insanely clever* illusion we are so carefully crafting.
-
-The more ensnared we become in this trap, the more we must hide it from ourselves. This takes the form of increasingly convincing evidence that what we're doing is *right*; and that anyone who doesn't see it is at best naïve, and probably an enemy. In this way, a person or group caught in this trap tragically seals itself off from the one thing it desires most: *genuine Goodness.* If left unchecked, the inevitable result of such mutual escalation is war.
-
-The only solution is to reconnect, in some way, with that *Goodness.* This can happen in varying degrees through meditation, psychedelics, or even just a chance encounter with someone insistent on seeing the good within us at a critical moment when others (and even *we*) cannot. When we make *full* contact with this Love, it is impossible to overstate the catharsis that results.
-
-Suddenly our eyes are opened to the devastation we've been perpetrating in the name of good. We discover that we've *always* known that we were doing this, but somehow hid it from ourselves. We see that everyone else is caught in exactly the same trap, and that we were never any better than them. It is a heartbreaking tragedy of epic proportions: it is precisely where love is needed the most that we withhold it the most. Our innocent desire to know ourselves as good has resulted in so much bad.
-
-We vow to recognize when others are secretly calling for help in the form of "evil" --- and discover this happening in *infinitely more places and ways* than we could have ever imagined, let alone believed. We will not always have the energy to respond to such calls, or even the wisdom to know how, but now we at least see them for what they are, allowing us not to push people further in.
-
-Our "enemies" can subconsciously perceive this shift in us. They can sense that we are trustworthy in a way that we very much weren't before; in a way that not even their allies are, given how blinded they are by *the cause*. They sense that we are a step in the direction back to the Wholeness they crave --- which is the only real way anyone "becomes good" or that "evil is destroyed." Dialogue becomes possible. Deep traumas have a safe channel to be released. Instead of finding ways to secretly *entrench* darkness, our subconscious is finding ways to secretly *uproot* it.
-
-Before such an awakening, we fear that Love is sometimes the wrong response; that it will be used against us. This fear is not entirely unwarranted: the mind's distorted version of Love is a weak simulacrum of the real thing; a vague warm-and-fuzzy feeling that seeks to avoid conflict and *does* run that risk. But genuine Love has the power of a *thousand blazing suns*, and can manifest as absolutely anything; from a gentle smile, to mockery and shaming, or [worse](https://www.snopes.com/fact-check/dalai-gun/), as the situation warrants. We now see that it is *always* the right motivation, if only we learn to harness it wisely.
-
-This doesn't mean we are out of the woods. It is all too easy to fall back into our old habits. The mind is infinitely tricky, making it surprisingly difficult to detect when we've fallen out of compassion and back into *self-righteousness.* This is especially true given that (approximately) the same behavior can be manifested through either channel. And being "awakened" in this sense isn't binary. It's a process that slowly saturates our being. But at least now we can recognize the telltale signs of being seduced by darkness[^utah], giving us some ability to resist it.
-
-As more people are thus inoculated, the virulent cycle that perpetuates evil becomes increasingly unable to sustain itself. This is the only mechanism that can actually *undo* evil in the world, instead of merely suppressing it. And it is hard to imagine anything the world needs more right now than that.
-
-May all beings be happy. 🙏🏽
-
+It is impossible to make the world better by withholding your love. This isn't something I can prove, but because you already know it deep down, reminders can be helpful. I'm far from being a role model, and need these reminders myself.
 
 ---
 
-## Selected quotes
 
+The Buddhists believe --- [and it is possible to confirm](www.lifeismiraculous.org) --- that the nature of your mind is pure goodness; unconditional love. The only time you ever misbehave is when you are separated from your true nature by some kind of delusion. The same is true, of course, of everybody else. What we perceive as *evil* in a person is just a measure of this estrangement; it is not a distinct thing in itself --- sort of like how darkness is merely the absence of light.
 
-> *Be kind, for everyone you meet is fighting a great battle.* --- [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
+> *Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.* --- Martin Luther King, Jr.
 
-> *Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.* ― Martin Luther King, Jr.
+But evil has an unfortunate additional property: seeing it as a "real thing" --- that is, a *presence* instead of an *absence* --- creates *more* of it.
 
-> *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* ― Reinhold Niebuhr
+When we perceive it as a presence, we feel self-righteous, and treat the person with contempt. Consciously, we tell ourselves that our malice is not only justified but *righteous* --- we are, after all, only fighting evil.
 
-> *The road to hell is paved with good intentions.* --- Proverb
+What's actually happening is that their darkness has triggered ours. This separates us from our light; makes us a little evil ourselves. Far from our darkness fighting theirs, the two are secretly allied. In fact, it is more like two tentacles of the same shadowy organism, embedding itself deeper into each host's mind. This affects everyone around us, too, consciously or not. Our "allies" may cheer us on, but their minds, too, have become darker. Despite whatever temporary good may come from our words and actions, the net result is a darker world.
+
+Of course, it never *feels* like we've become evil --- and that's **exactly** the point.
+
+Humans have a primal need to know our own goodness. When we are separated from our *absolute* goodness, we are forced to seek it *relatively*. This means we need to see ourselves as *better* than others. This compels us to seek out people who we can justifiably feel superior to --- and then to *ensure that they stay there*.
+
+Don't we already know that treating our enemies with contempt will just push them further into the dark and make them double down? We may tell ourselves that this is just an unfortunate side-effect, but it's actually *the true purpose*. Even if we manage to kill them in this state, it's not like that darkness just disappears from the world. Pardon my woo, but it just ripples out and finds new homes.
+
+Of course, we must never consciously suspect that we're darkening the world, because that's would defeat the whole purpose (of seeing ourselves as *good*). So it must be done in a way that preserves our self-identity as "good people." Our darkness knows all this. So it whispers exactly the right things into our minds to convince us that it's *good.*
+
+Being evil while pretending that it's good: isn't that the very *definition* of hypocrisy that we skewer others for? This is really important to see. The *form* differs from person to person, but the dynamic is always the same.
+
+At this point, one of two things can happen. If the conditions are right, we can be deeply honest about what's happening, and reverse course (with a shudder). But in the wrong conditions --- e.g., in the presence of self-righteous enemies --- we feel compelled to double down ourselves. Our darkness has triggered theirs, which in turn triggers ours again. After only a few cycles of this, both sides are so deeply entrenched in being malicious while *increasingly convinced* that we're doing good, that only a saint could provide the necessary conditions to pull us out. The further in we are, the harder it is to see it.
+
+It is difficult to overstate just how frighteningly quickly this process can overtake a person. The darkness is *insanely clever,* and will find whatever hooks present themselves in a mind. It doesn't happen because they are intrinsically bad. If we have avoided getting sucked in, it's not because we are intrinsically better. It's a horrifying process to go through, and even if the end result is someone we can only see as an "evil person," hating them for it just contributes to the whole nasty game. Nobody originally *wanted* to get trapped in this way.
+
+We don't recognize it, but we should be *immensely grateful* for whatever conditions have allowed us to stay relatively near the surface. We think it's all our doing --- because we're *good people* --- but this is the ultimate trap. It is the core belief that enables you to see others as beneath you, thereby preserving you as a player in this sordid game. Ironically, the only way to be *genuinely* good is to realize that you're *not* better than anyone.
+
+With this insight, one increasingly perceives evil as the absence that it is, and realizes that the only solution is to add enough love in the right places to heal it. Such "love" is not a mushy, gooey feeling of *liking* or *tolerating* anyone. It has nothing to do with being *nice*, either. It can be as fierce --- or even [ostensibly violent](https://www.snopes.com/fact-check/dalai-gun/) --- as needed. This makes it impossible to describe exactly what love *looks like*: there is no specific form that it must take. But you know exactly what it *feels* like, because it is your true nature. The skill of applying it wisely takes a lifetime (or more) to master, and is beyond the scope of this piece.
+
+Often, we remind ourselves to do this through perspective-taking: we try to imagine what circumstances could have turned this person into who they are now. This is a powerful practice, but has a major shortcoming: sometimes, we cannot conceive of *any* circumstances that could have made a person this evil. When this happens, we resort to seeing them as *intrinsically bad*, and we're back in the same trap.
+
+The only way to avoid this is by having unshakeable certainty that it is universally true: that at the ultimate level, nobody actually *wants* to be evil, and that only love can ever heal it. Such universals do not fit neatly into our standard worldview, which is why I find it so crucial that we find a way to [expand our view to fit the truth](www.lifeismiraculous.org). Without this, we will always be able to find supposed exceptions, and the cycle will never end.
+
+The truth is that we cannot make the world a better place by withholding our love. Our attempts to do this are backfiring spectacularly --- just look at the increasing political divide in the U.S. May we figure this out before it is too late.
 
 ---
 
-### On awakening through psychedelics
-
-From an online web forum (emphasis mine):
-
-> *My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
-> 
-> *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
-
-From a first-time user of the empathogen MDMA (emphasis mine):
-
-> *My mind brought up memories of being hit by my parents. I felt warmth and love towards them. I could see the bigger frame of everything and expanded my compassion towards them. I could feel their own confusion and see the love behind their actions. I could see them as children. … So, my basic view of the world began to shift. … Instead of seeing myself as a shit-sandwich with occasional bright moments, **I saw myself as basically good with some bad habits I picked up along the way... a white screen with some dark spots.***
-
----
-
-### The shadow and projection
-
-> *What bothers us about others, what we dislike or fear in them, are aspects of ourselves that they mirror back at us, aspects we dislike seeing. Until we make deep peace with such aspects of ourselves, unwanted aspects we don’t want to see, by learning to receive a love that touches in past them to the intrinsic goodness of our being, we can’t open to the intrinsic goodness of others that also lies hidden from our view.*
->
-> *We need to receive love from those who have sent it to us just as we are, with all our flaws, in order to relax into the deeper goodness within us that always deserves such love and to heal there. Then we can offer a love in turn that embraces others with similar flaws, that touches in on their intrinsic worth, mirrors their goodness back at them, and doesn’t give up on them no matter what.*
-> 
-> -- John Makransky
-
-> *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* --- Herman Hesse
-
-> *Not that these others are wholly without blame, for even the worst projection is at least hung on a hook, perhaps a very small one, but still a hook offered by the other person.* --- Carl Jung
-
-> *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.* --- Carl Jung
-
-> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* --- Carl Jung
-
-
-> *If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being.* --- Alexander Solzhenitsyn, The Gulag Archipelago
-
-
-[^utah]: This quote may help you sense what I am talking about. Don't focus on whether it is *true* or not, but on how it makes you *feel*:
-
-    > *"The earth is not dying, it is being killed. And those that are killing it have names and addresses."* --- Utah Phillips
-    
-    The feeling you're looking for is something like this: "yay, we found the evil, and now all we have to do is *smash* it!"
-
-
+Also see this [page of quotes](https://hackmd.io/@monktastic/radical-kindness-quotes).
 
 ###### tags: `kindness`
