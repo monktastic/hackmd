@@ -1,28 +1,32 @@
-# Radical kindness (take 4)
+# Radical kindness (take 5)
 
 ###### tags: `kindness`
 
-> *Be kind, for everyone you meet is fighting a great battle.*
-> 
-> --- [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
+People have a tendency to imagine that the reason for the sorry state of the world is a handful of *bad people* off somewhere doing *bad things*. Other times, our blame extends to all the common people who support them. In our more charitable moments, we admit that we might have a small part to play, but our hand is forced by circumstances.
 
-I've tried to write this piece countless times, but it always comes out wrong. Please take the following as poetry.
+All of these have some truth, but there's a *much bigger* issue that escapes our notice. I'll try to point it out, but it's not easy. There's a powerful *reason* that it escapes our notice.
 
----
+Try to feel what the following quote is hinting at:
 
-If we could really see it all, we would never choose to be unkind. *Never*.
+> *Be kind, for everyone you meet is fighting a great battle.* --- [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
 
-We would see that people's bad behavior and ideas are --- without exception --- rooted in profound confusion that even *they* cannot recognize, let alone admit. That our inability or unwillingness to recognize this is a heartbreaking tragedy of epic proportions. That **this** is what keeps the wheel of suffering spinning.
+Most of us instinctively understand the profound truth underlying this message and agree --- in general. But when it comes to *specific cases*, we often convince ourselves that it doesn't apply. It just seems *so obvious* to us that *this person* isn't misbehaving due to any "great battle," but because they're just *bad*. Take a moment and reflect how often that feels true. Moreover, even when it *is* due to a great battle, sometimes we feel that kindness would be naïve.
 
-We would clearly see that any decision to overlook a person's fundamental goodness --- be it in the form of ridicule, contempt, or hate --- only pushes them *further* into the dark. We would recognize this as a form of violence, and could take no pleasure in it. We would see that *no good* could ever come from it --- despite the cunning calculations of our infinitely clever minds.
+There are three big mistakes here.
 
-We would discover, with a shock, that somehow *we've always known* this. That we did it anyway, to make ourselves feel better; so that we could keep pretending that evil exists only *out there*: look, I can *see* it! That it's terrifying to confront the darkness within ourselves, and much easier to project it out, where it can be valiantly fought by us, *the good ones*. We would see that ultimately, this primal need to see ourselves as "good" backfires *horrifically*.
+First, if you could perceive the entire web of conditions that led to a person's behavior --- [epigenetic](https://www.bbc.com/future/article/20190326-what-is-epigenetics), genetic, environmental, developmental, incidental, and usually a complex combination of all of the above --- your heart would *always* overflow with compassion as you grasped the terrible intricacies of their particular "great battle." The illusion of a "bad person" cackling behind the scenes would be utterly dispelled. You would directly perceive that people are *hopelessly lost* within the maze of their minds, and sometimes do frightfully stupid (and harmful) things in hopes of finding their way out.
 
-We would stop confusing "kind" with "nice." If we found that mockery --- [or worse](https://www.snopes.com/fact-check/dalai-gun/) --- were actually the wisest response to a situation, we would do it with genuine **love** in our hearts. And we would discover that, astonishingly, this made *all the difference in the world*, in ways that we could hardly fathom, let alone predict.
+Second, "kind" does not mean "nice." It does not mean that you *excuse* anything. It's simply the opposite of *malicious*; the heartfelt intention to make things *better* and not *worse*. In this way, it is *never* the wrong motivation. It does not prescribe (or preclude) any particular course of action. [Sometimes the kindest action is to shoot someone](https://www.snopes.com/fact-check/dalai-gun/).
 
-We would see that our *own* bad behavior only ever comes from our own deep confusion --- confusion that *we* could not see, let alone admit. Glimpsing this, we would be gentle with ourselves. We would remember what we truly desire most of all. We would see that remarkably, behind the bewildering array of diversity, everyone else does, too. And we would remember --- at least for a brief time --- how to find our way back home.
+The third is hardest to see. Any time you choose to overlook a person's fundamental goodness, and treat them with ridicule, contempt, or hatred, you are secretly taking pleasure in their profound confusion. There is no interest in seeing them freed from it, and on the contrary, often a desire to see them pushed further in. This is malicious, so to hide it from ourselves, our conscious minds dress it up with all sorts of clever justifications about why it's good or necessary.
 
-<center>🙏</center>
+*We're* not bad people either, so why do we do this? Ironically, it comes from a primal need to see ourselves as *good*. A very effective way to maintain that self-perception is to project our own darkness outward, to make it clear that evil only exists *out there.* It's not that there *isn't* darkness out there, but we are subconsciously motivated to magnify it, and even *increase* it where permissible. And how better to make it permisslbe than to convince ourselves (and our allies) that it's good and just and necessary? We know perfectly well that this will only lead to retaliation, but we *need* the presence of "bad guys," to remind us that *we* are good.
+
+Frustratingly, the very mechanism that *causes* us to do this makes us resistant to *seeing* that we are doing this, or how harmful it is. That is, the need to see ourselves as good powerfully prevents us from acknowledging our own malicious behavior. We only see *others* doing it --- those hypocrites! All of *our* examples are justified: here's *proof!* The cumulative effect of *billions* of people doing this (while convinced we're not) is a world of horrific suffering, where nobody can quite pin down where the problem lies. Or rather, *everybody* can pin it down, but somehow it's always "out there." Get a large enough group of people to agree on who "the problem" is, and I think you know what happens next.
+
+If you are thinking "good thing I don't do that" but are still curious whether *this may be the very defense mechanism he's talking about*, the most effective way I know to find out is to *deeply forgive yourself.* This may seem counterintuitive: if you're already convinced of your goodness, what could there be to forgive? But if you're patient enough, you may discover aspects of yourself that you are not yet ready to confront. *These* are the hidden aspects that we continue to project outward until we are ready to be healed. I don't know if it helps to hear this from an internet stranger, but: *you deserve it.* I can't see your "great battle," but I can tell you with mathematical precision: *it's not your fault.*
+
+As we heal, we may still discover cases where mocking (or even shooting!) someone is the wisest response. But when we do so, it will be with genuine *love* in the heart. We will recognize others as ourselves, and thus deserving of the same grace that somehow pulled our sorry asses out of the darkness. And we will find, astonishingly, that this makes all the difference in the world.
 
 ---
 
@@ -63,6 +67,11 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 > *We need to receive love from those who have sent it to us just as we are, with all our flaws, in order to relax into the deeper goodness within us that always deserves such love and to heal there. Then we can offer a love in turn that embraces others with similar flaws, that touches in on their intrinsic worth, mirrors their goodness back at them, and doesn’t give up on them no matter what.*
 > 
 > -- John Makransky
+
+
+---
+
+> *Everyone thinks of changing the world, but no one thinks of changing himself.* --- Leo Tolstoy
 
 
 ---
