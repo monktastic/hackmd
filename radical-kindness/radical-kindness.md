@@ -1,128 +1,48 @@
-# Radical kindness (take 6.5)
+# Radical kindness (take 7)
 
-###### tags: `kindness`
-
-<details>
-<summary> 1.
-People are intrinsically good but <i>deeply</i> confused.
-</summary>
-
-\
-There is no scientific consensus on the fundamental nature of mind, but countless contemplative explorers report that when the mind is unconfused, it naturally desires the best for everyone.
-</details>
-
-
-<details>
-<summary> 2.
-This confusion appears to others as <i>evil</i>.
-</summary>
-
-\
-People desperately want to be free of suffering. Lacking insight into their minds, they often do (extremely) foolish things in hopes of respite. Externally, this confusion often appears indistinguishable from intentional malice.
-</details>
-
-
-<details>
-<summary> 3.
-Every time we see bad behavior, we have a choice to make: to recognize it as confusion or to see the person as bad.
-</summary>
-
-\
-The radical idea here is that *all* apparent evil is ultimately rooted in confusion. Sometimes we can see this, but often we can't. When we can't, we simply see a "bad person."
-
-The truth is, you don't actually need to understand the details of a particular person's confusion to have compassion for it. Simply understanding that confusion is ultimately the *only possible explanation* is enough for you to make the choice for compassion. But this understanding requires some insight.
-
-When a behavior is particularly egregious, we convince ourselves that it would be naive to see it as mere confusion. We tell ourselves that this would make us soft. But this isn't true; our response can still be as fierce as needed. There's a deeper reason that we choose to see people as bad, which we will address soon.
-</details>
-
-
-<details>
-<summary> 4.
-This choice either plants the seeds of compassion or malice.
-</summary>
-
-\
-Bring to mind various scenarios, starting with minor misbehaviors and working your way up. In each case, first imagine feeling "this person needs help" (in the compassionate sense, not the condescending one), and then tasting the contempt / condescension / malice / self-righteousness that accompanies seeing them as *bad*.
-
-In the former case, we hope to see people *relieved* of their confusion; in the latter, there is no such desire. In fact, we generally take pleasure in seeing such people get pushed further *into* confusion, as though they deserve it (for being bad). This is malicious.
-</details>
-
-
-<details>
-<summary> 5.
-Those seeds determine the ultimate impact of our words and actions.
-</summary>
-
-\
-People (friends, enemies, and bystanders alike) are *exquisitely* sensitive to our motives. Even when we're just ridiculing enemies amongst friends, our friends can sense whether we're being compassionate or malicious, and it subconsciously nudges their minds in one direction or the other.
-
-Our response to bad behavior therefore has effects far beyond the immediate physical ones. We can *mock* others with love or malice, and even [*shoot people* with love](https://www.snopes.com/fact-check/dalai-gun/) or malice. The intention has *far* greater ripple effects than we normally care to admit.
-
-This explanation may not be very convincing. In truth, seeing the full implications of your motivations requires deep insight and is hard to validate scientifically. But even without this insight, part of you will recognize some truth here if you reflect very honestly.
-</details>
-
-
-<details>
-<summary> 6.
-We frequently make the choice to see people as bad.
-</summary>
-
-\
-Our first instinct, when hearing about (or seeing) bad behavior, is to see the person as bad. Reflect on how *natural* this feels, and how much effort is required to overcome it. Notice how often we convince ourselves that it would be *wrong* to have compassion --- despite the fact that compassionate motivation doesn't preclude any particular action we might take to *stop* the bad behavior.
-</details>
-
-
-<details>
-<summary> 7.
-We <i>know</i> this choice leads to more darkness in the world.
-</summary>
-
-\
-Again, this one is hard to swallow without a particular insight. But at some point, it occurs to us that we *always knew* that we were creating evil in the name of good. We may have known it only subconsciously --- but now we see that "subconscious" is just a name for *conscious* aspects that we push out of view because they are too painful to confront head-on.
-
-The same mechanism that prevents us from acknowledging the darkness within us prevents us from recognizing that we are behaving this way. Knowingly creating evil sounds like something only a *bad* person would do, but remember: there are no "bad people." We do it out of confusion.
-</details>
-
-
-<details>
-<summary> 8.
-We do this because seeing darkness <i>outside</i> helps us overlook the darkness <i>inside</i>.
-</summary>
-
-\
-Part of us knows that there is darkness within us, and this terrifies us --- frequently to the point that we cannot admit that it even exists. Therefore we seek, exaggerate, and even project darkness outside, so that we don't have to confront it internally. As a result, compassion --- the desire to reduce darkness outside --- feels threatening. It's much "safer" to ensure that other people stay trapped in confusion, which is why it feels so good to (maliciously) mock our enemies.
-</details>
-
-
-<details>
-<summary> 9.
-Billions of people doing this is what keeps the cycle of suffering going.
-</summary>
-
-\
-One big way of being of service in the world is becoming aware of all the places we are adding to the darkness in the name of good. Because we consider it *good*, the explanation for why the world is so *bad* is always somebody else (have you noticed this?). So we accuse them, which only confirms to them that *we* are the problem, generating a vicious cycle that none of us is willing to break.
-
-The result of eight billion people doing this is the mess you see. Each of us has a piece to contribute to the puzzle, some undoubtedly larger than others. By healing our own issues, we begin to see how we can help others heal theirs, rather than adding more fuel to the fire like we have been.
-</details>
-
-
-<details>
-<summary> 10.
-Fixing this requires awakening to your intrinsic goodness.
-</summary>
-
-\
-I cannot justify scientifically the assertion that the nature of consciousness is intrinsic goodness, but I can confirm that it can be known concretely.
-    
-Learning to perceive this directly does several things. It enables us to perceive the same goodness in others, and to recognize their darkness as extrinsic. It empowers us to confront our own shadows, which in turn alleviates the need to project them outward. Perhaps most powerfully, it brings down our defenses, enabling us to see clearly how we have been active participants in this madness --- and crucially, graces us with the self-compassion to see that it's *not our fault*.
-
-This alone does not solve the problem, but it is a necessary first step.
-</details>
+Both meditation and psychedelics can trigger various kinds of awakenings. Below I discuss one that I think is of particular importance for the survival of humanity.
 
 ---
 
-Also see [quotes](https://hackmd.io/@monktastic/radical-kindness-quotes). I will reproduce the most powerful one here, from an online web forum (emphasis mine):
+Everything changes the moment you realize that what we perceive as *evil* is really just varying degrees of *delusion.* An undeluded mind naturally desires the best for everyone; people are, in this sense, *intrinsically* good. Healing the world therefore requires *alleviating* this delusion. How do we do this?
 
-> *My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
-> 
-> *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
+Delusion expresses itself through misbehavior. Such behavior is therefore a clear signal for where help is needed most. Unfortunately, we tend to have precisely the *opposite* reaction, which just ends up making the world *darker.* If humanity is to survive, this is the key mistake that must be corrected.
+
+Our first instinct when someone behaves badly is to see them as a *bad person.* This licenses us to treat them cruelly, such as with mockery or shaming. Deep down we know that this will probably only push them *further* into delusion, but our conscious minds find a way to dress it up as *good* or at least *necessary*.
+
+The problem is that everyone recognizes this as hypocrisy, even if only subconsciously. Our target becomes certain that *we're* evil, while bystanders and allies feel empowered to be more malicious themselves. It is as though the darkness within us is invisibly reaching out to ally with the darkness in everyone else---friends and enemies alike---so as to entrench itself more firmly in the world under the guise of *good*, thereby escaping our notice. This has profound long-term consequences that far outweigh any temporary positive effects.
+
+<div align="center">
+<img align="center" width=400 src="https://i.imgur.com/Wwc2sNk.png"/>
+</div>
+
+Upon awakening, this "dark alliance" becomes practically *palpable*. Astonishingly, you also discover that you somehow *always knew* that you were doing this, but cleverly hid it from your conscious mind. In retrospect, it feels exactly as though you were *possessed by evil* in those moments but didn't yet have the tools to recognize its insidious operation.
+
+What is the root cause of such possession?
+
+You could not yet see your own intrinsic goodness, so you were scared and ashamed of the dark aspects within you. It is impossible to overstate the lengths our minds will go to to keep our darkness hidden from us in this state. The primary mechanism is to *externalize* it. This means seeking it outside, exaggerating it outside, and projecting our *own* darkness outside. Crucially, it also means that *we must never suspect we are doing any of this* --- which makes writing this piece particuarly challenging.
+
+When we see others as evil, what we are really seeing is their inability to recognize *their* intrinsic goodness. The more evil they appear, the further buried *their* good is. Why is it buried? Because when it was nearer to the surface, other confused people (like us) chose to bury it deeper rather than being of service. Thus our darkness conspires with theirs to perpetuate itself.
+
+The only solution (that I know of) is to have a direct encounter with the fundamental goodness that is the very nature of your mind[^metaphysics]. When this happens, you simultaneously see it in everybody else, too. This suddenly lays bare the entire horrific enterprise and empowers you to finally do something about it.
+
+This does not mean you are out of the woods, by a long shot. It just means that you are beginning to recognize the telltale signs of possession in yourself and becoming capable of "combating its powerful suggestive effect[^Jung1]." And one surefire sign of possession is that *you are choosing to see somebody as bad.* 
+
+The corrective is to recognize them as *good but confused.* When that happens, it is as though the *goodness* in our minds is able to conspire with the goodness in theirs, so as to jointly drive out the darkness. Still, a few things ought to be said about this.
+
+Most importantly, it does not mean that we must tolerate their behavior or respond softly. Compassion does not prescribe or preclude any particular course of action. It is still possible to mock, shame, [or worse](https://www.snopes.com/fact-check/dalai-gun/) with kindness --- though we must be especially on guard for self-delusion in such cases.
+
+Also, sometimes a person is too far gone for us to have any hope of seeing any goodness (at our current level). I'm not sure any good comes of us forcing it or pretending. It is certainly possible for such a person to use our kindness against us, and sometimes the best we can do is to protect ourselves. Putting compassion into effective action requires *wisdom*, and that is certainly not gained overnight, awakening or not. It is the work of a lifetime, and beyond the scope of this piece.
+
+Nonetheless, awakening seems to be a very important first step. This is precisely what meditation was designed for, and what psychedelic medicines are demonstrating remarkable potential for. As more people are inoculated, the virulent cycle that perpetuates evil increasingly becomes unable to sustain itself. And it is difficult to see how humanity can survive without this happening.
+
+May all beings be happy. 🙏🏽
+
+(Also see [quotes](https://hackmd.io/yK1WOQ8oRVeKbLM6QzPX_Q).)
+
+[^Jung1]:
+    > *[T]he immunity of the nation depends entirely upon the existence of a leading minority immune to the evil and capable of combating the powerful suggestive effect. ... Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.*
+    
+[^metaphysics]:  I apologize if this language does not jibe with your conception of reality, but there is simply no better way to put it. This is  why the advancement of metaphysics is critical. Without recognizing the primacy of consciousness, such ideas must be shoehorned into our philosophy in a way that renders them impotent.
+
+###### tags: `kindness`
