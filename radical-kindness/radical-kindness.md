@@ -1,28 +1,96 @@
 
-There are times when you act against your own conscience. If you can understand what is going on in that state, you will come to appreciate the nature of _all_ evil --- which is a prerequisite for being able to effectively deal with the evil in others.
+> _Be kind, for everyone you meet is fighting a great battle..._ --- (Source unknown)
 
-Your conscience is a manifestation of your deepest nature. Although you are always able to hear it, you sometimes pretend not to. In a certain sense, all you _consciously_ hear are your own justifications for why you don't have to listen. _He deserves it --- he's a jerk!_ _The world has been cruel to me, so I deserve to take this little thing._ Etc.
+If you could inspect the very deepest layers of your mind, you would find that at the core is _pure Light_.
 
-The knowledge of your wrongdoing exists in a kind of limbo. You know _perfectly well_ what you're doing, and yet you have partitioned your mind in such a way that this knowledge --- or at least, its true significance --- is carefully shielded from conscious self-reflection. You didn't create this rift because you're a _bad person._ You originally did it out of fear; to avoid some kind of pain. And yet the resultant mind-split is _itself_ intrinsically painful. This pain must then _also_ be pushed out of conscious awareness, lest it alert you to your carefully orchestrated self-deception. You are now on the lam from your own Light.
+When you are close to your Light, you naturally behave in ways that brighten the world. You find clever ways to reunite others with _their_ Light. When dealing with evil, you are better able to perceive the countless causes and conditions that brought it into being, and find creative ways to heal or counteract them. You are able to do this without a trace of malice. Your methods don't necessarily _look_ anything like love or kindness as we commonly understand them, but that's what they actually are --- and you know this clearly.
 
-In this state, do you deserve _contempt_ for your evil and hypocrisy, or _compassion_ for the secret prison you've trapped yourself in? Regardless of what you deserve, consider what actually happens in each case.
+As you drift away from your Light, something quite different begins to happen: you start trying to _separate_ others from their Light. If this sounds _evil_ and like something you would never do, that's great: it's the first step in realizing just how insidious the process is.
 
-If someone were to self-righteously call you out, you would instantly perceive them as a threat --- even if (or _especially_ if) they were entirely correct according to your _own_ deepest judgement. Their nastiness just pushes you further into the dark; gives you newfound justification (and motivation) to act against your conscience in the future. You have just become a little more evil yourself, but it doesn't _feel_ like it. You instead feel self-righteous in return.
+It begins with the darkness impersonating your Light. It knows what you consider right and wrong, and it divides the world neatly into _those who have been wronged_ (the victims) and _those who are doing wrong_ (the perpetrators). It then makes a big display of being _really nice_ to the former and _really cruel_ to the latter. This way, it's totally clear that you're one of the _good guys_. But it has a secret agenda. Unlike the Light --- which uses wisdom and insight to _eliminate_ evil --- it leverages contempt and malice to create _more_ of it.
 
-On the other hand, some people seem to have the remarkable ability to encourage you to confront your own dishonesty in a way that isn't threatening. They may accomplish this through a variety of means that may be nice or not-so-nice, depending on what the circumstances call for. But even when their response is profoundly antagonistic to your apparent beliefs and aims, part of you can sense that they are somehow _allied_ with your deepest nature. Much as you might want to hate them, you will be unable.
+Part of you knows _perfectly well_ that treating people with contempt only pushes them further into the dark --- along with everyone who witnesses your unkindness, as well as _yourself_. This makes the world _darker_, and not by accident; it's the entire _mission_ of your darkness. Some part of you knows this clearly, yet you will find yourself curiously unable to consciously admit it. Instead, your mind will conjure up a completely compelling story about how your behavior is a net good; how you are only _fighting evil._ Your nominal "allies" will support this story to the degree that _their_ darkness is operating --- creating a sealed bubble of internal validation.
 
-Part of you can sense that the first person doesn't have your best interest at heart. And despite what they may say, they don't have the _world's_ best interest at heart, either. They are simply acting out their own darkness --- which means that they know _perfectly well_ that they are just making the world darker, even as they vigorously pretend _not_ to know. Their internal story is that they are only "fighting evil," which can never be wrong. What's actually happening is that their darkness is secretly _allying_ with yours, to create more of itself. The minds of everyone who witnesses this interaction are made darker as a result, too --- whether they can consciously detect it or not.
+Make no mistake: this behavior is _evil_, and the deepest part of you knows this. You wouldn't be doing it unless you were profoundly frustrated and felt you had no other choice. You don't really _want_ to be unkind, and if the world were a brighter place, you wouldn't have to. It's a horrible plight, and you deserve compassion for it, not judgement. But that's hard to come by in our world. Your enemies just instigate your darkness, and your "allies" also encourage it. This predicament creates cognitive dissonance. You really _are_ a good person, but your behavior is _evil_. Not by anyone else's standards, but by your own --- _if_ you were to inspect your mind carefully enough. And this is the trick the darkness uses to hide itself: by producing a compelling enough cover story, it can ensure you never _do_ inspect your mind carefully enough.
 
-This is the insanely clever mechanism by which evil spreads itself beneath the threshold of conscious awareness, all in the name of _good._ Each of us is vomiting our darkness in every direction, fully convinced that we are doing the right thing. But part of us knows that we're not.
+If someone were to self-righteously call you out for your obviously evil behavior --- and moreover, hypocrisy, since everyone can see that you know, even as you vigorously pretend not to --- you wouldn't sagely reflect on their advice and thank them for it. Your darkness would instantly frame them as an enemy --- even though they are right according to your _own_ deepest judgement. This would just give your darkness justification (and motivation) to express more of itself in the future --- which is exactly what it wants.
 
-The second person has, in some way or another, become wise to this game, and refuses to take part. One possible reason is that they've healed the split in their own mind. In this case, they will not be triggered by your darkness, and so there will be no desire to fire back. From this position, they are better able to perceive whatever it is that is keeping you from acting in alignment with your Light, and can find clever ways to work with it. It's also possible that they haven't fully healed themselves. In this case, they will still be triggered by you, but recognize their outrage and contempt for what they are: their darkness attempting to gain a foothold.
+Part of you can sense that the person doesn't have your best interest at heart. Actually, they don't have _anyone's_ best interest at heart in that moment, despite what their story is telling them. They are under the sway of their _own_ darkness. They are _knowingly_ pushing you further in while trying to get away with it --- which they will, because society agrees that "bad people" deserve malice. Although they are nominally your enemy, their darkness is actually _allied_ with yours to create more of itself.
 
-At some level, each of us recognizes the sense in which kindness is always the right motivation in every situation, with no exceptions. This has nothing to do with being _nice_, which evil can certainly exploit. True kindness can be as gentle or as fierce as needed to get the job done. It's impossible to say what kindness looks like from the _outside_, because it can take on almost any form whatsoever. Yet you always know from the _inside_. There will be no pleasure in inflicting harm, nor the slightest trace of contempt. If those are present, it's not your Light you are operating from, but your darkness. And the only thing your darkness is capable of doing is creating more of itself.
+Round and round this process goes, with each person's darkness triggering and reinforcing (almost) everyone else's, with everyone totally confident that they're being _righteous_. This is the clever trick the darkness uses to spread itself.
 
-Unfortunately, the further we get from our Light, the less we can admit to knowing this, and the harder it is to hear it from someone else. We are suspicious of their motivations. Are they telling us not to _fight evil_? Are they naive? Stupid? Evil? It therefore feels pointless or even counterproductive to write this piece. If what I have said is true, then the best thing I can do for you is to show you kindness, and not just talk about it. And yet there is something you can do for yourself.
+> _He who fights with monsters should take care lest he thereby become a monster._
+>  --- Nietzsche
 
-Under certain circumstances --- for example, under the guidance of a strong psychedelic trip, or perhaps on your deathbed if you're unlucky --- it is possible to have a direct encounter with your Light. Whatever tricks you use to deceive yourself and others simply will not fly here. Every nook and cranny of your mind will be laid bare and lit up with the power of a thousand blazing suns. You will discover, to your abject horror, how every single thing you harshly judged others for was present, in some form or another, in your own mind. That is _why_ you judged them --- to keep your attention facing outward. In a certain sense, all the darkness you see in the world is simply a projection of the darkness in your own mind. 
+Yet some people seem to have the remarkable ability to steer clear of this fiendish trap. When confronted with your darkness, instead of it triggering theirs, it somehow activates their _Light_. They encourage you to confront your own dishonesty in a way that isn't threatening. They may accomplish this through a variety of means that may be nice or not-so-nice, depending on the circumstances. But even when their behavior is profoundly antagonistic to your stated beliefs and aims, part of you can sense that they are somehow allied with your Light.
 
-But the Light is not here to _judge_ you for your hypocrisy. It's here to show you that you don't have to run anymore. You never did. You feared that your Light would smite you. You couldn't fathom a Love so profound that it wouldn't recoil even an _inch_ when gazing upon broken, sinful, little you; that it would Love you all the more for it. But --- _ta-da!_ --- here it is, living at the center of your very mind. As the astonishing power of Unconditional Love floods your entire being, you remember that this is all you ever wanted. It is also the greatest gift you have to offer others --- even though it will sometimes look _nothing at all_ like "love" as we commonly understand it.
+Though it may not _look_ like it on the surface, this is true kindness. You are being inoculated, and if you manage to stay healthy, you will contribute to _herd immunity_ from the dark. If we manage to achieve this, then _and only then_ will we be able to hash out our differences in a healthy and productive way. Until then, deadlock or war are the only possible outcomes.
 
-People are _unfathomably_ broken, and this brokenness manifests in all manner of surprising and horrific ways. The more broken, the more help they need, and yet the more _evil_ they look --- and so the more our _own_ darkness gets triggered, the more harm we wish upon them, and the more darkness we end up creating. It takes tremendous patience, courage, and wisdom to break through to the part of them that still wants (and deserves) redemption, but in the end, it is the only thing that works. And that makes it the most worthwhile goal of all.
+We each have the capacity to drift _disturbingly_ far into the dark before realizing that it has ensnared us. We are unlikely to notice it by ourselves (or with the help of our "allies"), because the further into the dark we go, the stronger its distortion field; the more flawlessly it convinces us that we're _right_. We find ourselves increasingly focused on our _ideas_ on how to fix the world, and drifting further from the one thing that actually _has_ this capability: our Light. The more this happens, the _exponentially_ greater the skill and wisdom needed to pull us out, and the more we resist it --- and yet the greater our relief and gratitude when someone (or something) finally does.
+
+Evil really is a problem, and it certainly won't be solved by our being _nice._ Sometimes unconventional methods like shame or even [violence](https://www.snopes.com/fact-check/dalai-gun/) may indeed be necessary. But if you haven't learned to be exquisitely sensitive to whether you are operating from your darkness or your Light, then you will just be unwittingly creating more evil even as you're convinced of your own good. If there is even a _trace_ of self-righteousness or any enjoyment from being unkind, your darkness will be leaking out in countless ways that continually escape your notice, and which you will be unwilling to acknowledge. Despite your consciously stated intentions, your behavior will secretly telegraph to allies and enemies alike that _confronting my darkness is scary; let us hide from the Light together._ It is impossible to overstate just how insidious this is. It must be seen to be believed.
+
+> _The road to hell is paved with good intentions_ --- Proverb
+
+One method for seeing it is to use entheogenic medicines in the appropriate setting. If all goes well, you will be forcefully confronted with what a profound hypocrite you've been. You will see that everything you harshly judge others for is present, in some way or another, within the recesses of your own mind. In fact, in a peculiar sense, the darkness "out there" is actually a _projection_ of the darkness "in here."
+
+You will find that reason you so eagerly seek out the darkness out there is to help you avoid noticing and dealing with your _own_. You discover that as you heal your own, you gain surprising insights into how to deal with others'. You perceive the very mechanism by which contempt and self-righteousness birth new evil, and how your kindness heals it. You are shown the myriad ways in which you've done both, and how they've each manifested in the world in ways you could never have fathomed from your simplistic view of reality. It becomes crystal clear that one of these paths leads to "heaven," and the other, "hell." Not just for you, but for all of us.
+
+If this all sounds hard to believe, well, it gets weirder. I want to share a section of a [poem](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) by Zen master Thich Nhat Hanh (which I recommend reading in its entirety):
+
+> I am the child in Uganda, all skin and bones,  
+> my legs as thin as bamboo sticks.  
+> And I am the arms merchant,  
+> selling deadly weapons to Uganda.
+>
+> I am the twelve-year-old girl,  
+> refugee on a small boat,  
+> who throws herself into the ocean  
+> after being raped by a sea pirate.  
+> And I am the pirate,  
+> my heart not yet capable  
+> of seeing and loving.
+>
+> I am a member of the politburo,  
+> with plenty of power in my hands.  
+> And I am the man who has to pay  
+> his “debt of blood” to my people  
+> dying slowly in a forced-labor camp.
+
+Just a poem, right? Here's Zen priest / punk rocker Brad Warner:
+
+> Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.
+>
+> But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.
+
+"Absolutely literally," he says! There's a very good reason that fictional pieces like Andy Weir's phenomenal [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI) tickle our funny bones. Some part of you _knows_ it's true, even if you can't presently make sense of it.
+
+Hence the Golden Rule. If _you_ were trapped so deeply in the dark that you appeared as evil as the people you presently hate, would you want to be pushed further in or pulled out? On one hand, once you're that far in, most of the layers of your mind will be _reveling_ in the evil, and would indeed have no interest in being "healed." Other people will take this as a clear signal that you neither want nor deserve any kindness --- and if there is even the slightest trace of darkness left in their mind, it will be thrilled to feast on such an easy target without (apparent) repercussion. That way, everyone gets to express their evil, and everyone gets to convincingly pretend that they're _not_[^Equalizer]. Hurray!
+
+[^Equalizer]: This is why revenge fantasy flicks like _The Equalizer_ or _Shooter_ are so popular. The "bad guys" are so obviously and one-dimensionally evil that they couldn't _possibly_ deserve any kindness. This activates our bloodlust in a way that few real-world situations can, and helps us feel even more justified in hiding from our Light. How do you think cops and soldiers end up with [tattoos of the Punisher logo](https://comicbook.com/marvel/news/police-wearing-punisher-skull-logo-during-protests-marvel-respon/)?
+
+But the very _deepest_ layer of your mind will be silently calling out, praying that there is still grace left in this world. Your Light can be buried, but it _cannot_ be extinguished. Once you're in that deep, only a Buddha or Jesus would have the clarity to consciously acknowledge your fading ember, let alone the wisdom to do anything useful about it, or the courage and strength to go spelunking for it through your maelstrom of darkness. Most of us are far from having such qualities --- and yet there is something deep within us that knows how to guide us in that direction. I would like to do a better job of following my Light, and I hope you'll be there to offer your own kindness when I stumble --- whether you're _nice_ about it or not.
+
+---
+
+> *Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.* --- Martin Luther King, Jr.
+
+> *If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being.* — Alexander Solzhenitsyn, The Gulag Archipelago
+
+> *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.*  ...
+>
+> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.*
+>
+> — Carl Jung
+
+> *My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
+>
+> *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
+>
+> (From an online forum.)
+
+---
+
+Also see this [page of quotes](https://hackmd.io/@monktastic/radical-kindness-quotes).
+
+###### tags: `kindness`
