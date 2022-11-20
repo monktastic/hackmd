@@ -3,21 +3,23 @@
 
 > _Be kind, for everyone you meet is fighting a great battle_ --- Unknown
 
-Most of us instinctively understand and appreciate this quote, but we find ourselves making exceptions. Some people's behavior is not due to any "great battle." They are knowingly _choosing_ to do wrong, and being kind would be foolish. Our political foes are an obvious example.
+We perceive others as morally inferior to us for a surprising reason: it's so that we can feel licensed to be unkind to them, which makes them _worse_, thus confirming our superiority.
 
-This is an insidious trap. If you start taking these exceptions seriously, you will find yourself making more and more of them --- until one day there are more exceptions than not. As this progresses, _you_ become that "exception" for more and more people, but you can't understand why. It must be that _they're_ evil. 
+We call this "fighting evil," but deep down we know that it only creates _more_. We carefully hide this knowledge from ourselves, because otherwise we would be forced to admit that we're not actually better than anyone.
 
-This should be a glaring clue as to what's really going on, but astonishingly, we can't see it. At some level we understand that this is the dark path that _every_ evil person has slid down, but we think we're somehow special --- and that's actually the root of the whole problem.
+Unfortunately, such self-deception is itself the clearest evidence that we're not, so we must hide that, too, leading to an ever-tightening noose of delusion that collapses in on itself like a black hole. Now, even the _suspicion_ that we may be trapped cannot make it to our consciousness.
 
-The dividing line between "good people" and "bad people" does not exist in reality. It exists only in your mind, and serves only one purpose: to provide your own malevolent urges with "fair game" to feast on. Of course, it doesn't _feel_ like that. It feels like we're being _righteous_; only _fighting evil._ But this is the entire trap: being evil _never_ feels wrong.
+This is the secret mechanism behind _all the evil there ever was_, and it would be great if we stopped empowering it. We can admit that we've messed up and don't want to hurt anyone anymore.
 
-We've all had the experience of doing something we know to be wrong while pretending that it's not. Part of our mind knows perfectly well what we're doing --- and doesn't want to be doing it --- while another part is pretending _not_ to know. The same is true of "bad people." They certainly know that they're doing wrong, but that knowledge --- or at least its true import --- is also carefully shielded from conscious self-reflection.
+Of course, you may actually _be_ better than others in a relative sense: perhaps you hold kinder views, or behave better. But in the absence of delusion, this never feels like cause for contempt; only kindness. You may fear that being kind to "bad people" is naïve, or a way to condone evil. But this fear is ultimately another form of the same trap; a trick to justify unkindness.
 
-In other words, they simultaneously _know_ and _don't_ --- just like you both know and yet somehow don't. You get to choose which side you empower, both in yourself and others. When you choose to empower your dark side, you are choosing to empower theirs. These two things always go hand-in-hand. It is as though reality is a mirror: when you punch it, it _always_ punches back. If enough of us punch the mirror, what we get is war. We're edging ever closer in the US now.
+Kindness does not have to be nice or gentle. It can be as fierce, wrathful, or perhaps even [violent](https://www.snopes.com/fact-check/dalai-gun/) as the situation warrants. But others can tell --- even if only subconsciously --- whether your behavior is rooted in Love or hate, and this ultimately makes all the difference. I cannot prove this to you, but luckily the deepest part of you already knows it.
 
-One trick our darkness uses to convince us of the necessity of unkindness is to misunderstand what kindness is. It is not about being _nice._ Kindness can be as fierce, wrathful, or perhaps even [violent](https://www.snopes.com/fact-check/dalai-gun/) as the situation warrants. But paradoxically, these can all be performed with genuine _love_ --- and this ultimately makes all the difference. I cannot convince you of this, but the deepest part of you already knows it.
+You may wonder why I'm telling you this, since I'm not remotely an exemplar of it myself. I don't quite know, but here's what I would like to see:
 
-It has been said that forgiveness is not so much for the other person as for yourself. The same is true of kindness. On the other hand, the mirror-like nature of reality makes it so that kindness for others ultimately _is_ kindness for yourself. May we swiftly realize this and stop punching the mirror. 
+It used to be that our evil could find an outlet in a wide range of people and beings: those with different skin colors, religions, etc. Over time, society has mercifully narrowed the set of acceptable targets, but one still remains: "bad people." It's the one group that everyone agrees deserves cruelty, despite our not remotely agreeing on its membership.
+
+Until this last gaping loophole is closed, we can expect the total evil in the world to keep rising, even as we all pretend not to have any complicity in it. Let's at least agree to close that last loophole, so that we can finally begin the long road of healing.
 
 ---
 
