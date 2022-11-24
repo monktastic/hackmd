@@ -1,25 +1,37 @@
 
 # Radical kindness
 
-> _Be kind, for everyone you meet is fighting a great battle_ --- Unknown
+> _Be kind, for everyone you meet is fighting a great battle._ --- Unknown
 
-We perceive others as morally inferior to us for a surprising reason: it's so that we can feel licensed to be unkind to them, which makes them _worse_, thus confirming our superiority.
+I have been carelessly spreading evil my whole life. I am not yet done. May this post serve as both a confession and a warning.
 
-We call this "fighting evil," but deep down we know that it only creates _more_. We carefully hide this knowledge from ourselves, because otherwise we would be forced to admit that we're not actually better than anyone.
+---
 
-Unfortunately, such self-deception is itself the clearest evidence that we're not, so we must hide that, too, leading to an ever-tightening noose of delusion that collapses in on itself like a black hole. Now, even the _suspicion_ that we may be trapped cannot make it to our consciousness.
+When you perceive someone as evil, and feel a twinge of hatred, malice, or even just the slightest contempt, you are experiencing your own evil. A mind that is free of evil simply does not perceive reality this way.
 
-This is the secret mechanism behind _all the evil there ever was_, and it would be great if we stopped empowering it. We can admit that we've messed up and don't want to hurt anyone anymore.
+If you accede to this perception, you are inviting your evil to further colonize your mind. From there, it will leak into the world, one way or another. It is completely inevitable. You will then disown any responsibility for its far-ranging consequences and come away further convinced of your own good.
 
-Of course, you may actually _be_ better than others in a relative sense: perhaps you hold kinder views, or behave better. But in the absence of delusion, this never feels like cause for contempt; only kindness. You may fear that being kind to "bad people" is naïve, or a way to condone evil. But this fear is ultimately another form of the same trap; a trick to justify unkindness.
+You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy --- or if not exactly them, then at least the rest of the world. Either way, it's a net good. Their recalcitrance only proves that they are beyond help.
 
-Kindness does not have to be nice or gentle. It can be as fierce, wrathful, or perhaps even [violent](https://www.snopes.com/fact-check/dalai-gun/) as the situation warrants. But others can tell --- even if only subconsciously --- whether your behavior is rooted in Love or hate, and this ultimately makes all the difference. I cannot prove this to you, but luckily the deepest part of you already knows it.
+This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ wash your hands of any complicity. They had free will, after all. You wring your hands at the sorry state of the world and vow to fight even harder.
 
-You may wonder why I'm telling you this, since I'm not remotely an exemplar of it myself. I don't quite know, but here's what I would like to see:
+Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality --- and the hierarchy of blame that scaffolds it --- would suddenly come crashing down. It is impossible to overstate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own mind --- but you suspect it, and do everything in your power to avoid it.
 
-It used to be that our evil could find an outlet in a wide range of people and beings: those with different skin colors, religions, etc. Over time, society has mercifully narrowed the set of acceptable targets, but one still remains: "bad people." It's the one group that everyone agrees deserves cruelty, despite our not remotely agreeing on its membership.
+But astonishingly --- and mercifully --- what lies on the other side is a glory so vast that it defies description. You discover that what you are at your innermost core is _pure unconditional love_; the force that gave birth to the universe itself. You honestly never wanted to hurt anyone --- and in your deepest being, never _could_ want to. That being so, what explains your behavior?
 
-Until this last gaping loophole is closed, we can expect the total evil in the world to keep rising, even as we all pretend not to have any complicity in it. Let's at least agree to close that last loophole, so that we can finally begin the long road of healing.
+The next part is even harder to describe. It can only be communicated by paradoxical metaphor, for which I can only apologize.
+
+At some point eons ago --- which is also right now --- the fear arose that you're _not_ really good. You projected this fear outward, thereby perceiving _others_ as bad. Having Bad People to vanquish provided a way to prove your own goodness. Unfortunately, it only induced the perception in them that _you_ were bad. Part of you could sense the truth in this accusation, thus intensifying your fear. Thus began an endless cycle of amplification, generating a hall of mirrors from which escape is nigh-impossible.
+
+You have been on the lam from your "original sin" ever since. Ironically, you are only running from your own Light. Somehow, you must be reminded of it. This is the grace you feel when others are kind to you --- especially when you don't seem to deserve it. Sometimes it comes in the form of tough love, and you don't realize its impact until later.
+
+The whole thing started off as an innocent misunderstanding, but it quickly spiraled out of control. Every single one of us is caught in this web of illusion, whether we know it or not. Mostly, we do not. Perceiving this clearly, it is _impossible_ not to be overcome by profound grief at the horrible irony of it all, and the overwhelming desire to be of service in ending the madness instead of mindlessly perpetuating it. You vow to shine the Light for others, even when they don't "deserve" it. But nobody could ever not deserve it. Not _really_.
+
+Alas, seeing this once is (generally?) not enough. The same message must be driven home repeatedly in different ways until we finally Get It. In case you're wondering, I have not.
+
+What you long for most deeply is to return Home. So does everybody else, even though it certainly doesn't look like that. It _can't_ yet look like it, by our mind's own clever design.
+
+The world does not need more contempt. What it needs most desperately is your fierce, uncompromising Love. It is the only way to guide yourself --- and all of us --- back home.
 
 ---
 
