@@ -13,21 +13,23 @@ When you perceive someone as evil, and feel a twinge of hatred, malice, or even 
 
 If you accede to this perception, you are inviting evil to further colonize your mind. From there, it will *inevitably* leak into the world, one way or another. You will then disown any responsibility for its far-ranging consequences and come away further convinced of your own good.
 
-You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy --- or if not exactly them, then at least the rest of the world. Either way, it's surely a net good. Their recalcitrance only proves that they are beyond help.
+You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy --- or if not exactly them, then at least the rest of the world. Either way, it's _surely_ a net good. Their recalcitrance just proves that you were right about them after all, and that your cruelty is justified.
 
-This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ wash your hands of any complicity. They had free will, after all. You wring your hands at the sorry state of the world and vow to fight even harder.
+This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ wash your hands of any complicity. They had free will, after all. Why didn't they simply choose to be better instead? You wring your hands at the sorry state of the world and vow to fight even harder.
 
-Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality --- and the hierarchy of blame that scaffolds it --- would suddenly come crashing down. It is impossible to overstate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own decisions to be unkind --- but you suspect it, and do everything in your power to avoid it.
+Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality --- and the hierarchy of blame that scaffolds it --- would suddenly come crashing down. It is impossible to communicate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own decisions to be unkind --- but you suspect it, and do everything in your power to avoid confronting it.
 
-But astonishingly --- and mercifully --- what lies on the other side of that hellish epiphany is a glory so vast that it defies description. You discover that what you are at your innermost core is _pure unconditional love_; the primordial principle that gave birth to the universe itself. You honestly never wanted to hurt anyone --- and in your deepest being, never _could_ want to. That being so, what explains your behavior?
+But astonishingly --- and mercifully --- what lies on the other side of that hellish epiphany is a glory so vast that it defies description. You discover that what you are at your innermost core is _pure unconditional love_; the primordial principle that gave birth to the universe itself. You honestly never wanted to hurt anyone --- and in your deepest being, never _could_ want such a thing.
+
+That being so, what explains your behavior?
 
 Somewhere along the line --- countless lifetimes ago, if you want to think of it that way --- there arose the fear that you might _not_ be good. You projected this fear outward, thereby perceiving _others_ as bad. This gave you something to vanquish to prove your own goodness beyond doubt. Unfortunately, it only induced the perception in them that _you_ were bad. Part of you could sense the truth in this accusation, thus intensifying your fear and making you project even harder. Thus began an endless cycle of amplification, resulting in a hall of mirrors that you can no longer even _suspect_ that you are trapped in.
 
-You have been on the lam from your "original sin" ever since. Ironically, you are only running from your own Light. Somehow, you must be reminded of your true nature. This is the grace you feel when others show you kindness --- especially when you don't "deserve" it. Sometimes it comes in the form of tough love, and you don't realize its impact [until later](https://www.youtube.com/watch?v=WrZbMXtDuNA).
+You have been on the lam from your "original sin" ever since. Ironically, you are only running from your own Light. Somehow, you must be reminded of your true nature. This is the grace you feel when others show you kindness --- especially when you don't "deserve" it. Sometimes it comes in the form of tough love, and you don't realize its impact [until much later](https://www.youtube.com/watch?v=WrZbMXtDuNA).
 
-The whole thing started off as an innocent misunderstanding, but it quickly spiraled out of control. Every single one of us is caught in this web of illusion, whether we know it or not. Mostly, we do not. Perceiving this clearly, it is _impossible_ not to be overcome by profound grief at the horrible irony of it all, and the overwhelming desire to be of service in ending the madness instead of mindlessly perpetuating it. You vow to unflinchingly hold the Light for others, even when --- _especially_ when --- they cannot perceive their own.
+The whole thing started off as an innocent misunderstanding, but it quickly spiraled out of control. Every single one of us is caught in this web of illusion, whether we know it or not. Mostly, we do not. Perceiving this clearly, it is _impossible_ not to be overcome by profound grief at the horrible irony of it all, and the overwhelming desire to be of service in ending the madness instead of mindlessly perpetuating it. You vow to unflinchingly hold the Light for others, even when --- _especially_ when --- they cannot hold it for themselves.
 
-Make no mistake: it would be crazy to pretend that evil does not exist, or that people do not act it out. They very much do, and it must be fought. But the crucial insight is that the evil is not intrinsic to their minds: that is just a trick your own mind uses to bury us all deeper into the maze. This one "small" change in perception changes absolutely everything.
+Make no mistake: people *do* act out evil, and it must be relentlessly fought. But the crucial insight is that the evil is not intrinsic to their minds: that is just a trick your _own_ mind uses to hide your own complicity from yourself, and only buries us all deeper into the maze. This one "small" shift in perception changes absolutely everything.
 
 I suspect it is not until we see just how badly we've been trapped --- without ever suspecting it --- that we discover the true meaning of compassion, and begin the long journey of healing.
 
@@ -35,7 +37,7 @@ Alas, seeing this once is (generally?) not enough. The same message must be driv
 
 What you long for most deeply is to return Home. So does everybody else, even though it certainly doesn't look like that. It _can't_ yet look like it, by your mind's own clever design.
 
-The world does not need more sanctimony and contempt. What it needs most desperately is your fierce, uncompromising Love --- whatever form that must take. Only you will know. It is the only way to guide yourself --- and all of us --- back home.
+The world does not need more sanctimony and contempt. What it needs most desperately is your fierce, uncompromising Love --- whatever form it takes. It may not look like "love" from the outside, but you will always know from the inside. It is the only way to guide yourself --- and all of us --- back home.
 
 ---
 
