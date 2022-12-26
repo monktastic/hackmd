@@ -318,7 +318,7 @@ class Quantum4(Scene):
         self.play(Transform(scratch, ind_group))
         self.wait(3)
 
-        # Notice how in some places, the red and green waves will cancel each other out --- like at positions 1 and 5.
+        # Notice how in some places, the red and green waves will cancel each other out — like at positions 1 and 5.
         # In other places, they will amplify each other like at positions 3 and 7.
         self.wait(15)
         self.play(Transform(scratch, sum_group))

@@ -27,13 +27,13 @@ Sometimes people think of such a measurement as "collapse of the wavefunction," 
 This apparent loss of superposition is called **decoherence**, and it happens almost instantaneously in any real-world setting. The superposition still technically exists, but the branches will now evolve independently of each other. Unfortunately, it is often wrongly described as the superposition _collapsing_
 [^decoherence]:
 
-> *If you simply stick a cat in a box and link its fate to the outcome of some quantum event, you’re not likely to put it in a superposition of alive and dead, because decoherence will almost instantly **force it into one state or the other**.* --- A physics Ph.D. writing for [Quanta Magazine](https://www.quantamagazine.org/real-life-schrodingers-cats-probe-the-boundary-of-the-quantum-world-20180625/)
+> *If you simply stick a cat in a box and link its fate to the outcome of some quantum event, you’re not likely to put it in a superposition of alive and dead, because decoherence will almost instantly **force it into one state or the other**.* — A physics Ph.D. writing for [Quanta Magazine](https://www.quantamagazine.org/real-life-schrodingers-cats-probe-the-boundary-of-the-quantum-world-20180625/)
 
 It is not "forced" into anything. The dead cat and live cat branches cannot _interfere,_ but this is not at all the same thing as saying that they don't _exist_. Everything we know tells us that they do. It may be effectively impossible to prove this, but the word "effectively" is often quietly dropped:
 
 >  Interference demands a precise alignment of the quantum states, and once we lose information into the environment that becomes **impossible**. That’s decoherence. ... the difference between the two branches has diffused into the environment and is lost there **forever**.
 > 
-> --- Caltech physicist [Sean Carroll](http://www.preposterousuniverse.com/blog/2014/06/30/why-the-many-worlds-formulation-of-quantum-mechanics-is-probably-correct/)
+> — Caltech physicist [Sean Carroll](http://www.preposterousuniverse.com/blog/2014/06/30/why-the-many-worlds-formulation-of-quantum-mechanics-is-probably-correct/)
 
 Lest you think I am nitpicking, here's [Leonard Susskind](https://youtu.be/iNgIl-qIklU?t=3m4s), father of string theory:
 
@@ -62,16 +62,16 @@ Instead, what happens is that _you_ eventually become entangled with it. At this
 
 On one hand, this shouldn't be surprising: it is just saying that there is a result _for you_ when the system entangles with _you_. That's a tautology, given the rules as we know them. Indeed, from the perspective of _any_ of the particles in the chain, the "collapse" happens precisely when _it_ becomes entangled. And from a "God's-eye" view, you have merely joined the superposition, just like the other particles. In this sense, you are in fact not special. 
 
-On the other hand, you cannot actually take a "God's-eye" perspective, or _any_ perspective other than your own --- and from _that_ perspective, you are indeed "special." Not in a merely philosophical sense, but in a physically meaningful (if presently impossible to prove) one. **You** are the point at which quantum events suddenly obtain definite results in "your world" --- i.e., the place you know as "the" world. This is not a mystical interpretation, but the most straightforward reading of the theory.
+On the other hand, you cannot actually take a "God's-eye" perspective, or _any_ perspective other than your own — and from _that_ perspective, you are indeed "special." Not in a merely philosophical sense, but in a physically meaningful (if presently impossible to prove) one. **You** are the point at which quantum events suddenly obtain definite results in "your world" — i.e., the place you know as "the" world. This is not a mystical interpretation, but the most straightforward reading of the theory.
 
 And what does "you" mean here? After all, you can treat your big toe as just another external physical device. As you work your way back, you will find yourself closing in on _your consciousness_[^consciousness].
 
-This is the same punchline that the founders discovered long ago, and that we have been desperately --- but unsuccessfully --- trying to avoid ever since.
+This is the same punchline that the founders discovered long ago, and that we have been desperately — but unsuccessfully — trying to avoid ever since.
 
 As Eugene Wigner said all the way back in 1963:
 
 > *This [reduction of the quantum state] takes place whenever the result
-of an observation enters the consciousness of the observer --- or, to be even more painfully precise, my own consciousness, since I am the only observer, all other people being only subjects of my observations.*  ...
+of an observation enters the consciousness of the observer — or, to be even more painfully precise, my own consciousness, since I am the only observer, all other people being only subjects of my observations.*  ...
 >
 > *However, to deny the existence of the consciousness of a friend to this
 extent is surely an unnatural attitude, approaching solipsism, and few
@@ -85,9 +85,9 @@ Lest you think I am alone in making this connection:
 > ...
 >  *Quantum mechanics kind of has an all-embracing property, that to completely make sense it has to be applied to everything in sight, including ultimately, the observer. But trying to apply quantum mechanics to ourselves makes us extremely uncomfortable. Especially because of our consciousness, which seems to clash with that idea. So we’re left with a disquiet concerning quantum mechanics, and its applications to the universe. And I do not believe that disquiet will go away. If anything, I suspect that it will acquire new dimensions; new aspects.*
 >
-> --- [Edward Witten](https://youtu.be/hUW7n_h7MvQ?t=129), a physicist so overpoweringly brilliant that his fellow string theorists call him ["smarter than anyone else"](http://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all) and "head and shoulders above the rest."
+> — [Edward Witten](https://youtu.be/hUW7n_h7MvQ?t=129), a physicist so overpoweringly brilliant that his fellow string theorists call him ["smarter than anyone else"](http://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all) and "head and shoulders above the rest."
 
-[^consciousness]: To be clear, "consciousness" cannot refer to our usual, commonsense definition. For example, suppose different colored lights turn on depending on whether the Cat lives or dies. Furthermore, suppose you don't know which light is which --- in fact, you don't even realize that the lights signify anything at all. Maybe you only catch a glimpse from the corner of your eye. By any reasonable account, you are _profoundly_ entangled with the system, even though you are not "conscious" of it in the usual sense.
+[^consciousness]: To be clear, "consciousness" cannot refer to our usual, commonsense definition. For example, suppose different colored lights turn on depending on whether the Cat lives or dies. Furthermore, suppose you don't know which light is which — in fact, you don't even realize that the lights signify anything at all. Maybe you only catch a glimpse from the corner of your eye. By any reasonable account, you are _profoundly_ entangled with the system, even though you are not "conscious" of it in the usual sense.
 
 ## Quantum biology
 

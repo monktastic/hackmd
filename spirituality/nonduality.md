@@ -1,8 +1,8 @@
 # Emptiness, no-self, and nonduality
 
-Teachings on the nondual nature of consciousness can be broken into stages of realization. Each stage is so profound that it feels unmistakably final. Moreover, the very nature of these insights is such that it provides one with a ready-made argument against even the _possibility_ of further progress. It often sounds something like this: "_I am Pure Consciousness; ideas of gain and loss can find no footing here_," or the rhetorical "_to whom does this dualistic idea of 'stages' occur?_"
+Teachings on the nondual nature of consciousness can be broken into stages of realization. Each stage is so profound that it feels unmistakably final. Moreover, the very nature of these insights is such that they provide one with a ready-made argument against even the _possibility_ of further progress: "_I am Pure Consciousness; ideas of gain and loss can find no footing here_," or the rhetorical "_to whom does this dualistic idea of 'stages' occur?_" Particularly between Stages 2 and 3, one often hears "that is just sectarianism; stop splitting hairs."
 
-This makes it essential to have a full map ahead of time. Otherwise, there is not only the very real risk of getting stuck for decades (or lifetimes), but also of spreading one's misunderstanding to many others. These risks are not merely hypothetical, but indeed very common in the spiritual scene today (as we shall see).
+As a result, there is not only the very real risk of getting stuck for decades (or lifetimes), but also of spreading one's misunderstanding to many others. These risks are not merely hypothetical, but indeed very common in the spiritual scene today (as we shall see). This makes it essential to have a full map ahead of time.
 
 This piece is meant to be (part of) such a map. These are not my original ideas. I am deeply indebted to [Soh Wei Yu and John Tan](http://www.awakeningtoreality.com/) (and [their community](https://www.facebook.com/groups/AwakeningToReality)) for tirelessly sharing these insights. Numerous serious practitioners have found them invaluable, and I hope you will, too.
 
@@ -10,7 +10,7 @@ This piece is meant to be (part of) such a map. These are not my original ideas.
 
 This piece focuses on the teachings of nonduality, which are common to both Mahayana Buddhism and Advaita Vedanta (amongst others). Most of Theravada Buddhism does not take this route (and in fact often criticizes it), and in a separate piece we address whether it arrives at the same result. 
 
-Because the Mahayana literature appears to have the most examples of the highest stage(s), we will use its perspective here. Nonetheless, it should be noted that there exist Mahayana lineages whose teachings do _not_ express the highest realization.
+Because the Mahayana literature appears to have the most examples of the highest stage(s), we will use its perspective here. Nonetheless, it should be noted that there also exist Mahayana lineages whose teachings do _not_ presently express the highest realization.
 
 Two core tenets of Buddhism are useful to explain briefly at the outset. The doctrine of **no-self** (*anatta*) contradicts the apparently self-evident fact of there being an independently existing self (or Self). The tenet of **emptiness** (*sunyata*) goes even deeper, extending this truth of essencelessness to absolutely everything. Both doctrines are frequently misunderstood, as we shall see.
 
@@ -20,22 +20,22 @@ Two core tenets of Buddhism are useful to explain briefly at the outset. The doc
 
 ### Stage 0: Pre-realization
 
-At the start of the spiritual search, the practitioner feels completely identified with the body and mind. When there are happy thoughts, the practitioner "is" happy. When there are sad thoughts, the practitioner "is" sad. Whatever the contents of the mind, the practitioner feels identical to, or identified with, them. Therefore, the goal appears to be to calm the mind --- because when my *mind* is calm, *I* am calm.
+At the start of the spiritual search, the practitioner feels completely identified with the body and mind. When there are happy thoughts, the practitioner "is" happy. When there are sad thoughts, the practitioner "is" sad. Whatever the contents of the mind, the practitioner feels identical to, or identified with, them. Therefore, the goal appears to be to calm the mind — because when my *mind* is calm, *I* am calm.
 
 ### Stage 1: I AM
 
 The practitioner becomes aware of an aspect of herself that's deeper and more fundamental than her thoughts. She notices that even when there are no thoughts, her *consciousness* is still present. Moreover, when thoughts return, her consciousness isn't sullied by them. It is more like a passive observer, allowing the contents of mind to freely come and go.
 
-When realized in its fullness, there is a major paradigm shift, both regarding her self-identity and the very nature of reality. Pure consciousness is seen to be the One Real Thing, and she is That. The contents of consciousness --- which include not just thoughts but all sensory perception, and therefore the whole world --- are illusory and extraneous. Some call this God.
+When realized in its fullness, there is a major paradigm shift, both regarding her self-identity and the very nature of reality. Pure consciousness is seen to be the One Real Thing, and she is That. The contents of consciousness — which include not just thoughts but all sensory perception, and therefore the whole world — are illusory and extraneous. Some call this God.
 
-> *You are forever pure, you are forever true, and the dream of this world can never touch you.
-> So give up your attachment; give up your illusion; and fly to that space that's beyond all illusion.* --- Shimshai
+> *You are forever pure, you are forever true, and the dream of this world can never touch you.<p/>
+> So give up your attachment; give up your illusion; and fly to that space that's beyond all illusion.* — Shimshai
 
 This is called "nonduality" because for the first time, it is not that _I_ recognize consciousness, but consciousness recognizes _itself_.
 
 ### Stage 2: One Mind
 
-The first stage is fundamentally alienating: the contents of her experience --- i.e., her entire life --- are intrinsically *foreign* to her, and so she can never be truly intimate with them. Nonetheless, this state feels so much freer than before that she overlooks this "minor" detail. Moreover, it is so obviously _ultimate_ that there's no reason to look further.
+The first stage is fundamentally alienating: the contents of her experience — i.e., her entire life — are intrinsically *foreign* to her, and so she can never be truly intimate with them. Nonetheless, this state feels so much freer than before that she overlooks this "minor" detail. Moreover, it is so obviously _ultimate_ that there's no reason to look further.
 
 Although it feels like emotions are being incorporated (by being *allowed* in the space of awareness), this is actually a form of avoidance. You are pure; they are not, and they can "never touch you." Deep emotional issues thus never get resolved, and so they recur with increasing intensity, forcing the practitioner to recede further back into the depths of "pure" consciousness for refuge.
 
@@ -78,11 +78,15 @@ Here we see a glimpse of why practitioners of Mahayana Buddhism and Advaita Veda
 
 ### Stage two
 
+Again, the distinguishing feature of Stage 2 is the idea of a universal principle from which all else springs; of which all else is made; to which all returns. It is the One Special Thing and therefore deserves a special name.
+
+> _The world is illusory, Only Brahman is real, Brahman is the world._ — Sri Ramana Maharshi
+
 Author Sam Harris:
 
 > [T]he duality collapses when you recognize that the contents are, in some basic sense, made of consciousness. ... [T]he claim [...] is often made that consciousness in some sense **transcends** its content... it does; it's the **prior condition** of anything that's appearing, but anything that does in fact appear is also of a piece with whatever consciousness is in itself.
 
-Notice marker words like "prior" and "transcends." Mind is like an empty container that hosts ever-changing contents. This gives rise to a very common misinterpretation of _emptiness_.
+Harris is not making a metaphysical claim here, but experientially, consciousness is _prior to_ and _transcends_ its contents in the same way that Brahman transcends the world. In this way, it is conceptualized as a sort of empty space in which things manifest.
 
 Harris again:
 > If I were a Hindu, I might think in terms of Brahman, the eternal Self, of which the world and all individual minds are thought to be a mere modification. If I were a Buddhist, I might talk about the “dharmakaya of **emptiness” in which all apparent things manifest**.
@@ -110,9 +114,9 @@ Teacher Rob Burbea:
 
 > So in technical language, we can say emptiness is the realization that nothing whatsoever – nothing – has any what we call ‘inherent existence,’ any independent existence.
 
-In Buddhism, absolutely everything --- including *consciousness* --- is "empty." Not in the sense of being *devoid of content*, but in the (admittedly unusual) sense of *not having inherent existence*. In particular, "consciousness" is not the container or Self that it so clearly seems to be.
+In Buddhism, absolutely everything — including *consciousness* — is "empty." Not in the sense of being *devoid of content*, but in the (admittedly unusual) sense of *not having inherent existence*. In particular, "consciousness" is not the fundamentally existent background or principle it so clearly seems to be in this stage.
 
-The other common mistake at this stage is to believe that this is what the Buddha meant by *anatta*, because the *individual* self is seen through in favor of a universal Self.
+The other common mistake is to believe that this is what the Buddha meant by *anatta*, because the *individual* self has been seen through in favor of a universal Self.
 
 Harris:
 
@@ -121,7 +125,7 @@ Harris:
 [Blackstone](https://www.youtube.com/watch?v=Tyb5_kqNXB8):
 > So instead of "I am Judith" and "I am a teacher" [...] we have this experience, this nonverbal experience, which we can say is no-self because it's not that [...] autobiographical self. But there is this **underlying experience** and **we could call it Self**, we can call it no-self, I don't think it matters.
 
-But it is this very sense of an "underlying experience" --- and not what we call it --- that is the core illusion.
+But it is this very sense of an "underlying experience" — and not what we call it — that is the core illusion.
 
 Kastrup (emphasis his):
 > People think that in Buddhism there is no self, but actually what is really meant is that there is no *individual*, stand-alone self.
@@ -136,16 +140,42 @@ But this idea of a Universal Self was already well-known at the time of the Budd
 
 ### Stage 3
 
-Zen master Thích Nhất Hạnh (*[The Buddhist Understanding of Reality](https://www.mindfulnessbell.org/archive/2015/01/dharma-talk-the-buddhist-understanding-of-reality-2)*):
-> Without subject, there is no object; **without object, there is no subject**. They manifest at the same time. ... **[T]he notion of a permanent consciousness is illusion, not reality**.
+We normally walk around with the (mostly unconscious) assumption that the world we experience — this collection of sights, sounds, smells, etc. — is "backed" by a real world "out there." When Stage 2 is realized in its full depth, we see that our experienced world and our ideas of any notion of a "real world" behind it are made of the same fundamental principle (Awareness or Brahman).
 
-This is what it means to say that consciousness is "empty." Not that it is devoid of _content_, but of _intrinsic, standalone existence_ --- and yet somehow, this doesn't prevent it from spontaneously manifesting in all its unquestionable glory. This may sound like a minor detail, but the difference is Heaven and Earth. It is only _after_ one stops grasping at a subtle essence that one discovers one was still grasping.
+Put into words, this realization is not very profound: sure, our _ideas_ of a real world are made of consciousness, but obviously that doesn't preclude there _being_ a real world outside of consciousness. What we cannot see is that the mind is playing a very subtle trick here around distinctions like real and unreal; inside and outside; etc.
+
+It is impossible to overstate the astonishment that occurs once this trick is seen through. We suddenly discover that we've been overlooking the impossibly wondrous glory right under our noses in favor of an abstract principle we ironically called "reality." Consciousness is the realest possible thing. Even when it is unmanifest, it lies in wait, ready to express itself as the cosmos.
+
+Stage 3 is even more radical. _Time itself_ is seen through, so there can be no "prior condition." When past and future disappear, so does "the present" — that word being only a signifier to differentiate it from other possible times. In the same way, concepts like "Awareness" and "Self" evaporate, since there's nothing left to contrast them with. There is just _this._
+
+This isn't just a semantic trick: the experience is _vastly_ different from Stage 2; like heaven and earth. Whereas before one had a reliable touchstone, now one is hurtling through _pure paradox_. Far from being nihilistic or life-denying, it is _miraculous beyond description_; as though one has front-row seats to the greatest story ever told: a seeming-something-from-nothing magic trick that never began and yet never lets up.
+
+Nonetheless, practitioners at Stage 2 are often unable to even consider this as a possibility, since now all ideas are "just another manifestation of Awareness." The notion of a fixed God is the hardest of all to give up — though one could certainly be forgiven for repurposing that word to describe this wonder of wonders.
+
+To get a taste of how hard it can be to differentiate Stage 2 from Stage 3 from the written word, consider this Stage 2 insight from Ken Wilber:
+
+> ... all subjects and all objects have disappeared. The mountain is still the mountain, but it is not an object being looked at, and I am not a separate subject staring at it. Both I and the mountain arise in simple, ever-present awareness, and we are both set free in that clearing, we are both liberated in that nondual space, we are both enlightened in the opening that is ever-present awareness.
+
+Now compare it with this Stage 3 description from Zen master Thích Nhất Hạnh (*[The Buddhist Understanding of Reality](https://www.mindfulnessbell.org/archive/2015/01/dharma-talk-the-buddhist-understanding-of-reality-2)*):
+> Without subject, there is no object; without object, there is no subject. They manifest at the same time. ... **[T]he notion of a permanent consciousness is illusion, not reality**.
+
+Both quotes say that subject and object are temporary illusions. But the former talks about this happening within an "ever-present awareness," while the latter says that any such "permanent consciousness" is actually an illusion. The difference cannot be overstated.
+
+This is what it means to say that consciousness is "empty." Not that it is devoid of _content_, but of _intrinsic, standalone existence_ — and yet somehow, this doesn't prevent it from spontaneously manifesting in all its undeniable glory. 
 
 [The Royal Seal of Mahamudra](https://www.amazon.com/Royal-Seal-Mahamudra-Realization-Coemergence/dp/1559394374):
 
 > All phenomena of **subject and object** are unoriginated, nonabiding, and unceasing. To know this crucial point and to have the experience and conviction born from deep within that they are **devoid of true essence or nature** is what, at this point, should be defined as vipashyana [insight].
 
-Practitioners at this stage generally eschew terms like "Awareness," since it hints at a true essence. Unfortunately, attaining this stage seems to be rare, even within the Buddhist community.
+[Rob Burbea](http://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html):
+
+> The Buddha in a lovely quote, said, “Consciousness, when examined, is empty, void, without substance.” Now if we just stop the quote there, that could sound like the vast, spacious, insubstantial awareness. But he doesn't finish there. He goes on to say, “Like a magician’s trick, like an illusion.” In other words there’s some hocus pocus going in the mind, and baadaabim baadaaboom – there’s awareness. And it’s a trick. It doesn’t actually exist as something real. Consciousness, the Buddha says, is like a magician’s trick, like an illusion, and in the formal Dharma language, it lacks inherent existence.
+
+And:
+
+> [O]bjects depend on the mind, so they’re empty, and the mind or consciousness or awareness depends on object so that is empty too, because it’s depending on something that’s empty. ... This groundlessness, this emptiness, this lack of independent existence of Awareness, rather than being a kind of conundrum or a complication, is actually the insight that brings the deepest level of freedom.
+
+This, just this, is the end of suffering.
 
 ---
 
@@ -174,7 +204,7 @@ AtR interprets what happened like so:
 
 > As for whether I AM phase can be bypassed, the answer is yes, but one will tend to overlook certain aspects. For example Daniel Ingram’s [book] Mastering the Core Teachings of the Buddha does not go through I AM (…) before the fourth path, however, as [John Tan] wrote in 2009, “… I think what lacks in the approach of MCTB is an effective way to allow practitioners to have adequate experience of the vividness, realness and presence of Awareness and the full experience of these qualities in the transience.” … This is also the reason why Daniel needed to go through Actual Freedom practice to bring out the luminosity aspect further even though he had certain insights into anatta in MCTB 4th path.
 
-In other words, even if one does not progress through the stages of nonduality as described as above, one must ultimately find a way to integrate the same insights --- in particular, the radical aliveness at the heart of reality --- to avoid falling into nihilism.
+In other words, even if one does not progress through the stages of nonduality as described as above, one must ultimately find a way to integrate the same insights — in particular, the radical aliveness at the heart of reality — to avoid falling into nihilism.
 
 Could vipassana practice be enough? Ingram is asked this question [here](https://www.dharmaoverground.org/discussion/-/message_boards/message/11355316):
 

@@ -1,10 +1,10 @@
 > *I suspect that a substantial majority of physicists who use quantum mechanics in their everyday work are uninterested in or downright hostile to attempts to understand the quantum measurement problem.*
 >
-> --- Caltech physicist Sean Carroll
+> — Caltech physicist Sean Carroll
 
 >  Interference demands a precise alignment of the quantum states, and once we lose information into the environment that becomes **impossible**. That’s decoherence. ... the difference between the two branches has diffused into the environment and is lost there **forever**.
 >
-> --- Caltech physicist [Sean Carroll](http://www.preposterousuniverse.com/blog/2014/06/30/why-the-many-worlds-formulation-of-quantum-mechanics-is-probably-correct/)
+> — Caltech physicist [Sean Carroll](http://www.preposterousuniverse.com/blog/2014/06/30/why-the-many-worlds-formulation-of-quantum-mechanics-is-probably-correct/)
 
 
 > *I think Copenhagen is completely ill-defined, and shouldn’t be the favorite anything of any thoughtful person*
@@ -18,7 +18,7 @@
 ---
 
 > *This [reduction of the quantum state] takes place whenever the result
-of an observation enters the consciousness of the observer --- or, to be even more painfully precise, my own consciousness, since I am the only observer, all other people being only subjects of my observations.*
+of an observation enters the consciousness of the observer — or, to be even more painfully precise, my own consciousness, since I am the only observer, all other people being only subjects of my observations.*
 >
 > ...
 >
@@ -26,15 +26,15 @@ of an observation enters the consciousness of the observer --- or, to be even mo
 extent is surely an unnatural attitude, approaching solipsism, and few
 people, in their hearts, will go along with it.*
 > 
-> --- Eugene Wigner
+> — Eugene Wigner
 
 ---
 
-> *Most physicists think today that a measurement is an interaction with some apparatus. It has nothing to do with whether you or someone else looks at the result, or whether you tell someone about it.* --- Physicist [Sabine Hossenfelder](https://youtu.be/v1wqUCATYUA?t=218)
+> *Most physicists think today that a measurement is an interaction with some apparatus. It has nothing to do with whether you or someone else looks at the result, or whether you tell someone about it.* — Physicist [Sabine Hossenfelder](https://youtu.be/v1wqUCATYUA?t=218)
 
 ---
 
-> *If you simply stick a cat in a box and link its fate to the outcome of some quantum event, you’re not likely to put it in a superposition of alive and dead, because decoherence will almost instantly force it into one state or the other.* --- A physics Ph.D. writing for [Quanta Magazine](https://www.quantamagazine.org/real-life-schrodingers-cats-probe-the-boundary-of-the-quantum-world-20180625/)
+> *If you simply stick a cat in a box and link its fate to the outcome of some quantum event, you’re not likely to put it in a superposition of alive and dead, because decoherence will almost instantly force it into one state or the other.* — A physics Ph.D. writing for [Quanta Magazine](https://www.quantamagazine.org/real-life-schrodingers-cats-probe-the-boundary-of-the-quantum-world-20180625/)
 
 ---
 

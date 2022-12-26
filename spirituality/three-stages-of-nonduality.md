@@ -5,7 +5,7 @@ What may be less clear is that there are distinct _degrees_ or _stages_ of nondu
 
 Not only is there a risk of getting stuck in this way, but there is the all-too-common phenomenon of assuming the role of teacher and spreading one's misunderstanding to many others. Therefore it is my wish that such knowledge become more widely available.
 
-To be clear, this is not my original idea. I am deeply indebted to the work of practitioner Soh Wei Yu and the loose community of practitioners that have come together around it --- many of whom have also expressed profound gratitude to have discovered work that synthesizes (and categorizes) many related teachings.
+To be clear, this is not my original idea. I am deeply indebted to the work of practitioner Soh Wei Yu and the loose community of practitioners that have come together around it — many of whom have also expressed profound gratitude to have discovered work that synthesizes (and categorizes) many related teachings.
 
 Although the idea of nonduality appears in many spiritual teachings, this piece takes a specifically Buddhist perspective.
 
@@ -19,7 +19,7 @@ In brief, there are three levels:
 
 There are levels of realization beyond stage 3, and also ways to subdivide these stages further, but we will mostly limit ourselves to these here.
 
-----
+—-
 
 
 

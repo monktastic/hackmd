@@ -6,4 +6,4 @@ Learning to be kind is a civic duty: you are contributing to our species' herd i
 
 This is why Carl Jung said:
 
-> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* --- Carl Jung
+> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* — Carl Jung

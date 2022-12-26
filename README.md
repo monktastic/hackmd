@@ -31,4 +31,4 @@ The ground of reality is intrinsically conscious, and you are That. There is a s
 * [Why idealism?](philosophy/why-idealism.md)
 * [Life is miraculous](philosophy/life-is-miraculous.md). Literally.
 
----
+—

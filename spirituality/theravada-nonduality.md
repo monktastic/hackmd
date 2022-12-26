@@ -4,7 +4,7 @@ Buddhism can be roughly split into the Theravada and Mahayana. The Theravada sch
 
 Because much of the literature on nonduality expresses Stage 2 insight (which posits a Self), Theravadins have good reason to be wary of it. On the other hand, Stage 3 does away with all traces of self/Self, making it consistent with the Buddha's insight of _anatta_. Moreover, there are aspects of Stage 3 insight that are easy to overlook unless one has had significant experience with the self-inquiry practices that lead to Stage 1.
 
-In particular, it is easy to overlook the radiant, spontaneously-creative, radically alive nature of experience --- aspects that are first awakened in Stage 1, but mistaken for a Self or God. As a result, some practitioners may miss out on discovering the primordial joy that is ultimately seen to be what initiated the spiritual path (and drives its apparent progress) in the first place.
+In particular, it is easy to overlook the radiant, spontaneously-creative, radically alive nature of experience — aspects that are first awakened in Stage 1, but mistaken for a Self or God. As a result, some practitioners may miss out on discovering the primordial joy that is ultimately seen to be what initiated the spiritual path (and drives its apparent progress) in the first place.
 
 Some modern practitioners have found ways to integrate the two. Before we take a look at an example, let's take a high-level look at the extant Theravada lineages.
 
@@ -18,7 +18,7 @@ Vipassana instructions from the U Ba Khin / S.N. Goenka tradition (of which the 
 
 > Move your attention systematically from head to feet and from feet to head, observing in order each and every part of the body by feeling all the sensations that you come across. Observe objectively; that is, remain equanimous with all the sensations that you experience, whether pleasant, unpleasant or neutral, by appreciating their impermanent nature.
 
-Notice how the focus is on *sensations* --- that is, particular *contents* of perception. This is in contrast to Mahayana practices 
+Notice how the focus is on *sensations* — that is, particular *contents* of perception. This is in contrast to Mahayana practices 
 
 ### Burmese (Mahasi)
 
@@ -35,7 +35,7 @@ There are a variety of Thai forest sub-lineages, but we will focus on instructio
 
 > This is what we call separating the mind from the feeling. If we are clever we don’t attach, we leave things be. We become the ‘one who knows’. The mind and feeling are just like oil and water; they are in the same bottle but they don’t mix. Even if we are sick or in pain, we still know the feeling as feeling, the mind as mind. We know the painful or comfortable states but we don’t identify with them. We stay only with peace: the peace beyond both comfort and pain.
 
-Notice that these instructions differ from the previous two in that they are not focused purely _outwardly_, but on the mind itself --- "the one who knows." In this way, they are not (traditional) vipassana, but are more similar to Mahayana practices.
+Notice that these instructions differ from the previous two in that they are not focused purely _outwardly_, but on the mind itself — "the one who knows." In this way, they are not (traditional) vipassana, but are more similar to Mahayana practices.
 
 ---
 
@@ -94,7 +94,7 @@ AtR interprets what happened like so:
 
 > As for whether I AM phase can be bypassed, the answer is yes, but one will tend to overlook certain aspects. For example Daniel Ingram’s [book] Mastering the Core Teachings of the Buddha does not go through I AM (…) before the fourth path, however, as [John Tan] wrote in 2009, “… I think what lacks in the approach of MCTB is an effective way to allow practitioners to have adequate experience of the vividness, realness and presence of Awareness and the full experience of these qualities in the transience.” … This is also the reason why Daniel needed to go through Actual Freedom practice to bring out the luminosity aspect further even though he had certain insights into anatta in MCTB 4th path.
 
-In other words, even if one does not progress through the stages of nonduality as described as above, one must ultimately find a way to integrate the same insights --- in particular, the radical aliveness --- to avoid falling into nihilism.
+In other words, even if one does not progress through the stages of nonduality as described as above, one must ultimately find a way to integrate the same insights — in particular, the radical aliveness — to avoid falling into nihilism.
 
 Could vipassana practice be enough? Ingram is asked this question [here](https://www.dharmaoverground.org/discussion/-/message_boards/message/11355316) in 2019:
 

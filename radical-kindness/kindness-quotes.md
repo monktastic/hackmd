@@ -4,16 +4,16 @@
 
 ### General
 
-> *Be kind, for everyone you meet is fighting a great battle.* --- [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
+> *Be kind, for everyone you meet is fighting a great battle.* — [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
 
 > *Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.* ― Martin Luther King, Jr.
 
 > *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* ― Reinhold Niebuhr
 
-> *The road to hell is paved with good intentions.* --- Proverb
+> *The road to hell is paved with good intentions.* — Proverb
 
 
-> *We judge ourselves by our intentions and others by their behavior* --- Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
+> *We judge ourselves by our intentions and others by their behavior* — Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
 
 ---
 
@@ -39,16 +39,16 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 > 
 > -- John Makransky
 
-> *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* --- Herman Hesse
+> *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* — Herman Hesse
 
-> *Not that these others are wholly without blame, for even the worst projection is at least hung on a hook, perhaps a very small one, but still a hook offered by the other person.* --- Carl Jung
+> *Not that these others are wholly without blame, for even the worst projection is at least hung on a hook, perhaps a very small one, but still a hook offered by the other person.* — Carl Jung
 
-> *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.* --- Carl Jung
+> *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.* — Carl Jung
 
-> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* --- Carl Jung
+> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* — Carl Jung
 
 
-> *If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being.* --- Alexander Solzhenitsyn, The Gulag Archipelago
+> *If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being.* — Alexander Solzhenitsyn, The Gulag Archipelago
 
 ---
 
