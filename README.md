@@ -9,7 +9,6 @@ The desire to be unkind to "bad people" is a trick our mind uses to hide our own
 
 * [Radical kindness](radical-kindness/radical-kindness.md)
 * [Herd immunity against evil](radical-kindness/herd-immunity.md) is a civic duty.
-* [You are everyone](radical-kindness/you-are-everyone.md). This is the ultimate root of kindness.
 * [Quotes](radical-kindness/kindness-quotes.md)
 
 ---
@@ -30,5 +29,6 @@ The ground of reality is intrinsically conscious, and you are That. There is a s
 
 * [Why idealism?](philosophy/why-idealism.md)
 * [Life is miraculous](philosophy/life-is-miraculous.md). Literally.
+* [You are everyone](philosophy/you-are-everyone.md). This is the ultimate root of kindness.
 
 —

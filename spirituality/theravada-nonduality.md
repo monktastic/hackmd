@@ -1,41 +1,97 @@
+
+1. More secular, less mystical
+2. Anatta
+
 # Theravada and nonduality
 
-Buddhism can be roughly split into the Theravada and Mahayana. The Theravada schools tend to be more orthodox and conservative, while the Mahayana schools have embraced the principle of nonduality that was only introduced later.
-
-Because much of the literature on nonduality expresses Stage 2 insight (which posits a Self), Theravadins have good reason to be wary of it. On the other hand, Stage 3 does away with all traces of self/Self, making it consistent with the Buddha's insight of _anatta_. Moreover, there are aspects of Stage 3 insight that are easy to overlook unless one has had significant experience with the self-inquiry practices that lead to Stage 1.
-
-In particular, it is easy to overlook the radiant, spontaneously-creative, radically alive nature of experience — aspects that are first awakened in Stage 1, but mistaken for a Self or God. As a result, some practitioners may miss out on discovering the primordial joy that is ultimately seen to be what initiated the spiritual path (and drives its apparent progress) in the first place.
-
-Some modern practitioners have found ways to integrate the two. Before we take a look at an example, let's take a high-level look at the extant Theravada lineages.
+Many people find themselves drawn to the teachings of Theravada Buddhism, either because they were codified closer to the time of the Buddha than the Mahayana scriptures (and are thus perceived to be more authentic), or because they sound more secular. One question that arises is: do they give rise to _nondual realization_? The short answer is: not necessarily.
 
 ---
 
-There are three major living traditions of Theravada Buddhism. Two come from Burma (the U Ba Khin / S.N. Goenka tradition and that of Mahasi Sayadaw), and one from Thailand (called the Thai Forest tradition, which has more than one sub-lineage). The insight practices from those schools are all called "vipassana." These practices usually come after some familiarity with breathing meditation to stabilize the mind (though the breath can thereafter *also* be used as an object for *vipassana*).
+The foundational practice of Theravada is called *vipassana,* and it seems very scientific: simply perceive all phenomena and note their qualities. In particular, note how all aspects of experience are subject to [*the three marks (or characteristics) of existence*](https://en.wikipedia.org/wiki/Three_marks_of_existence):
+
+1. Anatta (not-self)
+1. Anicca (impermanence)
+1. Dukkha (unsatisfactoriness)
+
+That is, every sensation is not me (and not mine), temporary, and inherently unsatisfying. That sounds reasonable enough. But _sounding reasonable_ actually has a significant drawback: you may simply be deepening an existing habit rather than uprooting it.
+
+The ultimate goal of meditation is to discover the true nature of your experience. What's very hard to see is that your experience of reality is actually structured by the assumptions you hold about it. For example, the seemingly-natural _assumption_ that there is a self in here perceiving a world out there actually gives rise to the compelling _illusion_ of this being so.
+
+This should make you wonder: what _else_ am I experiencing that is only the result of my assumptions? For example, the truth of _impermanence_ exposes our habitual assumption that phenomena are stable or permanent, but it takes for granted that we experience a flow of time in the first place. Depending on your proclivities, you may be willing to undermine the sense of stability, but the idea of undermining your experience of _time itself_ may seem too radical.
+
+Luckily, the insight of impermanence is powerful enough that it can lead to a dramatic shift in perception by itself. S.N. Goenka (famous for his 7-day Vipassana retreats) [teaches us](https://tricycle.org/magazine/finding-sense-sensation/):
+
+> Whether pleasant, unpleasant, or neutral, gross or subtle, every sensation shares the same characteristic: it arises and passes away, arises and passes away. It is this arising and passing that we have to experience through practice ... As we reach deeper states of awareness, we will be able to detect subtler and subtler sensations, or vibrations of greater rapidity, arising and passing with greater speed. In these deep states, our mind will become so calm, so tranquil, so pure, that we will immediately recognize any impurity accompanying the agitated state and make the choice to refrain from reacting adversely.
+
+On the other hand, the Dharmasamgiti Sutra of Mahayana Buddhism states:
+
+> Those attached to the world take arising and ceasing to be real. Therefore the [Buddha], the Greatly Compassionate One, in order to lead them around… their fear… has taught, in accordance with conventional manners of speaking, that [phenomena] ‘arise and cease’. [In reality] though, for any phenomenon there is neither arising nor ceasing.
+
+It is up to each practitioner to decide whether this startling claim has any merit.
+
+---
+
+As mentioned in the nonduality piece, numerous Mahayana schools are actually expressing the realization we call Stage 2, which implicitly (or explicitly) reifies a universal and eternal Self or Awareness. The result is that people drawn to mysticism tend to prefer Mahayana, while those averse to it are more attracted to Theravada. What is not obvious to either camp is that full realization in Mahayana actually goes _beyond_ those concepts, to arrive at a no-self/Self view.
+
+But if full nondual realization goes beyond Self, why bother to go through Stage 1, where the Self is thoroughly reified --- as the _only_ truly existing thing, at that?
+
+Consider the following phrases from the Buddha in the Pali Canon (the canonical scriptures of Theravada):
+
+> Luminous, monks, is the mind. And it is freed from incoming defilements.
+
+> Consciousness that is invisible, Infinite, and luminous of its own ...
+
+This luminous aspect of experience is present at all times. In fact, we could say that it is the very principle by which anything can be _experienced at all_ --- and yet, curiously, we continually overlook it.
+
+Given our dualistic habit of conceiving of a consciousness "in here" and a world "out there," the mind (wrongly) infers that for experience to be luminous, there must be a _source_ of that luminosity, located "in here"
+
+---
+
+One drawback of committing yourself earnestly to practices that sound eminently reasonable is that you might just be reinforcing your own assumptions without ever realizing it. For example, perceiving _impermanence_ requires that you hold onto your underlying framework of time, thereby continually reifying it.
+
+S.N. Goenka (famous for his 7-day Vipassana retreats) [teaches us](https://tricycle.org/magazine/finding-sense-sensation/):
+
+> Whether pleasant, unpleasant, or neutral, gross or subtle, every sensation shares the same characteristic: it arises and passes away, arises and passes away. It is this arising and passing that we have to experience through practice ... As we reach deeper states of awareness, we will be able to detect subtler and subtler sensations, or vibrations of greater rapidity, arising and passing with greater speed. In these deep states, our mind will become so calm, so tranquil, so pure, that we will immediately recognize any impurity accompanying the agitated state and make the choice to refrain from reacting adversely.
+
+Contrast this to the Dharmasamgiti Sutra of Mahayana Buddhism:
+
+> Those attached to the world take arising and ceasing to be real. Therefore the [Buddha], the Greatly Compassionate One, in order to lead them around… their fear… has taught, in accordance with conventional manners of speaking, that [phenomena] ‘arise and cease’. [In reality] though, for any phenomenon there is neither arising nor ceasing.
+
+Such passages can begin to sound sectarian, which is not my intention here. Instead of trying to determine which is True, it might be better to ask: what are my goals? If one is not naturally inclined to question one's deepest metaphysical assumptions, there are still 
+
+
+We have spent our whole lives convinced of the fundamental reality of time. From within that framework, it is indeed possible to purify our minds in a way that largely eliminates suffering. On the other hand, there may be even greater releases to be discovered by profoundly undermining our most deeply-held notions of what is real.
+
+> [In a relative sense] everything is impermanent, but [in the absolute sense] nothing is permanent or impermanent.
+
+---
+
+
+There are three major living traditions of Theravada Buddhism. Two come from Burma (the U Ba Khin / S.N. Goenka tradition and that of Mahasi Sayadaw), and one from Thailand (together called the Thai Forest tradition, which has more than one sub-lineage). The insight practices from those schools are all called "vipassana." These practices usually come after some familiarity with breathing meditation to stabilize the mind (though the breath can thereafter *also* be used as an object for *vipassana*).
 
 ### U Ba Khin / Goenka
 
-Vipassana instructions from the U Ba Khin / S.N. Goenka tradition (of which the famous 7-day Vipassana retreats are a part) [go like this](https://www.dhamma.org/en/osguide):
+Vipassana instructions from the U Ba Khin / S.N. Goenka tradition (famous for the 7-day retreats) [go like this](https://www.dhamma.org/en/osguide):
 
 > Move your attention systematically from head to feet and from feet to head, observing in order each and every part of the body by feeling all the sensations that you come across. Observe objectively; that is, remain equanimous with all the sensations that you experience, whether pleasant, unpleasant or neutral, by appreciating their impermanent nature.
 
-Notice how the focus is on *sensations* — that is, particular *contents* of perception. This is in contrast to Mahayana practices 
+Notice how the focus is on *sensations* — that is, particular contents of perception. By contrast, many Mahayana practices encourage focus on the sense of subjectivity itself.
 
 ### Burmese (Mahasi)
 
-[Vipassana instructions from the Mahasi Sayadaw lineage](https://buddhismnow.com/2013/09/12/vipassana-as-taught-by-the-mahasi-sayadaw-of-burma/) have a slightly different focus, called *noting*:
+[Vipassana instructions from the Mahasi Sayadaw lineage](https://buddhismnow.com/2013/09/12/vipassana-as-taught-by-the-mahasi-sayadaw-of-burma/) are similar, but have a slightly different focus, called *noting*:
 
 > The first [stage] is a simple noting or naming of the object. This simple labelling, naming, noting—whereby attention is pointed at the object—is known as vitakka and is likened to a bee flying towards a flower. ... We just keep pointing the attention at the feeling of movement, the sensations. This attention, as it grows in strength, will eventually take all the energy out of thinking to the point where there is just the noting word.
 
-Note again the focus on "the object."
-
 ### Thai forest
 
-There are a variety of Thai forest sub-lineages, but we will focus on instructions from patriarch [Ajahn Chah](
+There are a variety of Thai forest sub-lineages, but let us focus on instructions from patriarch [Ajahn Chah](
 (https://www.accesstoinsight.org/lib/thai/chah/the_teachings_of_ajahn_chah_web.pdf)):
 
 > This is what we call separating the mind from the feeling. If we are clever we don’t attach, we leave things be. We become the ‘one who knows’. The mind and feeling are just like oil and water; they are in the same bottle but they don’t mix. Even if we are sick or in pain, we still know the feeling as feeling, the mind as mind. We know the painful or comfortable states but we don’t identify with them. We stay only with peace: the peace beyond both comfort and pain.
 
-Notice that these instructions differ from the previous two in that they are not focused purely _outwardly_, but on the mind itself — "the one who knows." In this way, they are not (traditional) vipassana, but are more similar to Mahayana practices.
+Notice that these instructions differ from the previous two in that they are not focused _outwardly_, but on the mind itself — "the one who knows." In this way, they are more similar to Mahayana practices.
 
 ---
 
@@ -98,7 +154,7 @@ In other words, even if one does not progress through the stages of nonduality a
 
 Could vipassana practice be enough? Ingram is asked this question [here](https://www.dharmaoverground.org/discussion/-/message_boards/message/11355316) in 2019:
 
-> J.C.: Why the need to experiment with all sorts of practices? Why the need for the switch to Zen, Vajrayana, prayer, Catholic devotional practices, martial arts, magickal practices, and so on?
+> J.C.: If all there is is the present moment just as it is [...] including pain and difficult emotions, [...] why the need to experiment with all sorts of practices? Why the need for the switch to Zen, Vajrayana, prayer, Catholic devotional practices, martial arts, magickal practices, and so on?
 >
 > Why not just continue to observe exactly what's going on in the present moment and see the Three Characteristics?
 >

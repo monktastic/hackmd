@@ -1,0 +1,4 @@
+> All phenomena of **subject and object** are unoriginated, nonabiding, and unceasing. To know this crucial point and to have the experience and conviction born from deep within that they are **devoid of true essence or nature** is what, at this point, should be defined as vipashyana [insight].
+
+
+> Those attached to the world take arising and ceasing to be real. Therefore the [Buddha], the Greatly Compassionate One, in order to lead them around… their fear… has taught, in accordance with conventional manners of speaking, that [phenomena] ‘arise and cease’. [In reality] though, for any phenomenon there is neither arising nor ceasing.
