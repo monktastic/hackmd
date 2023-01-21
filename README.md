@@ -27,8 +27,8 @@ Despite over a century of trying to escape the inevitable consequences of quantu
 
 The ground of reality is intrinsically conscious, and you are That. There is a strong rational argument for taking this possibility more seriously than the others (although the ultimate truth is actually more subtle still).
 
-* [Why idealism?](philosophy/why-idealism.md)
+* [Love, verified](philosophy/love-verified.md)
 * [Life is miraculous](philosophy/life-is-miraculous.md). Literally.
 * [You are everyone](philosophy/you-are-everyone.md). This is the ultimate root of kindness.
 
-—
+---
