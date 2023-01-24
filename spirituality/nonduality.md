@@ -104,13 +104,13 @@ Philosopher Bernardo Kastrup:
 Nonduality teacher Ken Wilber:
 > ... realizing your True Nature—which you can call God, Allah, Jahweh, Brahman, Tao, Ein Sof—it doesn’t really matter, because the core of the Big Mind Process is **Emptiness itself, which, having no specific content** at all, can and does embrace anything that arises, integrating it all.
 
-Nonduality teacher Robert Adams:
-
-> So empty yourself out totally and completely. Emptiness is realization. Emptiness is Brahman. Emptiness is the Self. Emptiness is your real nature.
-
 Notice the recurring theme: we are the stillness; the emptiness; the ultimate Self; a subject that transcends all objects. But this is not what *sunyata* (emptiness) means in Buddhism. 
 
-Buddhist practitioner-scholar Karl Brunnholzl:
+The Dalai Lama:
+
+> It is important to clarify that we are not speaking of emptiness as some kind of absolute stratum of reality, akin to, say, the ancient Indian concept of Brahman, which is conceived to be an underlying absolute reality from which the illusory world of multiplicity emerges. Emptiness is not a core reality, lying somehow at the heart of the universe, from which the diversity of phenomena arise.
+
+Then what is it? Buddhist practitioner-scholar Karl Brunnholzl:
 
 > Emptiness means that things do not exist as they seem, but are like illusions and like dreams.
 
