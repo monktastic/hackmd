@@ -10,11 +10,11 @@ This piece is an attempt at such communication. I cannot _prove_ that such knowl
 
 ---
 
-Our intuition that such "ultimate truths" are impossible to know is rooted in beliefs about the nature of reality — in particular, that we are finite beings navigating a fundamentally external world — that seem too obvious to question, but are actually impossible to confirm with literally _any degree of certainty whatsoever_ thanks to the [_problem of skepticism_](radical-skepticism.md). Did the past really happen? Not only can we not _prove_ that it did; we cannot even meaningfully call it "likely."
+Our intuition that "ultimate truths" are impossible to know is rooted in beliefs about the nature of reality — in particular, that we are finite beings navigating a fundamentally external world — that seem too obvious to question, but are actually impossible to confirm with literally _any degree of certainty whatsoever_ thanks to the [_problem of skepticism_](radical-skepticism.md). Did the past really happen? Not only can we not _prove_ that it did; we cannot even meaningfully call it "likely."
 
 A common reaction to this is that the fault must lie with our reasoning, or perhaps with reasoning itself; that obviously the past almost certainly did happen despite our inability to prove it. Moreover, regardless of what the "real" truth is (if such a thing is even meaningful), we are certainly justified in behaving _as though_ it is true — and so it is safe to ignore the problem.
 
-We somehow cannot take seriously the possibility that the reason we cannot prove that the past really happened is that it _didn't_, in a meaningful sense[^no-time] — one that can perceived clearly and directly. After all, _how_ could such a thing be perceived, and by _whom_?
+We somehow cannot fathom that the reason we cannot prove that the past really happened is that it _didn't_, in a meaningful sense[^no-time] — a sense that can perceived clearly and directly. After all, _how_ could such a thing be perceived, and by _whom_?
 
 Consider this alternate hypothesis about reality: what you ultimately are is pure, infinite Love[^Love]; the self-aware ground of being, [dreaming](https://www.youtube.com/watch?v=ckiNNgfMKcQ) countless worlds into apparent existence in each moment, and then birthing yourself into each dream from countless perspectives, so that you may live out all possible experiences. You carefully hide this truth from yourself so that you may remain immersed in the drama — which is where you find yourself now.
 
