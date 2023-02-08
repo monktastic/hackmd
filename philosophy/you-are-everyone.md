@@ -5,13 +5,13 @@ If you haven't already [read](http://www.galactanet.com/oneoff/theegg_mod.html) 
 
 Why do stories like The Egg provoke such visceral reactions in us? Some highly-upvoted comments from YouTube:
 
-> I have no idea why, but i cried so hard watching this. Absolutely incredible.
+> I have no idea why, but I cried so hard watching this. Absolutely incredible.
 
-> The first time I watched this video, I was 14 yo. This has had such a strong impact on my values and identity. I feel the connection, I feel less lonely.
+> This has had such a strong impact on my values and identity. I feel the connection, I feel less lonely.
 
 > I think it’s an absolutely beautiful idea to see everyone on earth as yourself. It brings understanding, empathy and equity to a whole other level.
 
-The story is actually _true_ --- or rather, about as close to the truth as words can capture. It's not presenting just another idea, but invoking a deep memory of something you once knew but somehow forgot.
+The story is actually _true_ --- or rather, about as close to the truth as words can capture. It's not presenting just another idea, but evoking a deep memory of something you once knew but somehow forgot.
 
 Zen Master Thich Nhat Hanh communicates essentially the same truth with heartbreaking beauty in his [poem](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) _Call Me By My True Names_ (which I suggest you read in its entirety):
 

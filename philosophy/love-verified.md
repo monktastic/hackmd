@@ -1,10 +1,10 @@
 # Love, verified
 
-According to the mystical view, reality is radically alive and fundamentally miraculous, your every action has cosmic consequence, and everything somehow hinges on the Love you dare express. It is supposedly our inability to realize these truths that lies at the heart of the converging crises of our day.
+According to the mystical view, reality is radically alive and sacred, your every action has cosmic consequence, and _everything_ somehow hinges on the Love you dare express. It is supposedly our inability to realize these truths that lies at the heart of the converging crises of our day.
 
-As beautiful as these ideas may be, they seem logically impossible to verify — and so they are relegated to the status of _religious_ "truths." Therefore, even if they _can_ somehow be known definitively — and moreover, our doing so matters in ways that we can scarcely fathom — our culture is presently unable to take this possibility seriously enough to make the necessary difference.
+As beautiful as these ideas may sound, they seem logically impossible to verify — and so they are relegated to the status of _religious_ "truths." Therefore, even if they _can_ somehow be known definitively — and moreover, our doing so matters in ways that we can scarcely fathom — our culture is presently unable to take this possibility seriously enough to make the necessary difference.
 
-Therefore, I believe it is urgent for those who claim to have such knowledge to communicate not only the insights themselves, but more importantly _how_ such definite knowledge could even be possible, in a way that our rationally-based culture can digest and integrate. Such communication may have a vital role to play in the very survival of our species.
+Therefore, I believe it is urgent for those who claim to have such knowledge to communicate not only the insights themselves, but more importantly _how_ such knowledge could even be possible, in a way that our rationally-based culture can digest and integrate. Such communication may have a vital role to play in the very survival of our species.
 
 This piece is an attempt at such communication. I cannot _prove_ that such knowledge is possible, but I can hint at how it is, such that others may be encouraged to confirm it for themselves.
 
@@ -14,29 +14,29 @@ This piece is an attempt at such communication. I cannot _prove_ that such knowl
 
 Our intuition that "ultimate truths" are impossible to know is rooted in beliefs about the nature of reality — in particular, that we are finite beings navigating a fundamentally external world — that seem too obvious to question, but are actually impossible to confirm with literally _any degree of certainty whatsoever_ thanks to the [_problem of skepticism_](radical-skepticism.md). Did the past really happen? Not only can we not _prove_ that it did; we cannot even meaningfully call it "likely."
 
-A common reaction to this is that the fault must lie with our reasoning, or perhaps with reasoning itself; that obviously the past almost certainly did happen despite our inability to prove it. Moreover, regardless of what the "real" truth is (if such a thing is even meaningful), we are certainly justified in behaving _as though_ it is true — and so it is safe to ignore the problem.
+A common reaction to this problem is that the fault must lie with our reasoning, or perhaps with reasoning itself; that obviously the past almost certainly did happen despite our inability to prove it. Moreover, regardless of what the "real" truth is (if such a thing is even meaningful), we are certainly justified in behaving _as though_ it is true — and so it is safe to ignore the problem.
 
-We somehow cannot fathom that the _reason_ we cannot prove that the past really happened is that it _didn't_, in a meaningful sense[^no-time] — a sense that can perceived clearly and directly. After all, _how_ could such a thing be perceived, and by _whom_?
+We somehow cannot fathom that the _reason_ we cannot prove that the past really happened is that it _didn't_, in a meaningful sense[^no-time] — one that can perceived directly and concretely. After all, _how_ could such a thing be perceived, and by _whom_? Clearly not by finite, time-bound beings like ourselves.
 
 Consider this alternate hypothesis about reality: what you ultimately are is pure, infinite Love[^Love]; the self-aware ground of reality, [dreaming](https://www.youtube.com/watch?v=ckiNNgfMKcQ) countless worlds into apparent existence in each moment, and then birthing yourself into each dream from countless perspectives, so that you may live out all possible experiences. You carefully hide this truth from yourself so that you may remain immersed in the drama — which is where you find yourself now.
 
-Even if this were true, how could you ever know it? Isn't it subject to the problem of skepticism, like everything else?
+Even if this were true, how could you ever know it? Doesn't the problem of skepticism apply?
 
-No. If you really are the very _ground of being_, nothing necessarily prevents you from knowing the Truth in a way that individual beings never could—constrained as they are by their senses and cognition. You would just have to provide yourself with a unique mode of knowledge that would let you know the Truth in a definitive way. This "mode of knowledge" would have to be somehow _self-validating_, in a way that is hard for finite minds to even make sense of.
+No: if you really are the very _ground of being_, nothing necessarily prevents you from knowing reality in a way that individual beings never could—constrained as they are by their senses and cognition. But for this to work, you would have to provide yourself with a mode of knowledge that would somehow let you know the Truth in a direct, self-validating way; something that wouldn't require inference.
 
-That is the best description I can give for what _awakening_ is[^levels-of-awakening]. It isn't a particular kind of experience. If it were, you—the dream character—would always (rightly) suspect that it was generated by your brain (or your simulation overlords). In that case, it indeed could not help you awaken. Instead, it is a kind of direct, non-conceptual insight into the very _nature_ of experience. The idea of such _self-validation_ may sound suspicious, but there is a common experience that hints at it.
+That is the best description I can give for what _awakening_ is[^levels-of-awakening]. It isn't a particular kind of experience. If it were, you—the dream character—would always suspect that it was generated by your brain (or your simulation overlords). In that case, it could not help you awaken. Instead, it awakening a kind of direct, non-conceptual insight into the very _nature_ of experience. The idea of _self-validation_ may sound suspicious, but there is a common experience that hints at it.
 
-Look around and confirm that you are conscious. You may consider this impossibly obvious, but some people genuinely doubt that they are[^doubt]. Conversations between these groups are deeply frustrating; one side claiming that the other isn't seeing something that's self-evidently there, and the other claiming that the first is simply deluded. Realizing that you are _unmistakably_ conscious could be considered an initial level of awakening—and if you have it, you will understand both how something can be self-validating, as well as how that somehow doesn't help you prove it to others[^resist].
+Look around and confirm that you are conscious. You may consider this impossibly obvious, but some people genuinely doubt it[^doubt]. Conversations between these groups are deeply frustrating; one side claiming that the other isn't seeing something that's self-evidently there, and the other claiming that the first is simply deluded. Realizing that you are _unmistakably_ conscious could be considered an initial level of awakening—and if you have it, you will understand both how something can be self-validating, as well as how that somehow doesn't help you prove it to others[^resist].
 
 As for deeper awakening, you've likely had glimpses of it, too—though you may not have registered them as such. They feel like a taste of the transcendent within the mundane; the sneaking suspicion that life may be genuinely miraculous in a way that you can't quite put your finger on, and that you don't dare admit in polite company—or perhaps even in the privacy of your own mind.
 
-All that prevents these tiny tastes from blossoming into full-blown awakenings is the little voice in your "head" that pretends to know what is going on: that you are an individual being navigating a physical and fundamentally external reality, and that any suspicion otherwise can only be your brain[^brain] playing tricks on you. Even if you can't be _certain_ of this, it feels like the "most rational" explanation.
+All that prevents these tiny tastes from blossoming into full-blown awakenings is the little voice in your head that pretends to know what is going on: that you are an individual being navigating a physical and fundamentally external reality—and that any suspicion otherwise is just your brain[^brain] playing tricks on you. Even if you can't be _certain_ of this, it feels like the "most rational" explanation.
 
-But it is _not_ rational. You have _no idea_ what's going on—not even the first clue. All you know for sure is that something _seems_ to be happening—something genuinely astonishing. Take a look around and confirm this. If you can remain precisely with this wondrous "something," while utterly dropping the pretense of having any idea what it is or what's causing it, you will begin to sense your way back Home, to a place you never left.
+But it _isn't_ rational. You have _no idea_ what's going on—not even the first clue. All you know for sure is that something _seems_ to be happening—something genuinely astonishing. If you can remain precisely with this wondrous and unmistakable "something," while utterly dropping the pretense of having any idea what it is or what's causing it, you will begin to sense your way back Home to a place you never left.
 
-None of this requires that you believe anything I've said. In fact, it is probably better that you don't. All that is required is to be profoundly honest about what you do and do not know. If you do this with the utmost sincerity and humility, the rest will take care of itself.
+None of this requires that you believe anything I've said. In fact, it is better that you don't. All that is required is to be profoundly honest about what you do and do not know. If you do this with the utmost sincerity and humility, you cannot fail.
 
-Something inside you wants to believe that we're here to love each other and this miraculous "creation" with every ounce of our being—and another part fears that this may just be a soothing story generated by your very real brain, to distract you from this lifeless world of "pitiless indifference"[^Dawkins]. Only one of these possibilities can even theoretically be confirmed—and luckily, it's not the one our culture has taught us to believe.
+Something inside you wants to believe that we're here to love each other and this miraculous "creation" with every ounce of our being—and another part fears that this may just be a nice story generated by your very real brain, to distract you from the bleak truth: that this lifeless world of "pitiless indifference"[^Dawkins]. Only one of these possibilities can even theoretically be confirmed—and luckily, it's not the one our culture has taught us.
 
 ---
 
@@ -45,6 +45,8 @@ Something inside you wants to believe that we're here to love each other and thi
 > So simple you can't believe it <br/>
 > So good you can't accept it* <br/>
 -- Tibetan Buddhist saying
+
+> _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
 
 ## Footnotes
 
