@@ -39,7 +39,9 @@ Now let's visit another oddity. 18th-century philosopher David Hume popularized 
 
 What happened in the past provides good evidence for the future. How do we know this? Because it has been true in the past... _and the past provides good evidence for the future._ There's that nasty circularity again! We *cannot* justify our belief that the past will continue to provide evidence for the future.
 
-Thus, the fact that the laws of physics have faithfully operated for billions of years gives us **no reason at all** to believe that they will continue to operate even one second from now. This is a very hard thing for beginning philosophy students to accept:
+Thus, the fact that the laws of physics have faithfully operated for billions of years gives us **no reason at all** to believe that they will continue to operate even one second from now. This is a very hard thing to accept (and in many cases, understand).
+
+Stephen Law, [professor of philosophy at Oxford](https://www.conted.ox.ac.uk/profiles/stephen-law):
 
 [http://stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html](http://stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html)
 
@@ -51,4 +53,4 @@ As before, notice how ridiculous and illogical this _feels_, despite being impec
 
 > *Should it be asked me whether I sincerely assent to this argument which I have been to such pains to inculcate, whether I be really one of those skeptics who hold that everything is uncertain, I should reply that neither I nor any other person was ever sincerely and constantly of that opinion. I dine, I play backgammon, I converse and am merry with my friends and when after three or four hours of amusement I would return to these speculations, they appear so cold and strange and ridiculous that I cannot find in my heart to enter into them any further. Thus the skeptic still continues to reason and believe, though he asserts he cannot defend his reason by reason.*
 
-Once again: "it may be true, but would be crazy to take seriously, so let's not." This is fine for normal life, but it is deeply unhelpful if your goal is to awaken.
+Once again: "it may be _true_, but would be crazy to take seriously, so let's not." This is fine for normal life, but it is deeply unhelpful if your goal is to awaken.

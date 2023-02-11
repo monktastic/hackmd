@@ -1,13 +1,16 @@
 
 # Title placeholder
 
-This world is miraculous, in a sense that transcends all belief systems—religious, scientific, or otherwise. This fact can be perceived directly and concretely, and our doing so may play a vital role in solving the converging crises of our day. Although we do not realize it, it is our (mis-)perception of reality as mundane and essentially lifeless that drives our ennui and enables us to treat the world (and each other) with the profound contempt that we do.
+Reality is miraculous, in a sense that transcends all beliefs and ideologies. But our modern worldview prevents this claim from being anything more than poetry or metaphor. 
 
-People may _want_ to believe that reality is miraculous, and even try to live _as though_ it were, but lacking a cultural framework that would allow this idea to be anything more than mere poetry or metaphor, 
+Part of you suspects that reality is miraculous in a sense that you can't quite put your finger on. But our modern worldview doesn't allow for such an idea to be anything more than poetry or metaphor. It is as though we have bottled up the most profound truth of all, so that we can admire it from afar, yet stay protected from its astonishing implications. But far from protecting us, this is killing us.
 
-our modern worldview provides no way for this to be anything more than poetry or metaphor. While we each occasionally catch glimpses of the sense in which it _is_ more, our desire to be sophisticated prevents those moments from taking root in a way that could transform us, both at the individual and societal levels.
+Although we do not realize it, it is our (mis-)perception of reality as mundane and essentially lifeless that drives our ennui and enables us to treat the world (and each other) with the profound contempt that we do. The truth is that this world is radically alive and sacred, your every action has cosmic consequence, and _everything_ somehow hinges on the Love we dare express.
 
-I believe it is crucial to rescue it from the jaws of superstition. There is something very much worth seeing here. It would be a tremendous shame if our civilization failed to discover it because we were too "sophisticated" to bother looking.
+Therefore, it is urgent that we rescue "the miraculous" from the jaws of superstition, where it does not belong. Doing so may play a vital role in solving the converging crises of our day.
+
+
+
 
 > _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
 

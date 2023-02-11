@@ -1,71 +1,88 @@
 # Love, verified
 
-According to the mystical view, reality is radically alive and sacred, your every action has cosmic consequence, and _everything_ somehow hinges on the Love you dare express. It is supposedly our inability to realize these truths that lies at the heart of the converging crises of our day.
+According to the mystical view, reality is radically alive and fundamentally miraculous, your every action has cosmic consequence, and _everything_ somehow hinges on the Love you dare express. Moreover, it is supposedly our inability to realize these truths that lies at the heart of the converging crises of our day.
 
-As beautiful as these ideas may sound, they seem logically impossible to verify — and so they are relegated to the status of _religious_ "truths." Therefore, even if they _can_ somehow be known definitively — and moreover, our doing so matters in ways that we can scarcely fathom — our culture is presently unable to take this possibility seriously enough to make the necessary difference.
+This may be a beautiful view, but why should we trust it over the modern scientific understanding—that we live in a fundamentally lifeless world of "pitiless indifference"[^Dawkins]? Even if this latter view is the root cause of the ennui and despair that are killing our planet, we should not abandon the truth for a fantasy.
 
-Therefore, I believe it is urgent for those who claim to have such knowledge to communicate not only the insights themselves, but more importantly _how_ such knowledge could even be possible, in a way that our rationally-based culture can digest and integrate. Such communication may have a vital role to play in the very survival of our species.
+But what if it's _not_ fantasy? What if it's not only true, but _verifiable_ in a way that no other beliefs—religious, scientific, or otherwise—could even theoretically be?
 
-This piece is an attempt at such communication. I cannot _prove_ that such knowledge is possible, but I can hint at how it is, such that others may be encouraged to confirm it for themselves.
+We've had it backwards this whole time. It would be a shame if this ship went down with the truth right under our noses.
+ 
+> _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
 
 ---
 
 > _Most of us suspect we don’t really know what life is. But really knowing you don't know takes some work. It requires you to clearly see that your story is just a story; and to become conscious of the deep mystery at its foundation._ — Tim Freke
 
-Our intuition that "ultimate truths" are impossible to know is rooted in beliefs about the nature of reality — in particular, that we are finite beings navigating a fundamentally external world — that seem too obvious to question, but are actually impossible to confirm with literally _any degree of certainty whatsoever_ thanks to the [_problem of skepticism_](radical-skepticism.md). Did the past really happen? Not only can we not _prove_ that it did; we cannot even meaningfully call it "likely."
+You _seem_ to be an individual being navigating a fundamentally external world of time and space. But if this is true, the [_problem of skepticism_](radical-skepticism.md) prevents you from knowing it with literally any certainty whatsoever. For example, not only can you not prove whether this is a simulation; you cannot even meaningfully calculate the probability that it is[^simulation]. Similarly, you cannot call it "likely" that the past really happened. This is not mysticism, but the _epitome_ of rationality.
 
-A common reaction to this problem is that the fault must lie with our reasoning, or perhaps with reasoning itself; that obviously the past almost certainly did happen despite our inability to prove it. Moreover, regardless of what the "real" truth is (if such a thing is even meaningful), we are certainly justified in behaving _as though_ it is true — and so it is safe to ignore the problem.
+There are two ways you might respond. The first is to point out that it doesn't matter: if there is really no way to tell the difference between views, then in some sense, there _isn't_ one. Therefore, we are free to carry on _as though_ our usual view is correct. This answer is logically impeccable, but it's hiding something. Actually, it's hiding _everything_, as we shall see.
 
-We somehow cannot fathom that the _reason_ we cannot prove that the past really happened is that it _didn't_, in a meaningful sense[^no-time] — one that can perceived directly and concretely. After all, _how_ could such a thing be perceived, and by _whom_? Clearly not by finite, time-bound beings like ourselves.
+The other thing you might do is ask yourself: well, what _can_ I be sure of? You'll discover that all you know for sure is that _something seems to be happening._ Go ahead and confirm this. This fact seems utterly unremarkable, and so we usually ignore it. This is a huge mistake, and comically absurd: we constantly overlook the _one unmistakable thing_ in favor of _ideas_ about it that we have no reason to believe in the first place. We take our reality on blind faith and call this "rational."
 
-Consider this alternate hypothesis about reality: what you ultimately are is pure, infinite Love[^Love]; the self-aware ground of reality, [dreaming](https://www.youtube.com/watch?v=ckiNNgfMKcQ) countless worlds into apparent existence in each moment, and then birthing yourself into each dream from countless perspectives, so that you may live out all possible experiences. You carefully hide this truth from yourself so that you may remain immersed in the drama — which is where you find yourself now.
-
-Even if this were true, how could you ever know it? Doesn't the problem of skepticism apply?
-
-No: if you really are the very _ground of being_, nothing necessarily prevents you from knowing reality in a way that individual beings never could—constrained as they are by their senses and cognition. But for this to work, you would have to provide yourself with a mode of knowledge that would somehow let you know the Truth in a direct, self-validating way; something that wouldn't require inference.
-
-That is the best description I can give for what _awakening_ is[^levels-of-awakening]. It isn't a particular kind of experience. If it were, you—the dream character—would always suspect that it was generated by your brain (or your simulation overlords). In that case, it could not help you awaken. Instead, it awakening a kind of direct, non-conceptual insight into the very _nature_ of experience. The idea of _self-validation_ may sound suspicious, but there is a common experience that hints at it.
-
-Look around and confirm that you are conscious. You may consider this impossibly obvious, but some people genuinely doubt it[^doubt]. Conversations between these groups are deeply frustrating; one side claiming that the other isn't seeing something that's self-evidently there, and the other claiming that the first is simply deluded. Realizing that you are _unmistakably_ conscious could be considered an initial level of awakening—and if you have it, you will understand both how something can be self-validating, as well as how that somehow doesn't help you prove it to others[^resist].
-
-As for deeper awakening, you've likely had glimpses of it, too—though you may not have registered them as such. They feel like a taste of the transcendent within the mundane; the sneaking suspicion that life may be genuinely miraculous in a way that you can't quite put your finger on, and that you don't dare admit in polite company—or perhaps even in the privacy of your own mind.
-
-All that prevents these tiny tastes from blossoming into full-blown awakenings is the little voice in your head that pretends to know what is going on: that you are an individual being navigating a physical and fundamentally external reality—and that any suspicion otherwise is just your brain[^brain] playing tricks on you. Even if you can't be _certain_ of this, it feels like the "most rational" explanation.
-
-But it _isn't_ rational. You have _no idea_ what's going on—not even the first clue. All you know for sure is that something _seems_ to be happening—something genuinely astonishing. If you can remain precisely with this wondrous and unmistakable "something," while utterly dropping the pretense of having any idea what it is or what's causing it, you will begin to sense your way back Home to a place you never left.
-
-None of this requires that you believe anything I've said. In fact, it is better that you don't. All that is required is to be profoundly honest about what you do and do not know. If you do this with the utmost sincerity and humility, you cannot fail.
-
-Something inside you wants to believe that we're here to love each other and this miraculous "creation" with every ounce of our being—and another part fears that this may just be a nice story generated by your very real brain, to distract you from the bleak truth: that this lifeless world of "pitiless indifference"[^Dawkins]. Only one of these possibilities can even theoretically be confirmed—and luckily, it's not the one our culture has taught us.
+So how do you go about seeing the "one unmistakable thing"? Well, you just look — but pointers sometimes help.
 
 ---
+
+> _Sell your cleverness and buy bewilderment._ — Rumi
+
+The "trick" is to fully immerse your attention in _that-which-seems-to-be-happening_ while carefully avoiding the seductive illusion that you have any idea what it is, where it came from, what's causing it, etc. For all you know, you've never experienced anything _before_ this. That's a big hint.
+
+As you do this, you may begin to feel a wonder, awe, and joy that you recognize from early childhood. But your adult mind is "sophisticated," and will try to interpret the process using its supposed knowledge: _Wow, physical reality is awesome. How wondrous that my brain—which totally exists—can experience this!_ This may _feel_ like "it," but it's not. It is as though every time you try to step off the cliff, your mind builds a new platform under your foot.
+
+As long as your mind believes—or even suspects—that "this" can be explained in terms of _something else_, you will necessarily take it for granted, and thereby fail to look directly at it. On the other hand, the suggestion that it _cannot_ be so explained will grate on your rational mind, preventing you from taking the process completely seriously—despite the fact that it has no reason to believe in a "something else" to begin with.
+
+The solution is to drop the need for sophistication. It is only a defense mechanism. To be clear, this isn't about abandoning rationality in favor of magical thinking. It only requires being honest and humble about what you do and do not know. In fact, this is the most radically honest thing you could possibly do. That is the only way you can be sure you're not fooling yourself with yet another illusion.
+
+So what happens if you manage to actually step off the cliff?
+
+---
+
+> _I wish I could show you when you are lonely or in darkness the astonishing light of your own being_ — Hafiz 
+ 
+Describing the "breakthrough" is impossible, and it happens differently for everyone. But if I had to isolate the key component, it is this: it is a complete inversion of what you took to be _real_ up until that point; like stepping through the looking glass.
+
+It is one thing to _understand_ how all your beliefs are unjustified, but something else entirely to _see_ it. The latter involves directly perceiving the source of those beliefs, and why you adopted them in the first place. As I said, it is impossible to communicate, but I'll say some words.
+
+The reason you couldn't prove that time and space exist is because they _don't_, in a particular sense. You were quite literally imagining them. The closest analogy we have in modern science is that "[your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)." But it isn't your _brain_ that is hallucinating it, because "your brain" is part of the hallucination. That-which-is-hallucinating-reality is in no way similar or analogous to anything _within_ this "reality." How could it be? 
+
+That is why the truth cannot be described, and why mystics resort to poetry. It is not a _description_ of the way things are, but a whisper in a bottle, bobbing its way toward your Heart.
+
+You are presently engulfed in a miracle _beyond your wildest imagination._ You're not just engulfed in it; you _are_ it—the _entirety_ of it. This "miracle" is not far away; it is, as the Tibetans say:
 
 > *So close you can't see it <br/>
 > So deep you can't fathom it <br/>
 > So simple you can't believe it <br/>
 > So good you can't accept it* <br/>
--- Tibetan Buddhist saying
 
-> _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
+It is so blinding that you choose to avert your gaze, thereby perceiving a fundamentally lifeless world instead. You still harbor a faint memory of your primordial Home, but to assuage your deep regret over having abandoned it, you write the idea off as "irrational," and call this "sophisticated."
 
-## Footnotes
+> _Reality is that which, when you stop believing it, doesn't go away._ – Philip K. Dick.
 
-[^no-time]: To be clear, there is also a sense in which time _does_ happen—or rather, seem to. I don't need to tell you about it, because it's (probably) your normal perception. Awakening doesn't make you lose the ability to function _as though_ time and space were real.
+That mundane world does indeed "go away" when you stop believing in it. It is not _real_. It is a spooky campfire story that got out of hand. Nothing more.
 
-[^Love]: People are only ever unkind because they've forgotten that they are Love. That's what all evil is, ultimately. Being mad at them is like being angry at a child who has lost her way home. We only react that way when we ourselves are lost. The greater the evil, the greater the Love needed to cure it—though the [less it will look like "love" in the conventional sense](https://www.snopes.com/fact-check/dalai-gun/). Any other reaction only increases the evil in the world—though this is often hard to see, which is how we get away with being unkind to each other and calling it "righteous" and "fighting evil." Deep down, we know this is a sham, but until we learn to perceive this consciously, we will continue our downward spiral.
+You know that feeling when you desire nothing more in the world than to take away another being's pain—for no other reason than it's obviously _right_? That isn't just one quality you have among many; it's _what you most fundamentally are_. It's what this _whole place_ is. It's all Love. There is nothing else to be done here but _that._ Except there are no "other beings"; it's [all _you_](https://www.youtube.com/watch?v=h6fcK_fRYaI) [^compassion]. 
 
-[^levels-of-awakening]: It is not _wrong_, but it is not _ultimately true_, either. There are various [levels and degrees of awakening](/spirituality/three-stages-of-nonduality.md), and "You are [God]" is surprisingly not the final one. However, many people stop here (or even earlier), and consider it final. Later stages are too paradoxical for words, and anyway, I haven't realized them deeply myself. [This guy](https://www.youtube.com/watch?v=gbezCWitG_E) has, in case you are curious. I will also share description I once wrote (though it shouldn't be taken too seriously):
+This truth can be known concretely, in a way that mere beliefs never can. Unlike beliefs, you don't have to infer it, because you _are_ it. This statement may not make much sense to you now, but the deepest part of you remembers. Follow that memory back to its source.
 
-    > At the heart of existence is a primordial paradox so delightfully absurd that the merest _whiff_ of it triggers an entire apparent reality to dance exuberantly into being. This dance is happening ever-fresh in each moment. The present show is called "my life" — but I am not actually the imaginary character seemingly at the center of it, nor even the Dreamer lying behind it; I am the _entire show itself_; this radically alive, self-created splendor of which all shows are _made_; whose purpose is to dance realities into seeming existence. I birth myself into each such reality from countless perspectives, to explore myself from all angles.
+> _Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I_ am _them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally._
+>
+> _But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too._
+> 
+> —Zen priest (and punk rocker) Brad Warner
 
-[^doubt]: A better phrasing than "you are conscious" may be "it seems like something is happening," so that it doesn't depend on a "you." [There are](https://www.newyorker.com/magazine/2017/03/27/daniel-dennetts-science-of-the-soul) many [philosophers](https://aeon.co/essays/what-if-your-consciousness-is-an-illusion-created-by-your-brain) and [scientists](https://www.theatlantic.com/science/archive/2016/01/consciousness-color-brain/423522/) who deny this, and they're not being disingenuous. Or if they are, at least they have countless followers who are not.
+---
 
-[^resist]: At best, it might help you point out how they can confirm their own consciousness for themselves—and even that is a surprisingly tall order, given how hard we resist waking up. This post from [an old forum](http://web.archive.org/web/20141010211838/http://forums.philosophyforums.com:80/threads/is-there-a-hard-problem-of-consciousness-67768-2.html) describes the problem eloquently:
+Something inside you wants to believe that we're here to love each other and this miraculous "creation" with every ounce of our being—and another part fears that this is just a nice story generated by the meat in your skull, ruthlessly evolved to distract you from the bleak truth: that ours is an intrinsically lifeless world of "pitiless indifference". Only one of these possibilities can even theoretically be confirmed, while the other is pure fantasy. It's time we realized which is which.
 
-    > There are those that understand what [Nagel is alluding to](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat) with his description of conscious experience as the "what-it-is-like-to-be-me", and those that are blind to it, and members of these two groups have no common ground that would permit such a debate. Members of the former group have had the experience of being perplexed after a kind of reversal of attention back upon itself, leading them to 'notice' something that has not been noticed by members of the latter group. ... Consequently members of the latter group, who are blind to the issue, are also blind to their error in any claims they make about it. There can be no common ground between these two groups, one claiming that the other is seeing something that isn't there, the other claiming that the first is not seeing something that is there. They will forever be at loggerheads...
+---
 
-    Such "reversal of attention" is actually one of the [classic ways to awaken](https://www.reddit.com/r/zen/comments/z0c0p6/turn_the_light_around/) in Zen.
 
-[^brain]: Our culture seems eager to accept that [our conscious reality is hallucinated by our brains](https://www.youtube.com/watch?v=lyu7v7nWzfo). But in that case, "our brains" are themselves hallucinations. This is clearly recursive. It's astonishing that we don't stop and investigate what (if anything) is at the base of this recursion, instead blindly trusting that it is "our brains." To add to a previous footnote: discovering God at the bottom is the penultimate realization, but it's actually more like [turtles all the way down](https://en.wikiquote.org/wiki/Turtles_all_the_way_down).
+[^Dawkins]: _"The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but pitiless indifference."_ — Richard Dawkins
 
-[^Dawkins]: _"The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but pitiless indifference."_ ---Richard Dawkins
+[^simulation]: At least, without resorting to fundamentally untestable assumptions about the "base reality."
+
+[^compassion]: Whenever we perceive others as genuinely "other"; whenever we harbor contempt for them and their choices—however terrible they may be—we are running directly away from the one thing we most deeply desire: to return Home. They are _you_, and it would be foolish to forsake yourself. A deep part of you knows [exactly what I mean](https://www.youtube.com/watch?v=h6fcK_fRYaI).
+
+
+
