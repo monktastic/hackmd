@@ -38,15 +38,17 @@ So what happens if you manage to actually step off the cliff?
 
 ---
 
+![alt text](/images/sunlake-cropped.gif)
+
 > _I wish I could show you when you are lonely or in darkness the astonishing light of your own being_ — Hafiz 
  
 Describing the "breakthrough" is impossible, and it happens differently for everyone. But if I had to isolate the key component, it is this: it is a complete inversion of what you took to be _real_ up until that point; like stepping through the looking glass.
 
 It is one thing to _understand_ how all your beliefs are unjustified, but something else entirely to _see_ it. The latter involves directly perceiving the source of those beliefs, and why you adopted them in the first place. As I said, it is impossible to communicate, but I'll say some words.
 
-The reason you couldn't prove that time and space exist is because they _don't_, in a particular sense. You were quite literally imagining them. The closest analogy we have in modern science is that "[your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)." But it isn't your _brain_ that is hallucinating it, because "your brain" is part of the hallucination. That-which-is-hallucinating-reality is in no way similar or analogous to anything _within_ this "reality." How could it be? 
+The reason you couldn't prove that time and space exist is because they _don't_, in a particular sense. You were imagining them. The closest analogy we have in modern science is that "[your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)"—except the idea that it is "your brain" doing the hallucinating is just part of the hallucination. The truth is infinitely stranger still.
 
-That is why the truth cannot be described, and why mystics resort to poetry. It is not a _description_ of the way things are, but a whisper in a bottle, bobbing its way toward your Heart.
+That is why mystics resort to poetry. It is not a _description_ of the way things are, but a whisper in a bottle, bobbing its way toward your Heart. With that in mind:
 
 You are presently engulfed in a miracle _beyond your wildest imagination._ You're not just engulfed in it; you _are_ it—the _entirety_ of it. This "miracle" is not far away; it is, as the Tibetans say:
 
@@ -61,7 +63,7 @@ It is so blinding that you choose to avert your gaze, thereby perceiving a funda
 
 That mundane world does indeed "go away" when you stop believing in it. It is not _real_. It is a spooky campfire story that got out of hand. Nothing more.
 
-You know that feeling when you desire nothing more in the world than to take away another being's pain—for no other reason than it's obviously _right_? That isn't just one quality you have among many; it's _what you most fundamentally are_. It's what this _whole place_ is. It's all Love. There is nothing else to be done here but _that._ Except there are no "other beings"; it's [all _you_](https://www.youtube.com/watch?v=h6fcK_fRYaI) [^compassion]. 
+You know that feeling when you desire nothing more in the world than to take away another being's pain—for no other reason than it's obviously _right_? That isn't just one quality you have among many; it's _what you most fundamentally are_. It's what this _whole place_ is. It's all Love. There is nothing else to be done here but _that._ Except there are no "other beings"; it's [all _you_](https://www.youtube.com/watch?v=h6fcK_fRYaI). No act of kindness is ever wasted—and conversely, no unkindness fails to manifest as harm somewhere within the Whole[^bad-people].
 
 This truth can be known concretely, in a way that mere beliefs never can. Unlike beliefs, you don't have to infer it, because you _are_ it. This statement may not make much sense to you now, but the deepest part of you remembers. Follow that memory back to its source.
 
@@ -81,6 +83,8 @@ Something inside you wants to believe that we're here to love each other and thi
 [^Dawkins]: _"The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but pitiless indifference."_ — Richard Dawkins
 
 [^simulation]: At least, without resorting to fundamentally untestable assumptions about the "base reality."
+
+[^bad-people]: For example, being unkind to "bad people" tends to push them further into their delusion, which they then take out on others. We may believe that this is righteous, but all that has actually happened is that we've allowed the illusion that's driving their unkindness to infect our own minds. We then infect others, and form tribes (e.g., political parties) around our particular strain of infection. To be clear, [being kind is not the same as being nice](https://www.snopes.com/fact-check/dalai-gun/)—but that deserves its own piece.
 
 [^compassion]: Whenever we perceive others as genuinely "other"; whenever we harbor contempt for them and their choices—however terrible they may be—we are running directly away from the one thing we most deeply desire: to return Home. They are _you_, and it would be foolish to forsake yourself. A deep part of you knows [exactly what I mean](https://www.youtube.com/watch?v=h6fcK_fRYaI).
 
