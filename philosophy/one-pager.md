@@ -1,21 +1,25 @@
 
 # Radical agnosticism
 
-The deepest part of us suspects that there is something genuinely transcendent about life, but our modern worldview assures us that this feeling can only be the byproduct of neurotransmitters, ruthlessly evolved to distract us from the cold, hard, truth: that ours is a fundamentally lifeless world of "pitiless indifference"[^Dawkins]. We want to be sophisticated and rational, and so we trust this view. This is a profound mistake with tragic consequences.
+A deep part of us suspects that there is something transcendent about life, but our modern worldview assures us that this feeling can only be the byproduct of neurotransmitters, ruthlessly evolved to distract us from the cold, hard, truth: that ours is a fundamentally lifeless world of "pitiless indifference"[^Dawkins]. We want to be sophisticated and rational, and so we trust this view. This is the root cause of the ennui and despair that are killing our planet.
 
-That view is _not_ rational. The [_problem of skepticism_](radical-skepticism.md) prevents you from inferring the nature of your reality with _any confidence whatsoever_. For example, you cannot put odds on whether this is a simulation, or on whether the past really happened. Therefore, the most rational stance is actually radical agnosticism.
+But that view is _not_ rational. The [_problem of skepticism_](radical-skepticism.md) prevents you from inferring the nature of your reality with _any confidence whatsoever_. For example, you cannot put odds on whether this is a simulation, or on whether the past really happened. Therefore, the most rational stance is actually radical agnosticism.
 
-There are two things you might do with this agnosticism. The first is to point out that if we can't tell the difference between the possible views anyway, we are free to adopt whichever we like—so why not choose our default one? This may be logically impeccable, but it is actually a clever ploy your mind uses to keep you trapped while _believing_ you've escaped.
+There are two ways you might handle this agnosticism. The first is to point out that since we can't tell the difference between the possible views, we are free to adopt whichever we like—so why not choose our default one? This may be logically impeccable, but it is actually a clever ploy your mind uses to hide something remarkable from you. That brings us to the second way.
 
-The alternative is to ask yourself: what _can_ I be sure of? All you know for sure is that _something seems to be happening._ This fact seems utterly unremarkable, and so we usually ignore it. Pause and ponder the absurdity: we continually overlook the _one thing that is unmistakably here_ in favor of ideas about it that we have literally no reason to believe in the first place.
+All you know for sure is that _something seems to be happening._ Pause and notice this. This fact seems utterly unremarkable, and so we usually ignore it. Ponder the absurdity: we continually overlook the _one thing that is unmistakably here_ in favor of ideas about it that we have literally no reason to believe in the first place.
 
-What would happen if you reversed this—if you were to fully immerse your attention in _that-which-is-unmistakably-here_, while deeply releasing the pretense of having any idea what it is or what's causing it? Remember, you don't even know that you've experienced anything _before_ this very moment.
+What would happen if you reversed this—if you fully immersed your attention in _that-which-is-unmistakably-here_, while deeply releasing the pretense of having _any idea_ what it is or what's causing it? Remember, you don't even know that you've experienced anything _before_ this very moment.
 
-If you manage to do this very precisely and sincerely, what happens is astonishing. It is like stepping through the looking glass; a complete reversal of everything you thought was "real" until that moment.
+Notice how this is the most radically honest thing you could possibly do. If you manage to do it very precisely and earnestly, you will begin to feel a whisper of wonderment. Follow it. If you do this without giving in to your mind's ploys, you will be brought to your knees with a reverence, awe, humility, joy, and love that you never thought possible. 
 
-You discover the source of your belief in the transcendent. It is _true._ Not as in transcending reality, but transcending all possible beliefs _about_ reality—including our modern "sophisticated" ones. Seeing this will bring you to your knees with a reverence, awe, humility, joy, and love—_Love_!—that you never thought possible, and will make you wonder how you ever missed it.
+What happens then is like stepping through the looking glass; a complete reversal of everything you thought was "real" until that moment. You discover _why_ you couldn't prove that time and space are real: they're not. You were _imagining_ them. What exists prior to that imagination is impossible to describe, so feel free to treat this as poetry.
 
-In time, that question—how and why we continually miss that which is closer than our very noses—slowly clarifies itself. The answer is [as big as our apparent universe](https://www.youtube.com/watch?v=ckiNNgfMKcQ), so I'll spare you. But if part of you suspects there's anything to this, I encourage you to look for yourself. You won't be disappointed.
+What you most fundamentally are is pure, infinite, Love. So is everyone and everything else—and you _are_ them. You are _all_ of it. As the self-aware _ground of being_, you have equipped yourself with a direct way of confirming this that doesn't depend on inference. It lies entirely beyond the problem of skepticism, in a concrete way.
+
+Your only purpose here is to wake Yourself—all of us—up through your unconditional Love. That's it.
+
+That is the source of your intuition about the transcendent. It is not some faraway idea, but is always right here, closer than your very nose. If you suspect that this may be true, I encourage you to look for yourself. I promise you won't be disappointed.
 
 ---
 
