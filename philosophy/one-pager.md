@@ -40,6 +40,7 @@ That is the source of your intuition about the transcendent. It is not some fara
 > _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
 
 [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI): A short story by Andy Weir. Animated by Kurzgesagt.
- 
+
+[What if God got bored?](https://www.youtube.com/watch?v=ckiNNgfMKcQ) 
 
 [^Dawkins]: _"The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but pitiless indifference."_ — Richard Dawkins
