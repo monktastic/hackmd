@@ -9,15 +9,15 @@ I have been carelessly spreading evil my whole life. I am not yet done. May this
 
 ---
 
-When you perceive someone as evil, and feel a twinge of hatred, malice, or even just the slightest contempt, you are experiencing your *own* evil. A mind that is free of evil simply does not perceive reality this way.
+When you perceive someone else as evil, and feel a twinge of hatred, malice, or even just the slightest contempt, you are experiencing your *own* evil. A mind that is free of evil simply does not perceive reality this way.
 
-If you accede to this perception, you are inviting evil to further colonize your mind. From there, it will *inevitably* leak into the world, one way or another. You will then disown any responsibility for its far-ranging consequences and come away further convinced of your own good.
+If you accede to this perception, you are inviting evil to further colonize your mind. From there, it will *inevitably* leak into the world, through one mechanism or another. You will then disown any responsibility for its far-ranging consequences and come away further convinced of your own good.
 
-You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy — or if not exactly them, then at least the rest of the world. Either way, it's _surely_ a net good. Their recalcitrance just proves that you were right about them after all, and that your cruelty is justified.
+You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy — or if not exactly them, then at least the rest of the world. Either way, it's _surely_ a net good. Their recalcitrance just proves that you were right about them after all, and that your cruelty was justified.
 
-This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ wash your hands of any complicity. They had free will, after all. Why didn't they simply choose to be better instead? You wring your hands at the sorry state of the world and vow to fight even harder.
+This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ disown any complicity. They had free will, after all. Why didn't they simply choose to be better instead? You wring your hands at the sorry state of the world and vow to deliver your righteous vengeance even harder.
 
-Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality — and the hierarchy of blame that scaffolds it — would suddenly come crashing down. It is impossible to communicate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own decisions to be unkind — but you suspect it, and do everything in your power to avoid confronting it.
+Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality — and the hierarchy of blame that scaffolds it — would suddenly come crashing down. It is impossible to communicate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own decisions to be unkind — but you suspect it, and do everything in your power to avoid seeing it.
 
 But astonishingly — and mercifully — what lies on the other side of that hellish epiphany is a glory so vast that it defies description. You discover that what you are at your innermost core is _pure unconditional love_; the primordial principle that gave birth to the universe itself. You honestly never wanted to hurt anyone — and in your deepest being, never _could_ want such a thing.
 

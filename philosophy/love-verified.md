@@ -12,7 +12,7 @@ But what if it is _not_ fantasy? What if it's not only true, but _verifiable_ in
 
 You _seem_ to be an individual being navigating a fundamentally external world of time and space. But if this is true, the [_problem of skepticism_](radical-skepticism.md) prevents you from confirming it with literally any certainty whatsoever. For example, not only can you not prove whether this is a simulation; you cannot even meaningfully calculate the _probability_ that it is[^simulation]. Similarly, you cannot call it "likely" that the past really happened.
 
-One way to deal with this is to point out that it doesn't matter: if there is really no way to tell the difference between views, then we are free to carry on _as though_ our usual view is correct. This response is logically impeccable, but it's secretly just a clever trap your mind uses to prevent you from seeing something. From seeing _everything_, actually.
+One way to deal with this is to point out that it doesn't matter: if there is really no way to tell the difference between views, then in some sense there _isn't_ one—and we are therefore free to carry on _as though_ our usual view is correct. This response is logically impeccable, but it's secretly just a clever trap your mind uses to prevent you from seeing something. From seeing _everything_, actually.
 
 The only thing you know for sure is that _something seems to be happening._ Pause and confirm this. This fact seems utterly unremarkable, and so we usually ignore it. This is a major mistake, and comically absurd: we constantly overlook the _one irrefutable thing_ in favor of _ideas_ about it that we have literally no reason to believe in the first place[^no-consciousness]. We then call this "rational" and "sophisticated."
 
