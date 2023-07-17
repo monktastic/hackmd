@@ -113,6 +113,7 @@ Descriptions of enlightenment in this tradition are hard to come by. [This quote
 
 > Enlightenment is ... observing oneself and eliminating conditioning.
 
+> The ultimate aim [of Vipassana] is to clean the mind. Nirvana is beyond mind and matter. It can come to you anytime depending on how pure you are. In that state, all senses stop functioning. It could be for a second, a minute, or longer, but for that brief period, you are beyond all sensation, all thought.
 
 ### Thai Forest
 

@@ -2,19 +2,19 @@
 
 According to the mystical view, reality is radically alive and infinitely precious, your every action has cosmic consequence, and _everything_ somehow hinges on the Love you dare express. Moreover, it is supposedly our inability to realize these truths that lies at the heart of the converging crises of our day.
 
-As beautiful as such ideas may sound, how can we be sure that they're not just delusion, born of rogue neurotransmitters ruthlessly evolved to distract us from the cold, hard, truth: that we live in a fundamentally lifeless world of "pitiless indifference"[^Dawkins]? Although this latter view may ultimately be responsible for the ennui and despair that are killing us, we still should not abandon the truth for a fantasy.
+As beautiful as such ideas may sound, how can we be sure they're not just delusion, born of rogue neurotransmitters ruthlessly evolved to distract us from the cold, hard, truth: that ours is a fundamentally lifeless world of "pitiless indifference"[^Dawkins]? Although this latter view is indeed the root cause of the ennui and despair that are killing us—along with all life on the planet—we still should not abandon the truth for a fantasy.
 
-But what if it is _not_ fantasy? What if it's not only true, but _verifiable_ in a specific way that mere beliefs—religious, scientific, or otherwise—could never even theoretically be? It would be a shame if this ship went down with the astonishing truth right under our noses.
+But what if it is _not_ fantasy? What if it's not only true, but _verifiable_ in a specific way that mere beliefs—religious, scientific, or otherwise—could never even theoretically be? It would be a shame if this ship went down with the astonishing truth right under our noses all along.
 
-> _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ — Graham Hancock
+> _When I've asked shamans about the sickness of the west, they say: "It's quite simple: you have severed your connection with spirit. Unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ —Graham Hancock
  
 ---
 
-> _Most of us suspect we don’t really know what life is. But really knowing you don't know takes some work. It requires you to clearly see that your story is just a story; and to become conscious of the deep mystery at its foundation._ — Tim Freke
+> _Most of us suspect we don’t really know what life is. But really knowing you don't know takes some work. It requires you to clearly see that your story is just a story; and to become conscious of the deep mystery at its foundation._ —Tim Freke
 
-You _seem_ to be an individual being navigating a fundamentally external world of time and space. But if this is true, the [_problem of skepticism_](radical-skepticism.md) prevents you from confirming it with literally any certainty whatsoever. For example, not only can you not prove whether this is a simulation; you cannot even meaningfully calculate the _probability_ that it is[^simulation]. Surprisingly, you cannot even call it "likely" that the past really happened.
+You _seem_ to be an individual being navigating a fundamentally external world of time and space. But if this is true, then the [_problem of skepticism_](radical-skepticism.md) prevents you from confirming it with literally _any_ degree of certainty. As far as you know, your senses (and reasoning) have been hijacked by a clever demon, and your whole world is a lie. In fact, _this_ might be the very first moment of your existence—despite what your (false) memories tell you. There is no way to estimate even the _probability_ that this is the case.
 
-One way to deal with this is to point out that it doesn't matter: if there is really no way to tell the difference between views, then in some sense there _isn't_ one—and we are therefore free to carry on _as though_ our usual view is correct. This response is logically impeccable, but it's secretly just a clever trap your mind uses to prevent you from seeing something. From seeing _everything_, actually.
+This seems vexing, until you discover the following solution: since _all_ views are equally unverifiable, you are logically free to choose whichever you like best—so why not the default view? Problem solved! Or is it? Notice that this solution _assumes_ that you are, indeed, an individual being relying on evidence and reasoning to _infer_ the nature of your reality—a fundamentally fraught endeavor. But how do you know that you _are_ such a being? Because it's "obvious"? Can you sense how this is itself a clever trap?
 
 The only thing you know for sure is that _something seems to be happening._ Pause and confirm this. This fact seems utterly unremarkable, and so we usually ignore it. This is a major mistake, and comically absurd: we constantly overlook the _one irrefutable thing_ in favor of _ideas_ about it that we have literally no reason to believe in the first place[^no-consciousness].
 
