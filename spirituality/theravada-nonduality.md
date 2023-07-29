@@ -1,7 +1,4 @@
 
-1. More secular, less mystical
-2. Anatta
-
 # Theravada and nonduality
 
 Many people find themselves drawn to the teachings of Theravada Buddhism, either because they were codified closer to the time of the Buddha than the Mahayana scriptures (and are thus perceived to be more authentic), or because they sound more secular. One question that arises is: do they give rise to _nondual realization_? The short answer is: not necessarily.
