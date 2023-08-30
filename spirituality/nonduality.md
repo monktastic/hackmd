@@ -1,10 +1,10 @@
 # Ground and groundlessness
 
-The [Perennial Philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy) states that despite their outward differences, all religions (or at least their mystical traditions) point to the same ultimate Truth: that of a transcendent "Godhead or Ground, which is the unmanifested principle of all manifestation." On the other hand, Buddhism claims that this Ground—infinitely wondrous though it is—must itself be transcended to reveal _groundlessness_, which is vastly freer still.
+According to the [Perennial Philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy), all religions (or at least their mystical traditions) ultimately point to the same ultimate Truth: that of a transcendent "Godhead or Ground, which is the unmanifested principle of all manifestation." On the other hand, Buddhism claims that this Ground—infinitely wondrous though it is—must itself be transcended to reveal _groundlessness_, which is vastly freer still.
 
-Is this "groundlessness" just another way of speaking about the same ineffable Truth, or is it meaningfully different? Should the beginning aspirant even care?
+Is this "groundlessness" just another way of speaking about the same ineffable Truth, or is it meaningfully different? Should the beginning aspirant even care? Can't they just sort it all out later?
 
-If the Buddhists are correct, then having the "right view" matters a great deal right from the outset—for the Godhead is so utterly captivating and unmistakably "ultimate" that it will otherwise be nearly impossible to release when the time comes, in order to discover the unspeakable paradox that lies beyond.
+If the Buddhists are correct, then having the "right view" matters a great deal right from the outset. Otherwise, once the Godhead is realized, it becomes nearly impossible to release when the time comes, so that one may discover the unspeakable paradox that lies beyond.
 
 Regardless of which philosophy is correct, there are indeed two radically different modes of experience worth exploring here which, over the centuries, have unfortunately become conflated into one. In this piece, we will try to tease them apart.
 
@@ -17,7 +17,7 @@ We will look through the lens of the Mahayana school of Buddhism, because the ot
 There are various ways to break the Mahayana path into stages of realization, but we will focus on three common stages:
 
 1. "I AM": The practitioner realizes that consciousness—her true identity—is primordial and untouchable by its passing contents.
-2. Nonduality: She realizes that the contents are actually made of consciousness too. (This is the Perennial Philosophy.)
+2. True Self / Godhead: She realizes that the contents are actually made of consciousness too. (This is the Perennial Philosophy.)
 3. No self / groundlessness: The container / contents duality collapses; consciousness does not transcend its "contents" but _is_ precisely them. The permanent background is seen to be an illusion—the most compelling one of all—leaving no stable reference point for identity to crystallize around.
 
 As we shall see, even within Buddhism, some teachers and lineages seem to top at stage one or two.
@@ -70,7 +70,7 @@ The Royal Seal of Mahamudra, a Tibetan Buddhist text (emphasis mine):
 
 Some teachers call this stage "nonduality" because the subject—pure consciousness—becomes _aware of itself_ for the first time. Nonetheless, it is a strong form of duality. But with the right pointers, the practitioner may begin to detect that this sense of separation is an illusion.
 
-### Stage 2: Nondual
+### Stage 2: True Self / Godhead
 
 Author Sam Harris describes the next transition beautifully:
 
@@ -88,7 +88,7 @@ Notice the asymmetry. Prof. Haridas Chaudhuri, in The Concept of Brahman in Hind
 
 > The relation between Brahman and the world, if we can speak of any relation at all, is an asymmetrical one, because even though the world is pervaded by Brahman, Brahman cannot be said to be pervaded by the world. The world is a form of appearance of Brahman, but appearances cannot be said to be the stuff of which Brahman is made.
 
-This asymmetry can be hard to detect in writing. For example, consider this quote from nonduality philosopher / teacher Ken Wilber:
+This is _asymmetrical nonduality_. This asymmetry can be hard to detect in writing. For example, consider this quote from nonduality philosopher / teacher Ken Wilber:
 
 > All subjects and all objects have disappeared. The mountain is still the mountain, but it is not an object being looked at, and I am not a separate subject staring at it. 
 
@@ -108,13 +108,13 @@ Philosopher Bernardo Kastrup:
 
 Objects cannot exist without subject, but Subject exists independently of objects.
 
-Here is what Hakuin has to say about this stage:
+Hakuin:
 
 > Mind and the objects of mind are one and the same; things and oneself are not two... But if the student, having reached this state, were to be satisfied with it, then, as before, he would be living in the deep pit of "fixation in a lesser rank of bodhisattvahood."
 
 ### Stage 3: No-self (anatman / anatta)
 
-Stage two is already a high stage of realization—but there is still one final step to take: the Godhead must somehow release itself from the illusion of inherency. This is tricky business, because it is so self-evidently Real and Ultimate: after all, whenever it looks for itself, there it is. It never suspects that It may be continually dreaming Itself into existence.
+Stage two is already a high stage of realization—but there is still one final step to take: the Godhead must somehow release itself from the illusion of inherency. This is tricky business, because it is so self-evidently Real and Ultimate: after all, whenever it looks for itself, there it is! It never suspects that It may be continually dreaming Itself into existence.
 
 When the bottom finally drops out, the asymmetry is thoroughly dissolved: appearances are consciousness, _and consciousness is seen to be nothing but appearances_. "Consciousness" is not a standalone phenomenon, but a simple label for the fact that anything appears at all.
 
@@ -161,7 +161,7 @@ Musician Shimshai, roughly translating an ancient Hindu hymn:
 
 Because Brahman _transcends_ its appearances, it is eternally detached from (and indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to fly off to: This Is It, and insofar as "you" means anything, you are precisely This.
 
-Read Thich Nhat Hanh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) to get a deep sense of this intimacy. While the idea of "detachment" does appear in Buddhism, it never refers to oneself being separate from the world; it is about not fixating.
+Read Thich Nhat Hanh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) to get a deep sense of this intimacy. While the idea of "detachment" does appear in Buddhism, it never refers to oneself being separate from the world; it is merely about not fixating.
 
 ### Different meanings of "unreality"
 
