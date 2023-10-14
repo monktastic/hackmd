@@ -12,7 +12,6 @@
 
 > *The road to hell is paved with good intentions.* — Proverb
 
-
 > *We judge ourselves by our intentions and others by their behavior* — Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
 
 ---
@@ -45,10 +44,22 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 
 > *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.* — Carl Jung
 
-> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* — Carl Jung
+> *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* — Carl Jung, 1975
 
 
-> *If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being.* — Alexander Solzhenitsyn, The Gulag Archipelago
+> _If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?_ —Alexander Solzhenitsyn
+
+---
+
+### Near-death experiences
+
+> I wasn’t just watching the events; I was actually reliving them again, while at the same time I was also re-experiencing the actions from other people’s points of view. I _was_ them. I was reliving the experience from their point of view and at the same time (and I don’t know how this works) I was also experiencing it from a higher reality; the truth of the matter. So what I saw was my own lies and my own self deception to myself, which I had used to convince me that doing certain things was okay because people had deserved it. Then I was experiencing the emotional impact it had on other people. I felt their pain. I felt the shock on them. At the same time I also saw that they have their own lies and self-deceptions.
+>
+> The result was that I felt like a failure as a person. I wasn’t the person I had thought I was. It was humiliating. I felt really dreadful and it was completely humbling.
+>
+> The judgment came all from myself. It was not from an outside source. But then this being that was with me was also sending me comforting messages – thank goodness! – and one of them was it was alright as I was only human.
+>
+> The entire experience gave me a second chance to live a more meaningful life. I felt I had a chance now to change things so that the next time I get back to the life review it wouldn’t be the same or at least they would say, “He tried.”
 
 ---
 

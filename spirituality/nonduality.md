@@ -300,5 +300,31 @@ May all beings attain full enlightenment.
 🙏🏽
 
 
+---
 
+## Addendum
 
+See if you can determine which stage the following quotes are pointing at.
+
+Another very popular Tibetan teacher:
+
+> [A]wareness remained with me, **unchanging**. I saw that awareness was **beyond** the pain and suffering I was experiencing—beyond life or death. ... This experience echoed what I had always heard from my father, the great Dzogchen master [...]. “Whatever arises—concepts, feelings, your body, subject and object, everything—is like clouds in the sky,” he said. “They come and they go. **Your true nature, awareness imbued with love, compassion, and wisdom, is like the sky itself.**”
+
+And:
+
+> So what is the true nature of mind? It is taught that mind has three qualities. [...]
+> 
+> The first of these qualities is emptiness [...] **a space out of which everything arises**. The second quality of mind is [that] it is luminous in the sense that it knows, it experiences. The third quality is that the emptiness and luminosity of mind are inseparable. [...] All that we experience arises **within this and out of this**. Thoughts come and go, emotions come and go, experiences come and go, but all are **manifestations of** the mind’s nature of emptiness–luminosity. [...]
+> 
+> In the moment of recognition of our true nature, we realize **who we are and always have been**. We see our buddhanature at last.
+
+And:
+
+> The main meaning of **enlightenment** is to fully recognize our true nature.  [...]
+>
+> Realization – the stable awareness of the true nature of your mind – is like the sky itself, an unchanging background against which shifting experiences occur.
+
+And:
+
+> In a place called Bodhgaya [...] he finally discovered what he was looking for: a fundamental awareness that was unchanging, indestructible, and infinite in scope.
+ 
