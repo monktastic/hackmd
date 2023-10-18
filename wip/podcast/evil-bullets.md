@@ -5,31 +5,26 @@ In 2008, while on a three-month self-led mostly-silent meditation retreat at a T
 
 That gave me a tiny bit of insight into how to bring it down from the inside, which I'd like to share. Toward the end, I'll explain the role that I think psychedelics can play in this transformation.
 
-I'll start by talking about the nature of evil.
+Allow me to build up to that. I'll start by talking about the nature of evil.
 
 ---
 
 ## Ch 1: evil
 
 - Evil is insanely clever, and its greatest trick is to cause us to overlook its presence within our own minds. 
+  - To the extent that we do see it, we believe it's there to help us fight the "real evil" out there.
  
-- To the degree that we do see it, we believe it's there to give us the edge we need to fight the "real evil" out there.
- 
-- It hides our own hypocrisy from us while making us highly sensitive to it in others. 
-
-- When we do become aware of our own, we excuse it.
+- It hides our own hypocrisy from us while making us highly sensitive to it in others. We excuse our own, while condemning it in others.
 
 - That's because our evil has us convinced that we are fundamentally good, unlike them. Therefore, we don't have to play by the same rules.
   - We can safely engage in behaviors that we wouldn't tolerate in others, because we are doing it to _fight_ evil, whereas they do it because they _are_ evil.
-  - We can also let our guard down, because we could never slide down the slippery slope and become evil ourselves.
+  - We can also let our guard down. We don't have to worry about sliding down the slippery slope and becoming evil, because that could only happen to bad people.
 
-- But that belief is itself the clearest sign that it has already infected the deepest aspect of our mind.
+- But that belief is itself the most reliable indicator that it has already infected the deepest aspect of our mind.
 
-- Evil is like a distributed organism, with control centers in each of our minds. As such, it is playing a game at a higher level than any of us are individually aware of.
+- Its whole game is to prevent us from seeing the full extent of our complicity in the horrors of the world.
 
-- Yet, part of our mind is always able to perceive this game in its horrific entirety.
-
-- All evil has to do to win is to prevent us from looking. And right now, it is kicking our asses.
+- If it can keep the whole world playing its game, it wins. And right now, it is kicking our asses.
 
 ---
 
@@ -37,43 +32,61 @@ I'll start by talking about the nature of evil.
 
 - The deepest aspect of our mind knows right from wrong. That's our conscience—not to be confused with our consciousness.
  
-- We sometimes act against our conscience: we do things that deep down we feel are wrong, but we don't let this knowledge into our conscious minds. Instead, our minds concoct a very clever cover story in which what we're doing is righteous. This is self-deception.
+- We sometimes act against our conscience: we do things that deep down we feel are wrong, but we don't let this knowledge into our conscious minds. Instead, our minds concoct a very clever cover story in which what we're doing is okay. This is self-deception.
 
 - All the evil in the world ultimately boils down to some form of self-deception, but we rarely recognize it as such. We don't see in others a more extreme form of something that we ourselves are engaged in; we believe we're looking at a different phenomenon entirely.
 
-- We don't see a person who, like us, is fundamentally decent, but deluded. We perceive a fundamentally "bad person." Someone morally defective, unlike us. Our political opponents are an obvious example.
+- We don't see a person who, like us, is fundamentally decent, but flawed. We perceive a fundamentally "bad person." Someone morally defective, unlike us. Think about your political opponents.
 
-- Because we're decent people, we may first try to correct them before escalating to emotional and then maybe physical violence. But part of us knows that it's pointless to try and fix a broken person, so our attempts are half-hearted at best: less correction and more condescension. 
+- Because we're decent people, we may first try to correct them before escalating to emotional and then perhaps physical violence. But part of us knows that it's pointless to try and fix a broken person, so our attempts are half-hearted at best: less correction and more condescension. 
 
 - Yet we already know that this isn't going to work, and so we're already prepping for the inevitable escalation. We act dismayed, but part of us secretly wants things to escalate.
 
 - Your conscience can actually perceive that this person is ultimately just like you, and neither deserving of, nor helped by, contempt.
 
-- Yet we don't listen to our conscience. We refuse to believe that this disgusting person is anything like us. So we turn away from our conscience, and pretend not to hear it. The only place left to turn is toward our darkness.
+- But the darkness in your mind cleverly prevents you from seeing this. It causes you to perceive a "bad person"; someone whom it is your duty to treat with contempt. It knows that this will provoke escalation — and that is what it actually wants.
+
+- This behavior will cause everyone — you, your victim, your allies, bystanders — to become slightly nastier and more self-deceptive people.
+
+- Whatever temporary positive effects may result, the world becomes a little darker.
+
+- But you won't be able to see this. Your darkness will ensure that all you see is a win. Any negative effects can be blamed entirely on your evil enemy. You were only fighting evil, and how could that ever be wrong?
+
+
+- It is really worth pausing to feel how compelling that story is. How natural it is to feel contempt for bad people. How obviously righteous it is. How nobody can convince you otherwise — and if they try, well, _they're_ probably evil.
+
+- Because part of your mind knows unequivocally that this story is a sham; that such behavior doesn't actually serve the purpose it pretends to. Yet it is so incredibly alluring.
  
-- Our darkness causes us to perceive a person worthy of contempt. This way, it can create a compelling cover story in which being cruel is not just okay, but positively righteous. That way, it can create mayhem in the name of good.
 
-- But part of us always knows that this is what we're secretly doing. It is self-deception.
+- This is how our darkness masquerades as our conscience.
 
-- We believe we're fighting their evil with our righteousness, but actually we're trying to fight their self-deception with our own.
+- If you can see just this one thing with complete clarity, you will understand the secret trick behind all the evil there ever was. And you will discover the only way to end it.
 
-- This cannot work. Self-deception cannot fight self-deception; it can only amplify it. Another way to say this is that evil never actually fights evil; it only pretends to, so that it can create more of itself, under the guise of good.
+[//]: # (- Evil never actually fights evil; it only pretends to, in order to create more of itself with our unwitting assistance.)
 
 ---
 
 ## Ch 3: compassion
 
-- The only real solution to this problem is compassion.
+- If you think I'm going to tell you to be nice, think again. The problem isn't that you were being mean, it's that you were being self-deceptive.
 
-- Now, that word probably evokes images of being soft, gentle, nice. And while those are surely fine qualities, they're worse than useless against evil. 
+- Part of you knew, even as you were doing it, that you were acting against your conscience. Because when we're acting in alignment with our deepest values, contempt and self-righteousness are actually impossible.
 
-- But that's not at all what compassion actually means. Our darkness has just convinced us that it is, so that we will write it off, and fail to discover the one thing that can actually end it.
+- No matter how well you hide this self-deception, people can always sense it, even if only subconsciously. And it invites their minds to do the same.
 
-- **In truth, compassion can be as fierce or potentially even violent as necessary.** 
+
+- The opposite of self-deception is compassion.
+
+- That word probably evokes images of people being nice and sweet. Those are surely fine qualities, but they are worse than useless against evil.
+ 
+- But that is not what compassion means. It is our darkness that tries to make us think that it is, so that we will write it off, and fail to discover the one thing that can actually kill it. 
+  - Part of our duty must be to reclaim that word.
+
+- **Compassion can be as fierce or potentially even violent as the situation requires.** 
 
 - The Dalai Lama was once asked what you should do if a gunman is trying to kill you and you have a gun. He said, well, shoot back. There's nothing nice about that. But in what sense is it compassionate?
 
-- Compassion is the realization that at the deepest level, all you really want is for everything to feel totally okay, and that this is what everyone else wants, too (despite clear appearance to the contrary). 
+- Compassion is the realization that at the deepest level, all you really want is for everything to feel totally okay, and that this is what everyone else wants, too (despite obvious appearance to the contrary). 
 
 - But it's not enough to simply _believe_ this. If you look at a Hitler and think oh, poor guy just wants to feel better, well, that's not going to end well.
 
@@ -85,65 +98,83 @@ I'll start by talking about the nature of evil.
 
 - You see, reality is actually one seamless whole which you only appear to be separate from. This illusion of separateness is called the ego, and it is our normal mode of operation. But below that level, certain universal truths can be glimpsed.
 
-- In particular, you discover that the nature of mind is intrinsically compassionate. It's what you most fundamentally are. But we quickly forget this. Then, having lost contact with our _absolute_ goodness, we have to settle for _relative_ goodness.
+- In particular, you discover that the nature of mind is intrinsically compassionate. It's what you most fundamentally are.
 
-- This is a good that requires other people to be bad. In other words, our ego _needs_ bad people to exist in order to maintain its self-perception as good.
+- And this isn't just true of your mind; it's a truth about minds in general. You may wonder how it's possible to discover truths about other people's minds, and the short answer is that they're not truly other. It's... hard to explain.
 
-- But we can't just go about creating bad people in an obvious way, because that would destroy our self-image.
+- Maybe the simplest way to convey this is that when a mind is completely clear and unconfused at its very deepest levels, it has no use for malice. It perceives the incredible beauty of reality and naturally desires to contribute to it.
 
-- So our ego must go about doing this in an underhanded way. We seek out people who we can reasonably label bad, and then find ways to harm them, because we know that this will make them a little worse.
+- Being separated from our true nature is intrinsically painful, and humans do the darndest things to try and get back.
 
-- Of course, we must never admit to ourselves that we're doing this, which is why this idea probably strikes you as preposterous.
+- For example, we know that "hurt people hurt people."
 
-- This is the origin of self-deception. Our inability to perceive our absolute goodness forces us to seek it relatively. From there, we quickly end up lost in a maze of projections.
+- If you understand this saying, it's because you've learned to perceive something about people. 
+  - You see how pain can lead to misbehavior, even when that connection is far from obvious. Their misbehavior is an extremely well-disguised cry for help.
+  - Now, the more well-disguised it becomes, the less we are able to consciously recognize it as such.
+  - Except this isn't quite true, either. It's not that we're less _able_ to perceive it. It's that the less it conventionally looks like a cry for help, the more our darkness realizes that it can use this as an excuse to cause more harm with plausible deniability.
 
-- When you rediscover the true nature of your own mind, you automatically perceive it in all others. You discover the ultimate source of their misbehavior. You also see what is required to undo it.
+- For example, we might think well, I was hurt, and I turned out okay. There must be something wrong with the ones who didn't, so they don't deserve my compassion. But if you feel this way, then perhaps you did not, in fact, turn out okay. 
+  - This is not a judgement of you. We are all hurt people who hurt people.
 
-- This is the only way to truly reduce the evil in the world, instead of unwittingly amplifying it.
+- If you make contact with the true nature of your mind, however briefly, you perceive this directly. It is the ultimate source of literally all misbehavior.
 
 ---
 
-## Ch 5: hurt people
+## Ch 5
 
-- We are all familiar with the example of how "hurt people hurt people."
+- But as we saw before, sometimes hurting bad people is the right thing to do. How do we know _when_ it is right?
 
-- When we are made to feel unworthy of love, it hurts so much that we can't bear to face it. We think "How could a fundamentally decent person like me be made to feel this way? And why isn't anyone trying to help? What a cruel world. If the world won't give me the simple comfort that I need, well, who can blame me for taking it myself?"
+- It comes down to whether it's done from compassion or self-deception.
 
-- Meanwhile, the rest of us don't perceive a fundamentally decent person trying to get the love they desperately need; we simply perceive a bad person. Because if we were in their shoes, we wouldn't be crying out for help by doing bad things. We would simply pull ourselves up by our bootstraps, or else at least ask nicely, like a decent person.
+- Remember, being compassionate doesn't mean being nice. It just means having authentic insight into the hidden causes of misbehavior. From this perception, sometimes what people need really is a swift kick in the ass, or worse.
+  - The difference is that it won't feel malicious in the slightest bit. There is no perception that they are intrinsically bad, and no pleasure in making them suffer.
+  - You won't get that righteous hit of fighting evil. It's a much more wholesome joy of watching delusion evaporate from this world.
 
-- Therefore, it is our moral duty to remind them of how awful they are. We don't see that this is self-deception, and that pushing them further from love is actually just an attempt to elevate ourselves; that it's not designed to improve the world like we pretend.
+- It may not seem like this change in intention matters much, but it makes all the difference in the world. One of those behaviors leads to a downward spiral. The other leads to a virtuous spiral.
 
-- Again, being compassionate doesn't mean being nice to them. It just means gaining authentic insight into the hidden causes of their misbehavior instead of mindlessly acting from ego. We may still have to deliver tough love, but the crucial point is that it is a form of love. From the outside, it may not look anything like love, but we know the difference from the inside.
+- That's because people are ridiculously sensitive to our true intentions, even if only subconsciously.
+ 
+- You can mock or shame someone with malice, or with compassion, and though the two may look almost identical, the ultimate result will be wildly different.
 
-- It may not seem like this change in intention matters much, but it makes all the difference in the world. **Every act of self-deception, no matter how small or carefully disguised, creates more self-deception in the world. And contempt is always a sign of self-deception. Conversely, every action that's compassionate — that is, free of such deception, will heal this tendency, and thus reduce evil.**
+- If you do it via compassion, part of them can sense that you're someone who can be trusted at the deepest level—even if their conscious mind isn't ready to admit it yet. Their fundamental goodness recognizes yours as an ally. 
+  - Your words will therefore deeply penetrate their minds and gnaw away at their self-deception. 
+  - A seed has been planted. Not only in their minds, but also that of bystanders.
 
-- This sounds like a belief, but it is actually a perception that develops as we discover the true nature of our minds.
+- On the other hand, if your behavior is malicious, everyone can sense this too, and it will have the opposite effect.
 
-- Learning to distinguish which of our motivations are genuinely benevolent and which are egoic is central to the fight against evil. Without this, part of your mind will be secretly conspiring with the darkness instead of fighting it.
 
+- Now, it is said that "the road to hell is paved with good intentions." This does not refer to genuine compassion, but those intentions that we pretend are good.
+
+- That is why it is so crucial to gain skill in recognizing our true motivations. 
+  - We have a ridiculously strong tendency to deceive ourselves about them.
+ 
 ---
 
 ## Ch 6: meditation
 
-- As an aside, this helps explain why even breathing meditation can be effective at inducing kindness. It helps you become aware of what your mind is doing.
+- As an aside, this helps explain why even breathing meditation can be effective at inducing kindness. It helps you become aware of what your mind is actually doing.
 
 - Let me use an analogy. Have you ever been reading a book, only to realize that your eyes are still scanning the page while your mind is doing something else entirely?
 
-- What was happening during that zone-out? Were you conscious or unconscious? 
-  - On one hand, if I had interrupted your reverie and asked what you were thinking about, you could have told me. So you weren't unconscious. 
-  - On the other hand, you weren't aware of what your mind was doing. That's why it felt like an "oops" when you finally realized it.
+- Were you conscious or unconscious during that time? 
+  - On one hand, if I had interrupted your reverie and asked what you were thinking about, you could have told me, because you were conscious.
+  - On the other hand, you weren't aware that you were doing it. That's why it felt like an "oops" when you realized it.
 
-- This is a kind of limbo state, which we occupy far more often than we realize. It took me weeks of full time meditation to begin to notice that almost my entire life had been spent in that pseudo-conscious state. Until you see it for yourself, this is very hard to believe.
+- This should astonish you. You are capable of doing things with full consciousness yet without knowing that you're doing them.
 
-- Your darkness uses that liminal space to encourage your mind to go down dark roads that you might otherwise not be willing to drive down. Therefore, closing those mindless gaps is the first step in ending one's self-deception.
+- In this case, it was easy to bring those thoughts into the light of self-reflective awareness. But it is not always so easy. 
+  - It is a variation of this state that allows people to be self-deceptive, and you cannot simply shake them out of it, for the same reason that nobody has succeeded in shaking you out of it. The defense mechanisms run deep.
 
-- Meditation, in this context, is simply becoming aware of what your mind is actually doing. Following the breath is like reading a book. At some point you will notice oops, I was distracted. Each time this happens, you gain a little insight into why you zone out, and it happens less and less.
+- Such limbo states happen far more often than we realize. 
+- It took me weeks of full time meditation to begin to notice them in myself. I wouldn't have believed you if you had told me before.
+
+- Meditation, in this context, is simply becoming aware of what your mind is actually doing. Following the breath is like reading a book. At some point you will notice oops, I was distracted. Each time this happens, you gain a little more insight into how your mind tricks you into zoning out.
 
 - As a result, you become more present in life, and it is correspondingly easier to hear the voice of your conscience, and much harder to pretend that you don't.
 
 - So meditation doesn't _produce_ kindness by altering your moral beliefs; it simply makes you more aware of which voice you're actually following.
 
-- As you follow this rabbit hole deeper, you discover that you haven't always been following the voice that you thought you were. And neither has most of the rest of world.
+- It is horrifying to discover that you haven't always been following the voice that you thought you were.
 
 ---
 
@@ -151,33 +182,59 @@ I'll start by talking about the nature of evil.
 
 - As you see this, you begin to perceive the world in an entirely new light.
 
-- You see how political rivalry escalates into civil war, without anyone being consciously aware of their role in bringing it about. Everyone believes they were fixing the problem by being nasty to the bad guys. We were just fighting evil.
+- You see how political rivalry escalates into civil war, without anyone being consciously aware of their role in bringing it about. Everyone believes they were fixing the problem by being nasty to the bad guys, although part of them knew what was actually happening.
 
-- You see how the most evil people (so to speak) can do what they do without feeling remorse. In a very real sense, they don't know that what they're doing is wrong. Of course, some part of them absolutely does know. But another part is carefully hiding this from conscious self-reflection.
-  - Until you have seen clearly how your own darkness keeps large aspects of your mind hidden from you, it's impossible to recognize what's actually happening in them, and thus, to do anything genuinely useful about it.
-  - Now, I don't mean to oversimplify the problem. In many cases, people's darkness is so entrenched that attempting to be compassionate can actually backfire. That's not because compassion was the wrong approach; it's because we haven't developed sufficient insight to be genuinely compassionate. We're probably just being nice. This is sometimes called idiot compassion.
-  - It also takes wisdom to employ our compassion effectively. That is the work of a lifetime or lifetimes. I have a long way to go here.
-  - But what I do know is that this a particularly important time to be aware of my tendency to become self-righteous and malicious. Because the only thing worse than letting evil win is secretly joining forces with it. And the more profound the evil, the greater the risk of my doing that without realizing it.
+- You see how the most evil people can do the terrible things they do without feeling remorse. In a very real sense, they don't know that what they're doing is wrong. Of course, some part of them absolutely does know. But another part is carefully hiding this from conscious self-reflection.
+  - And this isn't grounds for contempt, like it once seemed.
+  - Until you have seen clearly how your own darkness has kept large aspects of your mind hidden from you, it's impossible to recognize what's actually happening in them.
+  - Now, I don't mean to oversimplify the problem. In such cases, their darkness is so entrenched that attempting to be compassionate can actually backfire. 
+  - That's not because compassion is the wrong approach; it's because we haven't developed sufficient insight to be genuinely compassionate in such difficult cases. We may just end up being nice, and we already know how well that works against evil.
+  - It also takes wisdom to employ our compassion effectively. That is the work of a lifetime or lifetimes, and I am not especially skilled here.
+  - But what I do know is that this a particularly important time to be alert for my tendency to become self-righteous and malicious. Because the only thing worse than letting evil win is secretly joining forces with it. And the more profound the evil, the greater the risk of my doing that without realizing it.
+
+
+- The most painful thing I saw was what a complete and utter hypocrite I am, and how much of the world's ills can ultimately be traced back to my own behavior.
+  - Instead of changing my behavior, I simply point at the people with more complicity, so that I don't have to change.
+  - I'm not suggesting that we shouldn't find the points of greatest leverage.
+  - It's just that if I look carefully enough, I can see how my resistance to personal change is secretly working against those structural changes.
+  - It's not that I have to become completely virtuous before I can change the world. It's that I must become completely honest.
 
 ## Ch 7b
 
-- Perhaps the most astonishing you may discover is how humanity managed to create a system that allows a small handful of greedy sociopaths to destroy our world despite the vast majority of us seemingly fighting against it.
-  - It happened because our darkness needed there to be easily-identifiable bad guys on whom we could pin the blame, so that we would never have to confront our own misdeeds. So we unconsciously architected a system in which such people have to exist. 
-  - **Such a system will continue to run the world for as long as we avoid owning up to our own contribution. It is completely inevitable.**
-  - To be clear, I am not blaming us _instead_ of them. **But I have been forcibly shown with terrifying precision how every tiny act of unkindness that I've perpetrated on this world was secretly designed to create people that I could then turn around and blame everything on.**
-  - Earlier I said we "unconsciously" architected it, but that's not entirely accurate. The biggest shock was discovering that part of me knew exactly what I was doing, even as I was doing it. **I _chose_ to turn away.** Nothing could be more painful than being shown what a complete and utter hypocrite I am.
-  - There IS a secret evil global conspiracy responsible for all the horrors of the world, and part of my own mind has always been in on it.
+- The most shocking realization is how your darkness and mine aren't actually separate. 
 
-  - The people who I normally think of as pulling the strings are caught in the very same trap. They aren't _more_ aware of their roles in it. To the contrary, they can only effectively fulfill those roles because their self-deception is more effective at hiding it from them.
-  - I'm not defending them. It's not that they're _unaware_ of what they're doing; it's that their mind has concocted an insanely clever cover story that makes it appear okay.
-  - When I see someone doing this, my instinct is to try to force them to admit it. And it's very hard not to feel contempt while doing so.
-  - The problem is that contempt is an unmistakable sign that _I_ am lost in self-deception.
-  - Their darkness will immediately latch onto that. And instead of my behavior helping them see _their_ hypocrisy, they will become fixated on mine — just like I do when a hypocrite tries to moralize me.
-  - I can only make other people conscious of their self-deception to the degree that I am not expressing my own. Because then, theirs has nothing to latch onto. For a brief time, this robs it of its power, and there can be a moment of clarity. Their inner light (as it were) is able to shine through, briefly dispelling the clouds of delusion.
-  - Before, your evil was secretly allied with theirs. Now, it's the opposite: your light is awakening theirs. On the surface, you may still be enemies, but underneath, you are beginning to fight the same battle — the one against delusion.
-  - **That is why evil's greatest trick is to keep our attention fixated externally, on the evil "out there." This effectively prevents us from doing the inner work that could actually put an end to it.**
+- This is hard to describe, but they're actually more like limbs of a single distributed super-organism.
 
-- Now, it would be insane for me to see all this and still harbor malice. Yet I often do. So nothing in this talk should be misconstrued as suggesting that I am in any way better than anyone. My only purpose is to share what I have seen.
+- The evil in me seeks out the evil in you not to fight it, but to join forces with it. 
+
+- In this way, humans form a vast network by which this shadowy organism communicates with itself beneath our conscious threshold.
+
+- It is leveraging our intelligence to produce horrifying outcomes that no individual would claim to want, yet which we, through our collective self-deception, are each secretly contributing to.
+
+- This is the conspiracy I alluded to earlier. This collective evil is responsible for all the mayhem in the world, and it does this in a way that prevents anyone from ever suspecting it.
+
+- You are literally feeding this organism every time you feel contempt or malice for any human being. 
+
+- Your fight isn't really against other people, no matter how evil. It's against the parasite in their minds. And the only way to evict that parasite from their minds is to discover how it has infected yours. Otherwise, you cannot help but be its unwitting minion.
+
+- The first time I saw this clearly, the biggest shock was discovering that I wasn't actually an unwitting participant. Part of me has always known that I've been in on this conspiracy to produce more evil.
+
+- Every single act of unkindness I perpetrated on this world was knowingly feeding the beast. I just couldn't admit it to myself.
+
+- I am a hypocrite. I have no leg to stand on when I blame other people for being evil.
+
+- Nothing in this talk should be misconstrued as suggesting that I am in any way better than anyone. My only purpose is to share what I have seen, and here is the heart of it.
+
+- Our mission is to kill this organism. 
+
+- The more deeply you realize your true nature, the more deeply you can pierce the minds of others. 
+
+---
+
+- I can only make other people conscious of their self-deception to the degree that I am not expressing my own. Because then, theirs has nothing to latch onto. For a brief time, it is robbed of its power, and the person may have a moment of clarity. Their inner light (as it were) is able to shine through, briefly dispelling the clouds of delusion.
+- Before, your evil was secretly allied with theirs. Now, it's the opposite: your light is awakening theirs. On the surface, you may still be enemies, but underneath, you are beginning to fight the same battle — the one against delusion.
+- **That is why evil's greatest trick is to keep our attention fixated externally, on the evil "out there." This effectively prevents us from doing the inner work that could actually put an end to it.**
+
 - I believe that it will take the concerted effort of everyone who's concerned about the problem of evil doing this inner work to finally put an end to the madness.
 
 ---
@@ -188,7 +245,7 @@ I'll start by talking about the nature of evil.
 
 - The word judgment is another word that, like compassion, has been repurposed by evil. 
   - If judgment simply means wise discernment of right from wrong, then of course we should judge. 
-  - But we don't stop there. We sneak in contempt and condescension. We tell ourselves that this doesn't sully our motivation to judge, which comes from a good place.
+  - But we don't stop there. We sneak in disdain and condescension. We tell ourselves that this doesn't sully our motivation to judge, which comes from a good place.
   - But it does sully it. As we saw, it produces exactly the opposite effect. And part of us intends this.
 
 - Another such word is outrage. If you're not outraged, you're not paying attention, right? Right! _If_ outrage means virtuous anger directed at correcting injustice. But we tend not to leave it at that. We usually bring in self-righteous indignation. This is our darkness hitching an easy ride.
@@ -201,8 +258,6 @@ I'll start by talking about the nature of evil.
 
 - Again, perceiving darkness in another person's mind is a blaring signal that your darkness is trying to take control of yours. Please watch out.
 
-- Finally, it is said that "the road to hell is paved with good intentions." That depends on what we mean by intentions. The intentions of your conscience do not lead to hell. It is only when filtered through our egos, where we _believe_ we're doing good, that this leads to hell.
-
 ## Ch 9: psychedelics
 
 - Psychedelics are a fantastic way to show you this. Eat enough mushrooms, and you will be shown, in painstaking detail, how every act of unkindness you ever committed contributed to a world that you then turned around and contemptuously judged. 
@@ -212,7 +267,13 @@ I'll start by talking about the nature of evil.
 - God almost seems vengeful. But at the end of eternity, he has a giant surprise for you. It turns out you were Him all along, pretending that you weren't. You may then be taken through every incarnation of human existence; you live the lives of everybody. No wonder you had to be self-deceptive to harm them. They were all you.
 - You were that Karen who got owned. You didn't want to become that person. Nobody could want that. It's only possible when the mind is contorted in an extremely painful way. You were also the one laughing at her. You knew that you were taking pleasure in seeing her get pushed deeper into her pain. That, too, was only possible because your mind was distorted by unhealed trauma.
 - After going through all the iterations of humanity, and witnessing the heartbreaking tragedy of it all, you are then dropped into an endless ocean of perfect love, which is actually what you are. You're not merely forgiven; you see that you never actually committed the sins that you just imprisoned yourself for.
-- The only mistake you ever made was forgetting who (or what) you actually are. From this innocent mistake arose the fear that you might not be good. Instead of confronting that fear, you projected it outward, and had to dream up an entire physical reality of victims and perpetrators. You then had to vanquish the latter to prove your own goodness and return Home. But part of you felt guilty for doing so, because deep down you knew that they didn't deserve this. To cover up this guilt, you had to project even harder. Thus began an endless cycle which to this day you struggle to escape.
+- The only mistake you ever made was forgetting who (or what) you actually are. 
+  - From this innocent mistake arose the fear that you might not be good. 
+  - Instead of confronting that fear, you projected it outward, and had to dream up an entire physical reality of victims and perpetrators. 
+  - You then had to vanquish the latter to prove your own goodness and return Home. 
+  - But part of you felt guilty for doing so, because deep down you knew that they didn't deserve this. 
+  - To cover up this guilt, you had to project even harder, creating increasingly terrible-seeming people. 
+  - Thus began an endless cycle which to this day you struggle to escape.
 - You see that you could have skipped all that heartache by just coming home directly. 
 - You are then returned to your usual bozo self, where you are given the chance to try again, now equipped with the astonishing truth.
 - It is impossible to communicate the profundity of this realization. It can occur on psychedelics, but also during totally sober meditation. To get a taste of it, read Thich Nhat Hanh's poem _Call Me By My True Names._
@@ -246,3 +307,11 @@ I'll start by talking about the nature of evil.
 ---
 
 Social norms?
+
+When we hear of a brutal crime, we often feel malice toward the perpetrator. Depraved.
+
+Making a big show about hating the perpetrators.
+
+That is the only reason that self-righteousness, contempt, and malice exist: to secretly create conditions where we get to feel more of those things.
+
+Herd immunity.
