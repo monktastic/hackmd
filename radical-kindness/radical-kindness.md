@@ -31,7 +31,7 @@ The whole thing started off as an innocent misunderstanding, but it quickly spir
 
 Make no mistake: people *do* act out evil, and it must be relentlessly fought. But the crucial insight is that the evil is not intrinsic to their minds: that is just a trick your _own_ mind uses to hide your own complicity from yourself, and only buries us all deeper into the maze. This one "small" shift in perception changes absolutely everything.
 
-I suspect it is not until we see just how badly we've been trapped — without ever suspecting it — that we discover the true meaning of compassion, and begin the long journey of healing.
+I suspect it is not until we see just how cleverly we've been trapped — without ever suspecting it — that we discover the true meaning of compassion, and begin the long journey of healing.
 
 Alas, seeing this once is (generally?) not enough. The same message must be driven home repeatedly in different ways until we finally Get It. In case you're wondering, I certainly have not.
 

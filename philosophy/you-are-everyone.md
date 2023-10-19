@@ -24,7 +24,7 @@ The Egg ([story](http://www.galactanet.com/oneoff/theegg_mod.html) and [video](h
 > I think it’s an absolutely beautiful idea [...]. It brings understanding, empathy and equity to a whole other level.
 
 
-A section from Zen Master Thich Nhat Hanh's [poem](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) _Call Me By My True Names_:
+A section from Zen Master Thích Nhất Hạnh's [poem](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) _Call Me By My True Names_:
 
 > _I am the child in Uganda, all skin and bones,  
 > my legs as thin as bamboo sticks.  

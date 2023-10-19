@@ -65,7 +65,7 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 
 ### You are everyone
 
-A section from of [Please Call Me By My True Names](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) by Thich Nhat Hanh:
+A section from of [Please Call Me By My True Names](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/) by Thích Nhất Hạnh:
 
 > I am the child in Uganda, all skin and bones, 
 > my legs as thin as bamboo sticks.
