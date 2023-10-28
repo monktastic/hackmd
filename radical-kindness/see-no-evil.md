@@ -10,7 +10,7 @@ Note: I am complete and utter hypocrite. Everything in this piece applies 100% t
 
 Evil's subtlest trick is to make contempt for "bad people" feel righteous. If you fully penetrate this one trick, you will discover the secret mechanism behind all the evil there ever was.
 
-In this state you secretly want to cause harm—not to improve the world, but to worsen it, so that you are licensed to feel ever more contempt. This is the ego's secret mission: to bring about a kind of armageddon, in which it can prove once and for all just how _good_ it actually is. Yet you will never suspect that this is what you're doing.
+In this state you secretly want to cause harm—not to improve the world, but to worsen it, so that you are licensed to feel ever more contempt. This is the ego's secret mission: to bring about a kind of armageddon, in which it can prove once and for all just how _good_ it actually is. Yet you will never suspect that this is what you're actually doing.
 
 Or more precisely, you will know perfectly well, but you will choose not to see it. And that is exactly the "secret mechanism": self-deception. It is this bizarre schism of the mind that enables all evil. When you're in this state, you do not realize it, and nobody can convince you that you are. In fact, the harder they try, the harder you resist. You can only be encouraged, through great skill, to see it for yourself.
 
@@ -30,7 +30,7 @@ The only possible solution is compassion. This doesn't mean being nice: that con
 
 Compassion precisely targets the parasite within people's minds, instead of the people themselves—thus avoiding the collateral damage that would amplify the problem. Everyone can sense the difference, even if only subconsciously. This weakens their capacity for self-deception. In other words, it destroys a tiny bit of evil. Indeed, it is the only thing that can.
 
-If you've ever witnessed misbehavior, only to suddenly recognize that it was secretly rooted in some kind of suffering, then you've had a taste of this. Before such recognition, malice towards them feels not only warranted but positively righteous. Afterward, it ceases to make any sense. You may still have to restrain or hurt them, but somehow everything changes. What you get in exchange for giving up that insanely delicious hit of self-righteousness that vengeful retribution would have provided is what you truly desire most: a better world.
+If you've ever witnessed misbehavior, only to suddenly recognize that it was secretly rooted in some kind of suffering, then you've had a taste of this. Before such recognition, malice towards the person feels not only warranted but positively righteous. Afterward, it ceases to make any sense. You may still have to restrain or hurt them, but somehow everything changes. What you get in exchange for giving up that insanely delicious hit of self-righteousness that vengeful retribution would have provided is what you truly desire most: a better world.
 
 Make no mistake: evil is sometimes too intense for our compassion to work. Not because it is the wrong response, but because we have not developed the capacity to _be_ truly compassionate in the face of such evil. In that case we risk simply being nice and worsening the problem. Yet this is also the most important time to be on guard for malice. Because while it's true that evil triumphs when "good people" do nothing, the only thing worse than letting evil win is secretly joining forces with it.
 

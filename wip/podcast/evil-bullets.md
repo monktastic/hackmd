@@ -11,9 +11,8 @@ Allow me to build up to that. I'll start by talking about the nature of evil.
 
 ## Ch 1: evil
 
-- Evil is insanely clever, and its greatest trick is to cause us to overlook its presence within our own minds. 
-  - To the extent that we do see it, we believe it's there to help us fight the "real evil" out there.
- 
+- Evil's greatest trick is to convince you that it doesn't exist within your own mind; or if it does, that it exists to fight the evil "out there."
+
 - It hides our own hypocrisy from us while making us highly sensitive to it in others. We excuse our own, while condemning it in others.
 
 - That's because our evil has us convinced that we are fundamentally good, unlike them. Therefore, we don't have to play by the same rules.
