@@ -83,7 +83,7 @@ Think about how remorseful you feel when you realize that you've done something 
 
 ---
 
-Contempt is evil. I don't mean that it's extremely terrible, I mean that if you distill it and distill it and distill contempt, what you get is pure malevolence; the kind that sends shivers down your spine just to think about. It's on the same continuum. The presence of contempt in your mind is the presence of evil, and it works in a very clever way.
+Contempt is evil. I don't mean that it's extremely terrible, I mean that if you distill and distill and distill contempt, what you get is pure malevolence; the kind that sends shivers down your spine just to think about. It's on the same continuum. The presence of contempt in your mind is the presence of evil, and it works in a very clever way.
 
 My evil lies dormant in most normal settings. But when I get triggered by another person's evil, mine gets called into action. That person may be my mortal enemy nominally, but beneath the surface, our evils are secretly allied. The two of us are going to behave in ways that make the world a darker place. But I am going to pretend that my malice is serving the noble goal of vanquishing his, and he is going to do the same.
 
