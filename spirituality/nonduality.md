@@ -12,7 +12,7 @@ These are not my original ideas. I am deeply indebted to [Soh Wei Yu and John Ta
 
 ---
 
-We will look through the lens of the Mahayana school of Buddhism, because the other major school (Theravada) takes a different route to realization.
+We will look through the lens of the Mahayana school of Buddhism, because the other major school (Theravada) mostly takes a different route to realization.
 
 There are various ways to break the Mahayana path into stages of realization. We will use a model that breaks it into three successive stages:
 
@@ -64,7 +64,7 @@ A popular Tibetan teacher:
 
 Notice the common theme: what you are (consciousness) is fundamentally separate, pure, and untouchable by its impure contents.
 
-At a shallow level, this consciousness may still feel localized and personal. At deeper levels, it may feel primordial and universal—as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense.
+At a shallow level of attainment, this consciousness may still feel localized and personal. As the realization deepens, it may feel primordial and universal—as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense.
 
 > [It is] a conviction so powerful that no one, not even Buddha can sway you from [it] because the practitioner so clearly sees the truth of it. It is the direct and unshakable insight of ‘You’. This is the realization that a practitioner must have in order to realize the Zen satori. You will understand clearly why it is so difficult for those practitioners to forgo this ‘I AMness’ and accept the doctrine of anatta (no-self).
 
