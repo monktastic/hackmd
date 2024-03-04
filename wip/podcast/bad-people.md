@@ -1,8 +1,9 @@
+
 We think that hating bad people is a sign of the good within us, but it's really a sign of the evil.
 
-"Bad people" are only able to do what they do because of self-deception—the very same mechanism that enables our own misbehavior, if we're honest.
+"Bad people" are only able to do what they do because of self-deception — the very same mechanism that enables our own misbehavior, if we're honest.
 
-If you look closely enough, you'll find that hatred (and its little brother, contempt) exists only to enable you to generate more hatred in the world while feeling self-righteous about it. It is pure self-deception—the very thing you hate them for. The truth is that you see an aspect of yourself in them, and it's much easier to fight what's outside than what's inside. Unfortunately, this backfires miserably.
+If you look closely enough, you'll find that hatred (and its little brother, contempt) exists only to enable you to generate more hatred in the world while feeling self-righteous about it. It is pure self-deception — the very thing you hate them for. The truth is that you see an aspect of yourself in them, and it's much easier to fight what's outside than what's inside. Unfortunately, this backfires miserably.
 
 It is very hard to admit that we're doing this, but once we do, we finally begin to understand what makes it so hard for the "bad people" to recognize _their_ self-deception—and how our own behavior is secretly designed to make it even harder. Then we may discover that the whole world is locked in a cycle of gleefully shoving each other into the dark to avoid confronting the darkness within.
 
@@ -14,4 +15,4 @@ This is the dawning of true compassion (aka kindness). We may still have to util
 
 Before recognizing this, every attempt to "fight evil" is secretly an attempt to create more. I wish I could say that afterward, you magically become a "good person" who knows how to fight evil, but it's not true. All I know now is that I'm a profound hypocrite with a whole lot of work to do. I have no right to lecture anyone on morality. I just want to share what I've seen. Maybe you've seen it too.
 
-It is said that evil wins when the good do nothing. While that is surely true, what's even worse than letting evil win is secretly joining forces with it in the name of good. May we at least stop doing that.
+Compassion doesn't always tell you what the most effective behavior is. That requires wisdom, a related skill. But compassion does ensure that you are acting in accordance with your deepest values; your profound love for the world, and not your self-deception. That seems like a good place to start.

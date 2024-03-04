@@ -16,7 +16,7 @@ Or more precisely, you will know perfectly well, but you will choose not to see 
 
 Simply being in this state secretly invites others into it, beneath both of your conscious thresholds: your self-deception _encourages_ theirs. On the surface, you may be enemies, but underneath, your evils are allied. Your nominal allies are also invited in. Unmistakable signatures of this invitation are contempt, self-righteousness, and malice. Evil never actually fights evil; it only pretends to, to create more of itself under the guise of good.
 
-In this way, evil behaves like a distributed organism, signaling to itself through the vast network of human minds. It leverages our collective intelligence to produce horrifying outcomes that none of us would claim to individually want, yet which are the inevitable result of our collective self-deception.
+In this way, evil behaves like a distributed organism, signaling to itself through the vast network of human minds. It leverages our collective intelligence to produce horrifying outcomes that none of us would claim to individually want, yet which are the inevitable result of our cumulative self-deception.
 
 It is that archetypal massive evil global conspiracy: a shadowy collective responsible for all the mayhem in the world, yet which nobody can see. And we are its unwitting minions.
 

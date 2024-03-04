@@ -46,7 +46,7 @@ Let's start at the beginning. At first, the practitioner finds herself feeling l
 With enough careful practice, there will come a point where the practitioner suddenly realizes that she is not a person having an experience, but _pure consciousness_ having the experience of being a person. This is a paradigm-shattering revelation, and can be considered one's first awakening.
 
 Buddhist Thai Forest patriarch [Ajahn Chah](
-(https://www.accesstoinsight.org/lib/thai/chah/the_teachings_of_ajahn_chah_web.pdf)):
+https://www.accesstoinsight.org/lib/thai/chah/the_teachings_of_ajahn_chah_web.pdf):
 
 > We become the ‘one who knows’. The mind and feeling are just like oil and water; they are in the same bottle but they don’t mix. We know the painful or comfortable states but we don’t identify with them. We stay only with peace: the peace beyond both comfort and pain.
 > ... <p/>
@@ -64,7 +64,7 @@ A popular Tibetan teacher:
 
 Notice the common theme: what you are (consciousness) is fundamentally separate, pure, and untouchable by its impure contents.
 
-At a shallow level of attainment, this consciousness may still feel localized and personal. As the realization deepens, it may feel primordial and universal—as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense.
+At a shallow level of attainment, this consciousness may still feel localized and personal. As the realization deepens, it may feel primordial and universal—as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense. Soh:
 
 > [It is] a conviction so powerful that no one, not even Buddha can sway you from [it] because the practitioner so clearly sees the truth of it. It is the direct and unshakable insight of ‘You’. This is the realization that a practitioner must have in order to realize the Zen satori. You will understand clearly why it is so difficult for those practitioners to forgo this ‘I AMness’ and accept the doctrine of anatta (no-self).
 
@@ -128,7 +128,7 @@ Rob Burbea, perhaps the [clearest expositor of Mahayana in modern times](https:/
 
 Stage two is already a high stage of realization, but there is still one final step to take: the Godhead must somehow release itself from the illusion of inherency. This is tricky business, because it is so self-evidently Real and Ultimate. Indeed, whenever it looks for itself, there it is! It never suspects that It may be continually dreaming Itself into existence in this way.
 
-When the bottom finally drops out, the asymmetry is thoroughly dissolved: appearances are consciousness, _and consciousness is seen to be nothing but appearances_. "Consciousness" is not a standalone phenomenon, but a simple label for the (miraculous) fact that anything appears at all.
+When the bottom finally drops out, the asymmetry is thoroughly dissolved: appearances are consciousness, _and consciousness is seen to be nothing but appearances_. "Consciousness" is not a standalone phenomenon, but a simple label for the (utterly miraculous) fact that anything appears at all.
 
 Zen master Thích Nhất Hạnh (*[The Buddhist Understanding of Reality](https://www.mindfulnessbell.org/archive/2015/01/dharma-talk-the-buddhist-understanding-of-reality-2)*):
 > Without subject, there is no object; without object, there is no subject. They manifest at the same time.
@@ -137,7 +137,7 @@ At first, this sounds like the Wilber quote above ("All subjects and all objects
 
 > [T]he notion of a permanent consciousness is illusion, not reality.
 
-Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of it being "the _same_ consciousness" that somehow spans moments (or even appearances within a single moment) is seen to be a very subtle mental imputation, and not given by direct experience.
+Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of it being "the _same_ consciousness" that somehow spans moments (or even appearances within a single moment) is seen to be a very subtle mental imputation, and not affirmed by direct experience.
 
 [Rob Burbea](http://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html):
 
@@ -149,11 +149,13 @@ To this, the seasoned Stage 2 practitioner will instinctively answer: "Aha! Caug
 
 Again, compare this to Kastrup:
 
-> Consciousness is the ground of all reality.
+> Consciousness is the **ground** of all reality.
 
 Hakuin:
 
 > Were anyone to try to indicate his mind, it would be no more existent than the horns of a rabbit or the hairs of a tortoise that have gone beyond the farthest mountain.
+
+Truly, nothing can be said of this wonder of wonders.
 
 ---
 
@@ -285,11 +287,11 @@ Again, compare this to Advaita Vedanta. [Adi Shankara](https://www.shankarachary
 
 ## A brief note on Theravada
 
-Theravada (the other main branch of Buddhism) tends to emphasize the doctrine of no-self right from the start. While Advaitins may quibble with stage three because it seems to deny God, Theravadins tend to eschew stage one—and sometimes Mahayana as a whole—for precisely the opposite reason: it seems to _support_ it, thus apparently contradicting the Buddha. (Indeed, many modern nominally-Buddhist teachings seem _not_ to go beyond stage one or two, rendering those criticisms valid). Yet without realizing the "light of God"—which constitutes your entire experiential field right now, by the way—realization becomes very dry and sterile.
+Theravada (the other main branch of Buddhism) tends to emphasize the doctrine of no-self right from the start. While Advaitins may quibble with stage three because it seems to deny God, Theravadins tend to eschew stage one—and sometimes Mahayana as a whole—for precisely the opposite reason: it seems to _support_ it, thus apparently contradicting the Buddha. (Indeed, many modern nominally-Buddhist teachings seem _not_ to go beyond stage one or two, rendering those criticisms valid). Yet without realizing the "light of God"—which constitutes your entire experiential field right now, by the way—there cannot be full awakening. 
 
 Soh:
 
-> I noticed that many Buddhists trained under the doctrine of anatta and emptiness seem to be put off by the description of “I AM realization” as it seems to contradict anatta. This will prevent their progress as they will fail to appreciate and realize the depth of luminous presence, and their understanding of anatta and emptiness remains intellectual. It should be understood that the I AM realization does not contradict anatta realization but complements it. It is the “original face before your parents were born” of Zen, and the unfabricated clarity in Dzogchen that serves as initial rigpa, it is also the initial certainty of Mind discovered in the first of the four yogas of Mahamudra. ... [it] is a direct taste and realization of the Mind of Clear Light. The view gets refined and the taste gets brought to effortless maturity and non-contrivance in all manifestation as one’s insights deepen. ... [T]here is no forgoing of this ‘Witness’, it is rather a deepening of insight to include the non-dual, groundlessness and interconnectedness of our luminous nature.
+> I noticed that many Buddhists trained under the doctrine of anatta and emptiness seem to be put off by the description of “I AM” realization as it seems to contradict anatta. This will prevent their progress as they will fail to appreciate and realize the depth of luminous presence, and their understanding of anatta and emptiness remains intellectual. It should be understood that the I AM realization does not contradict anatta realization but complements it. It is the “original face before your parents were born” of Zen, and the unfabricated clarity in Dzogchen that serves as initial rigpa, it is also the initial certainty of Mind discovered in the first of the four yogas of Mahamudra. ... [it] is a direct taste and realization of the Mind of Clear Light. The view gets refined and the taste gets brought to effortless maturity and non-contrivance in all manifestation as one’s insights deepen. ... [T]here is no forgoing of this ‘Witness’, it is rather a deepening of insight to include the non-dual, groundlessness and interconnectedness of our luminous nature.
 
 One could certainly be forgiven for referring to this astonishing, miraculous, luminous (yet _empty_) nature as "God." And indeed, bowing in deep reverence and devotion to it—prayer, in other words—could certainly accelerate one's progress in realizing it. People often worry that emptiness is nihilistic, but it is anything but:
 
@@ -298,7 +300,6 @@ One could certainly be forgiven for referring to this astonishing, miraculous, l
 May all beings attain full enlightenment.
 
 🙏🏽
-
 
 ---
 

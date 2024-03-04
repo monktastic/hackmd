@@ -15,7 +15,7 @@ If you accede to this perception, you are inviting evil to further colonize your
 
 You mock someone for their backward beliefs, but they just dig in their heels. You were only trying to help them see their idiocy — or if not exactly them, then at least the rest of the world. Either way, it's _surely_ a net good. Their recalcitrance just proves that you were right about them after all, and that your cruelty was justified.
 
-This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ disown any complicity. They had free will, after all. Why didn't they simply choose to be better instead? You wring your hands at the sorry state of the world and vow to deliver your righteous vengeance even harder.
+This nasty encounter will fester in their mind and erupt in some form or another later. Any such effects will be remote enough in time and space that you can _definitely_ disown any complicity. They had free will, after all. Why didn't they simply choose to be better instead? You wring your hands at the sorry state of the world and vow to visit even more righteous vengeance upon the wicked.
 
 Part of you knows that this story is a crock, but if you were to admit that to yourself, your whole carefully-constructed reality — and the hierarchy of blame that scaffolds it — would suddenly come crashing down. It is impossible to communicate how painful the full epiphany is; to be forcefully shown just how much of the world's darkness can be traced back to your own decisions to be unkind — but you suspect it, and do everything in your power to avoid seeing it.
 
