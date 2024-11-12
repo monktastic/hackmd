@@ -1,10 +1,8 @@
 # Nonduality, no-self, and emptiness
 
-_Nonduality_ has become a popular topic in recent years. The literature is filled with descriptions of what nondual realization is like, and on the surface, they can sound identical. This commonly leads seekers to assume that all such descriptions are all pointing to the same thing, even though they are not.
+_Nonduality_ has become a popular topic in recent years. The literature is filled with descriptions of what nondual realization is like, and on the surface, they can sound identical. This commonly leads seekers to assume that all such descriptions are all pointing to the same thing, even when they are not.
 
-Nondual realization actually tends to unfold in stages, and the mind's most fundamental delusion is not uprooted until the final stage. Nevertheless, each stage can _feel_ so unmistakably "final" that practitioners often become staunchly resistant to the possibility that there may still be more to see.
-
-This makes it very easy for people to get "stuck" at an intermediate stage. One may _feel_ "enlightened" even as the core delusion is still being reinforced — perhaps now at a greatly accelerated rate. Even if such a person were to come across a more subtle teaching, she would likely not recognize it as such.
+Nondual realization tends to unfold in stages, and the mind's most fundamental delusion is not uprooted until the final stage. Nevertheless, each stage can _feel_ so unmistakably "final" that practitioners often become staunchly resistant to the mere possibility that there may still be more to see. This makes it very easy for people to get "stuck" at an intermediate stage. One may _feel_ "enlightened," even as the core delusion is still being reinforced — perhaps now at a greatly accelerated rate. Even if such a person were to come across a more subtle teaching, she would likely not recognize it as such. She is then liable to spread this misunderstanding to many others.
 
 The result is that the vast majority of modern spiritual schools are confidently teaching paths that — from the perspective of traditional Mahayana Buddhism, anyway — are at best incomplete, and at worst deeply misleading. In fact, this problem affects many modern Mahayana lineages as well.
 
@@ -17,10 +15,10 @@ These are not my original ideas. I am deeply indebted to [Soh Wei Yu and John Ta
 There are various ways to break the Mahayana path into stages of realization. We will use a simplified model that breaks it into three successive stages:
 
 1. "I AM": The practitioner realizes that what she most fundamentally is is _pure consciousness_ or _awareness_, untouched and untouchable by its passing contents.
-2. True Self (commonly just called "nonduality"): She realizes that the contents of consciousness are inseparable from consciousness (or "Awareness") itself, which includes but transcends them.
-3. No self / emptiness: She realizes that this supposed Awareness that "hosts" appearances is actually a subtle projection. "Awareness" is seen to be a mere label for the (astonishing) fact that appearances _appear_ at all, and not some entity hiding "behind" them. With this stable reference point gone, the paradigm of identity collapses. Reality is simply a radiant spontaneous dance unfolding to itself, by itself.
+2. True Self (commonly just called "nonduality" — though, as we shall see, it is an _asymmetric_ nonduality): She realizes that the contents of consciousness are inseparable from consciousness (or "Awareness") itself, which includes but transcends them.
+3. No self / emptiness / symmetric nonduality: She realizes that this supposed Awareness that "hosts" appearances is actually a subtle projection. "Awareness" is seen to be a mere label for the (astonishing) fact that appearances _appear_ at all, and not some entity hiding "behind" them. With this stable reference point gone, the paradigm of identity collapses. Reality is simply a radiant spontaneous dance unfolding to itself, by itself.
 
-It should also be made clear that within each stage, there can be varying levels or depths of realization. That dimension is largely glossed over in this piece.
+It should also be made clear that within each stage, there is tremendous variation in the depth of realization. That dimension is largely glossed over in this piece, but it is extremely important in practice.
 
 Finally, this is not a practice guide. For that, please see the [Awakening to Reality practice guide](https://app.box.com/s/trvc22802ey1apaess9tv1ccmgrzllwg).
 
@@ -36,7 +34,7 @@ Both doctrines are frequently misunderstood, which is why stages two and three a
 
 Let's start at the beginning. At first, the practitioner finds herself feeling like a body and mind navigating a fundamentally external reality. In both Mahayana Buddhism and Advaita Vedanta, instructions are given to turn the light of awareness in on itself, to discover "that which is looking."
 
-[quotes]
+E.g., see [this Reddit thread](https://www.reddit.com/r/zen/comments/5bo1np/turning_the_light_around_and_shining_back/).
 
 
 ### Stage 1: I AM
@@ -64,9 +62,9 @@ A popular Tibetan teacher:
 
 > [Y]our true nature, [...] according to these teachings, is the open and clear space of being. This is the nature of your true identity: open and clear. This nature is often referred to as the natural mind. [...] Just feel vast awareness [...] When we recognize our natural mind, and attain stability and maturity in the recognition of this source within, we refer to this attainment as enlightenment.
 
-Notice the common theme: what you are (consciousness) is fundamentally separate, pure, and untouchable by its impure contents.
+Notice the common theme: what you are (consciousness) is fundamentally separate, pure, and untouchable by its impure contents. You are the _background_ awareness.
 
-At a shallow degree of attainment of this stage, consciousness may still feel localized and personal. As the realization deepens, it may feel primordial and universal—as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense. Soh:
+At a shallow degree of attainment of this stage, consciousness may still feel localized and personal. As the realization deepens, it may feel primordial, eternal, and universal — as though it is self-evidently the very _ground of existence_, without which nothing else could "exist" in any meaningful sense. Soh:
 
 > [It is] a conviction so powerful that no one, not even Buddha can sway you from [it] because the practitioner so clearly sees the truth of it. It is the direct and unshakable insight of ‘You’. This is the realization that a practitioner must have in order to realize the Zen satori. You will understand clearly why it is so difficult for those practitioners to forgo this ‘I AMness’ and accept the doctrine of anatta (no-self).
 
@@ -137,7 +135,11 @@ At first, this sounds like the Wilber quote above ("All subjects and all objects
 
 > [T]he notion of a permanent consciousness is illusion, not reality.
 
-Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of continuity that suggests a singular entity spanning time / experiences is seen to be utterly imaginary — and the question "well then who / what is imagining it?" is also seen to be fundamentally confused.
+[Ch'an master Sheng Yen](https://chan.ddmba.org/practice/meditation/three-stages-of-chan-meditation/):
+
+> When you are in the second stage, although you feel that the ‘I’ does not exist, the basic substance of the universe, or the Supreme Truth, still exists. Although you recognise that all the different phenomena are the extension of this basic substance or Supreme Truth, yet there still exists the opposition of basic substance versus external phenomena. Not until the distinctions of all phenomena disappear, and everything goes back to truth or Heaven, will you have absolute peace and unity... This is because phenomena themselves are basic substance, and **apart from phenomena there is no basic substance to be found.** The reality of basic substance exists right in the unreality of phenomena, which change ceaselessly and have no constant form. This is the Truth.
+
+Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of continuity or a unifying principle that suggests a singular entity spanning time / space / experiences is seen to be utterly imaginary — and the very question "well then who / what is imagining it?" is also seen to be fundamentally confused.
 
 [Rob Burbea](http://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html):
 
@@ -179,7 +181,7 @@ Musician Shimshai, roughly translating an ancient Hindu hymn in a popular modern
 
 Because Brahman _transcends_ its appearances, it is eternally detached from (and thus ultimately indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to fly off to: This Is It, and insofar as "you" means anything, you are precisely This.
 
-Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) powerfully conveys this intimacy:
+Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) powerfully conveys this intimacy. Compare the feeling with the above:
 
 > I am a mayfly metamorphosing (...)<br/>
 > I am a frog swimming happily (...)<br/>
@@ -189,7 +191,7 @@ Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/
 > My joy is like Spring, so warm (...)<br/>
 > Please call me by my true names (...)<br/>
 
-While the idea of "detachment" does appear in Buddhism, it never refers to oneself being separate from the world; it is merely about not fixating.
+"My true names" are only the mayfly; frog; etc. — never some universal principle like Brahman or Awareness. While the idea of "detachment" does appear in Buddhism, it does not refer to oneself being separate from the world; it is merely about not fixating.
 
 ### Different meanings of "unreality"
 
@@ -197,7 +199,7 @@ Both Advaita and Buddhism say that the world is not "real," but in different sen
 
 ### Continuity vs spontaneity
 
-The Godhead is a fixed, singular reference point that every moment of experience refers back to. This provides a felt sense of continuity and stability; a "ground" around which identity crystallizes. 
+The Godhead is a fixed, singular reference point that every moment of experience implicitly refers back to. This provides a felt sense of continuity and stability; a "ground" around which identity crystallizes. 
 
 Shankara:
 
@@ -251,9 +253,7 @@ To get a sense of how tricky it can be to tell these descriptions apart, conside
 
 Dakpo Tashi Namgyal:
 
-> "Is it an aware emptiness after the thought has dissolved? Or, is it an aware emptiness by driving away the thought by meditation? Or, is the vividness of the thought itself an aware emptiness?"
-> 
-> If the meditator says it is like one of the first two cases, he has not cleared up the former uncertainties and should therefore be set to resolve this for a few days. [...] When you look into a thought's identity, **without having to dissolve the thought** and without having to force it out by meditation, the vividness of the thought is itself the indescribable and naked state of aware emptiness.
+> When you look into a thought's identity, **without having to dissolve the thought** and without having to force it out by meditation, the vividness of the thought is itself the indescribable and naked state of aware emptiness.
 
 In the first (erroneous) quote, appearances dissolve "into" the vast "emptiness" that is mind. In the latter, the "vividness" of the thought is _itself_ what is conventionally called "mind" or "awareness." Mind does not have a standalone existence that appearances could dissolve "into."
 
@@ -270,7 +270,7 @@ Wilber:
 [Judith Blackstone](https://www.youtube.com/watch?v=Tyb5_kqNXB8):
 > So instead of "I am Judith" and "I am a teacher" [...] we have this experience, this nonverbal experience, which we can say is no-self because it's not that [...] autobiographical self. But there is this **underlying experience** and **we could call it Self**, we can call it no-self, I don't think it matters.
 
-But it is this very sense of an "underlying" experience that is the core illusion! In Advaita Vedanta, this underlying Self is sometimes referred to as the "unseen seer"; "unthought thinker"; etc. [Adi Shankara](https://www.shankaracharya.org/upadesa_sahasri.php):
+But it is this very sense of an "underlying experience" that is the core illusion! In Advaita Vedanta, this underlying Self is sometimes referred to as the "unseen seer"; "unthought thinker"; etc. [Adi Shankara](https://www.shankaracharya.org/upadesa_sahasri.php):
 
 > [The Self is] the unseen seer, the unheard listener, the unthought thinker, the unknown knower ...
 
@@ -278,7 +278,7 @@ This idea of a Universal Self was already well-known at the time of the Buddha. 
 
 > In reference to the seen, there will be only the seen. In reference to the heard, only the heard. [...] When there is no you there, **you are neither here nor yonder** nor between the two. This, just this, is the end of stress.
 
-Bhikkhu K Ñāṇananda [comments](https://media.dharmaseed.org/documents/Nibbana-25.pdf):
+Theravadan monk Bhikkhu K Ñāṇananda [comments](https://media.dharmaseed.org/documents/Nibbana-25.pdf):
 
 > There is therefore **no seer**, apart from the phenomenon of seeing, according to the [Buddha]. He does not imagine a seer. For the worldling, the bare act of seeing carries with it a perception of 'one who sees'. He has a notion of a self and something belonging to a self. [...] The [Buddha] **does not even imagine a thinker apart from thought**.
 
@@ -286,7 +286,7 @@ In other words, in Buddhism there is no "unseen seer"; "unthought thinker"; etc.
 
 ## A brief note on Theravada
 
-Theravada (the other main branch of Buddhism) tends to emphasize the doctrine of no-self right from the start. While Advaitins may quibble with stage three because it seems to deny God, Theravadins tend to eschew stage one—and sometimes Mahayana as a whole—for precisely the opposite reason: it seems to _support_ it, thus apparently contradicting the Buddha. (Indeed, many modern nominally-Buddhist teachings seem _not_ to go beyond stage one or two, rendering those criticisms valid). Yet without realizing the "light of God"—which constitutes your entire experiential field right now, by the way—there cannot be full awakening. 
+Theravada (the other main branch of Buddhism) tends to emphasize the doctrine of no-self right from the start. While Advaitins may quibble with stage three because it seems to deny God, Theravadins tend to eschew stage one—and sometimes Mahayana as a whole—for precisely the opposite reason: it seems to _support_ it, thus apparently contradicting the Buddha. (Indeed, many modern nominally-Buddhist teachings seem _not_ to go beyond stage one or two, rendering those criticisms potentially valid). Yet without realizing the "light of God"—which constitutes your entire experiential field right now, by the way—there cannot be full awakening. 
 
 Soh:
 
