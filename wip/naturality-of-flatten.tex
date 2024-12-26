@@ -1,0 +1,10 @@
+\documentclass{article}
+\usepackage{tikz-cd}  % For commutative diagrams
+\begin{document}
+\[
+\begin{tikzcd}[column sep=3cm, row sep=2cm]
+  F[F[A]] \arrow[r, "map(_.map(f))"] \arrow[d, "flatten"] & F[F[B]] \arrow[d, "flatten"] \\
+  F[A] \arrow[r, "map(f)"] & F[B]
+\end{tikzcd}
+\]
+\end{document}
