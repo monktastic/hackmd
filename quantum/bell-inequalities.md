@@ -1,56 +1,44 @@
 # Bell's Inequalities for Dummies
 
-Imagine you have a large collection of items, each defined by three binary properties called A, B, and C. Each property can be either 0 or 1, meaning there are eight possible combinations in total. For example, one item might have A=0, B=0, C=1, while another might have A=1, B=1, C=0.
+## Einstein, Podolsky, and Rosen
 
-Now suppose you count the total number of items where A=0 and B=0, regardless of the value of C. Let’s denote this quantity as N(0, 0, x), where x means “don’t care.” A simple inequality that can be proven is:
+In 1935, Einstein and two colleagues published the [now-famous EPR paper](https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf) arguing that quantum mechanics was incomplete. The original argument was [abstruse and convoluted](https://plato.stanford.edu/entries/qt-epr/), but it boils down to this: when two entangled particles are measured, their results are strongly correlated. This correlation must arise either from shared hidden properties determined at creation, or from communication between particles during measurement. Since faster-than-light communication is impossible (per special relativity), the particles must have hidden properties determining their behavior. But quantum mechanics doesn't describe these properties, instead treating measurement outcomes as fundamentally random. Therefore, quantum mechanics must be incomplete, and some more complete theory must exist that describes these hidden properties.
 
-N(0, 0, x) ≤ N(x, 0, 0) + N(0, x, 1)
+For decades, nobody could think of a satisfying way to experimentally prove whether this argument was correct. Did particles actually have well-defined properties prior to measurement, or was measurement itself somehow involved in bringing those properties into existence? It seemed logically impossible to distinguish these possibilities. Then, in 1964, physicist John Stewart Bell made a brilliant discovery: certain types of measurements could definitively rule out Einstein's view. If particles did have preset properties as Einstein believed, their correlations would have to follow certain mathematical rules — and these rules, now known as _Bell's inequalities_, could be experimentally tested. Remarkably, quantum mechanics predicted these rules would be violated...
 
-Why does this hold? It follows from two basic observations:
+## The simplified version
 
-- N(0, 0, 0) ≤ N(x, 0, 0), because N(x, 0, 0) includes all items where B=0 and C=0, whether A=0 or A=1.
-- N(0, 0, 1) ≤ N(0, x, 1), because N(0, x, 1) includes all items where A=0 and C=1, whether B=0 or B=1.
+Imagine you have a large collection of items, each defined by three binary properties called A, B, and C. Each property can be either 0 or 1, meaning there are eight possible combinations in total. For example, one item might have A=0, B=0, C=1, while another might have A=1, B=1, C=0. Now suppose you count the total number of items where A=0 and B=0, regardless of the value of C. Let’s denote this quantity as `N(0, 0, x)`, where x means “don’t care.” A simple inequality that can be proven is:
+
+`N(0, 0, x) ≤ N(x, 0, 0) + N(0, x, 1)`
+
+In words: the number of particles where properties A and B are both zero is less than or equal to the number where B and C are zero _plus_ the number where A is 0 and C is 1. Why does this hold? It follows from two basic observations:
+
+- `N(0, 0, 0) ≤ N(x, 0, 0)`, because the latter includes both `N(0, 0, 0)` and `N(1, 0, 0)`.
+- `N(0, 0, 1) ≤ N(0, x, 1)`, because the latter includes both `N(0, 0, 1)` and `N(0, 1, 1)`.
 
 Adding these two gives us the original inequality.
 
-Now imagine you can’t directly count all the items in your collection. Instead, you draw one item at a time through a random process, and for each item, you can run one of three tests. Each test measures two of the three properties, ignoring the third. For instance:
+Now suppose that instead of measuring the properties of all particles in your collection at once, you draw them one at a time and measure all three properties on each, tallying whether they fall into each of the three "buckets" (terms) in our inequality. Some will fall into none, some will fall in one, and some will fall in two. But at all times, the inequality will hold — because, again, any time an item falls in the left bucket, it must _also_ fall in one of the two right buckets.
 
-- One test may measure A and B, contributing to your estimate of N(0, 0, x).
-- Similarly, two other tests can help you estimate N(x, 0, 0) and N(0, x, 1).
+Now let's constrain it further, and say that for each particle, we can only measure _two_ of its properties, ignoring the third. What happens? Well now, for each item we can only increase the tally for at most one of the buckets, corresponding to the two properties we measured. Therefore, the inequality will not necessarily hold at all times: for example, we might increment `N(0, 0, x)` without having enough information to increment the others. Yet if we repeat this process enough times, it ought to hold in the long run, as long as we sample each of the three pairs of properties equally. Why? Because then we're effectively just estimating the true tallies for each of the buckets amongst our population.
 
-If you repeat this process enough times, the inequality should hold in the long run.
+Is there a way to "defeat" our test — that is, to make the inequality fail in the long run? Well, one way that could happen is if our sampling is biased in a way that correlates with our choices of measurement. Suppose a demon is messing with our sampling. If it knows that we're going to measure A and B, it could ensure that A=0 and B=0, thus growing the left count. If it knows we will measure B and C or A and C, it ensures that we get samples that do _not_ increment the buckets on the right.
 
-## Introducing Entanglement
+Okay, but are there any "weaker" ways to defeat the inequality? What if, after we measure the first chosen property, the particle _randomly_ changes the values of its other two properties. Would this work? No: it would be just as if we had drawn a different item to begin with. To actually break the inequality, the change in the other two properties would have to _depend_ on the result of the first measurement.
 
-Now let’s add a twist. Instead of directly feeding you the item that it draws, the process first "copies" it somehow, so that we get two identical copies. The details of this "copying" process remain obscure. Suppose all we know is that measuring the same property on each copy always yields the same result for both. This might be because the original particle came equipped with "internal instructions" that get copied to its partner, indicating what response to give to which measurement — possibly even at _which times_, if we allow for properties to change (as we soon shall). Alternatively, the two particles might be provided with some kind of signaling mechanism that keeps them in sync. Again, all we know from the outside is that they produce the same result for the same measurement.
+What does this tell us? It tells us that _if_ these particles have well-defined values for the three properties in advance of being measured — even if they are allowed to "squirm around" during the process — then they cannot escape this inequality, _unless_ that "squirming" depends on either what _will be measured_ or what _has already been measured_. There's no way for the particles to use predetermined rules to defeat the inequality.
 
-These particles are then sent to two distant measuring stations. Each station measures one property (say, A for one particle and B for the other). The results from these measurements are then tallied as if they were measurements on a single item. We haven't changed anything substantial about the measuring process, so inequality should still hold.
+## The quantum version
 
-Now for the crux: _what if experiments show that the inequality does not hold?_ Then one of our assumptions must be false. Namely, either:
+The quantum version of this experiment requires some modifications. Before measuring the sampled particle, we will first split it into two identical copies. Whatever "predetermined rules" one has, so does the other, so that they always behave in exactly the same way. These represent our entangled particles. Now, we move them very far apart from each other, and instead of measuring two properties on a single particle, we measure one property on one of the particles and another property on the other. We still tally them as though they were measurements on a single item (representing their common state). In practice, the chosen properties are usually the spins (or polarizations) of the particles along various axes (which, according to QM, are _non-commuting observables_). The actual inequalities (called _Bell's Inequalities_) are not exactly the ones given above, but the details aren't important here.
 
-1. The random process is not random. It somehow “knows” which tests we will run, and chooses tailored items to thwart our estimates. In other words, it introduces a persistent sampling bias that depends on what will be measured.
-2. The particles do not have fixed values for A, B, and C. They're somehow adapting themselves to our tests in real time.
+If our assumptions are correct, and the measurements are indeed being determined by some shared pre-existing state, then they cannot defeat our inequality. The only way to defeat it is if _after_ measuring one, the other one "squirms" in a way that _depends_ on the result of the first — but that's impossible, because it would require faster-than-light communication. And yet when we do this experiment, the inequality _is_ broken! This violation was first experimentally demonstrated by Alain Aspect and others in the 1980s. In 2022, Aspect and two others received the Nobel Prize for their groundbreaking work.
 
-### Exploring case 2
+This means that Einstein was wrong: there is no possible local "hidden state" (or what we now call "hidden variables") that can account for these results. Therefore, the particles _cannot_ have definite states prior to measurement, and QM is not (necessarily) incomplete. Does this mean that locality is violated — that information is propagating faster than the speed of light? Not quite. It turns out that there is no way to communicate information using this process. Whatever is happening simply doesn't fit into our classical intuitions. It should be noted that there are theoretically other ways to wriggle out of this conclusion. For example, a principle called _superdeterminism_ says that something like a grand conspiracy really is true: your choice of detector settings is not free, but will always be magically correlated with the state of the particles somehow. Needless to say, this is not a popular hypothesis.
 
-Even if the particles randomly change their values in a coordinated way, the inequality will not break. After all, changing their properties in sync is equivalent to just having picked a different original item in the first place — and no matter which items we pick, so long as they are random, the inequality will hold in the long run. To help see why, let's revisit our inequality:
+## Implications
 
-N(0, 0, x) ≤ N(x, 0, 0) + N(0, x, 1)
+Imagine you are God, inventing the universe. Suppose you wanted it to be the case that the future is not fixed, but always indeterminate — and moreover, you want the inhabitants of your universe to be able to mathematically prove this (perhaps to fend off ennui). How would you do such a thing? It wouldn't be sufficient to give it classical physics with some randomness sprinkled in (e.g., a coin toss now and then to alter its behavior). That would provide the indeterminacy, but not the ability to prove it: the inhabitants would always wonder if there was actually a pattern that they just hadn't detected yet. It turns out that QM is probably the _simplest_ possible set of rules that allow for it, granting some other basic assumptions.
 
-This only depends on the fact that if an item would pass the test on the left, then it would necessarily have passed one of the tests on the right. As long as the three properties are static, this must be true. But if they are allowed to "squirm around" _in the midst of conducting these three tests_, then nothing forces this logic to hold. In particular, if the remaining two properties can somehow change after the first has been measured, then our inequality can break. For this to happen in our scenario, the second particle would have to "know" that the first particle has been measured.
-
-But here’s the catch: the two measurements are happening at a great distance from each other and nearly simultaneously. For the second particle to adjust its property in response to the first, information would have to travel faster than the speed of light—a violation of the principle of locality.
-
-Einstein, in the famous [1935 EPR paper](https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf), realized that quantum mechanics implied this kind of seemingly faster-than-light “signaling.” Either that, or particles don't have well-defined properties prior to measurement. He could not countenance either possibility, so his attempted conclusion was that particles must have hidden variables — some unseen properties determining their behavior — that quantum mechanics doesn’t account for. This would preserve both realism (the idea that properties have definite values) and locality (the idea that nothing travels faster than light) — or so he thought.
-
-## Bell’s Contribution
-
-In 1964, John Bell proposed a way to test whether such hidden variables exist. He showed that any “local realist” hidden variable theory—where properties are well-defined and information doesn’t travel faster than light—must satisfy certain inequalities. Experiments by Alain Aspect and others in the 1980s tested Bell’s inequalities and found they were violated. In 2022, Aspect and two others received the Nobel Prize for their groundbreaking work.
-
-The experiments typically involve properties like the spin or polarization of particles, measured at various angles. These are examples of non-commuting observables in quantum mechanics—quantities that cannot have well-defined values simultaneously under quantum rules. Until Bell’s work, it wasn’t clear whether quantum mechanics’ predictions about such observables could be reconciled with classical intuition.
-
-## The Modern View
-
-The modern conclusion is that no local realist hidden variable theory can fully explain the observed violations of Bell’s inequalities. “Local” means that information cannot propagate faster than light, and “realist” means that properties have definite values prior to measurement. To reconcile the experimental results, one of these principles must be abandoned.
-
-The prevailing interpretation is that realism must go. While measuring one particle does seem to influence its entangled partner, no usable information is transmitted faster than light, so locality is preserved. Over the decades, further experiments and “no-go” theorems have closed potential loopholes in Bell’s argument, solidifying the conclusion that the classical idea of “reality” must be rethought.
+This is an aspect of the whole thing that I find under-appreciated, but fascinating to ponder.
