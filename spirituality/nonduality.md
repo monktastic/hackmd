@@ -14,7 +14,7 @@ These are not my original ideas. I am deeply indebted to [Soh Wei Yu and John Ta
 
 There are various ways to break the Mahayana path into stages of realization. We will use a simplified model that breaks it into three successive stages:
 
-1. "I AM": The practitioner realizes that what she most fundamentally is is _pure consciousness_ or _awareness_, untouched and untouchable by its passing contents.
+1. "I AM": The practitioner realizes that what she most fundamentally is _pure consciousness_ or _awareness_, untouched and untouchable by its passing contents.
 2. True Self (commonly just called "nonduality" — though, as we shall see, it is an _asymmetric_ nonduality): She realizes that the contents of consciousness are inseparable from consciousness (or "Awareness") itself, which includes but transcends them.
 3. No self / emptiness / symmetric nonduality: She realizes that this supposed Awareness that "hosts" appearances is actually a subtle projection. "Awareness" is seen to be a mere label for the (astonishing) fact that appearances _appear_ at all, and not some entity hiding "behind" them. With this stable reference point gone, the paradigm of identity collapses. Reality is simply a radiant spontaneous dance unfolding to itself, by itself.
 
@@ -88,6 +88,10 @@ This is another huge paradigm shift: the contents don't merely float _through_ m
 
 > [T]he claim [...] is often made that consciousness in some sense **transcends** its content... it does; it's the **prior** condition of anything that's appearing, but anything that does in fact appear is also of a piece with whatever consciousness is in itself.
 
+Rupert Spira:
+
+> Our self does not transcend experience in the sense of being beyond it; it is **prior** to experience. Awareness lies **behind** and is present in the midst of all experience. [...] It **both transcends experience and is immanent within it.**
+
 In Advaita Vedanta, this transcendent Consciousness (note the capitalization—because it is unique and special) is called Brahman (the Godhead). Swami Sarvapriyananda describes it this way:
 
 > The world entirely depends on Brahman but Brahman does not depend on the world. Brahman has no relationship with the world.
@@ -104,11 +108,11 @@ So far, so good. But he continues (emphasis mine):
 
 > Both I and the mountain arise **in simple, ever-present awareness**, and we are both set free in that clearing, we are both liberated in that nondual space, we are both enlightened in **the opening that is ever-present awareness**.
 
-The _individual_ subject has disappeared, but the _pure, transcendent, eternal_ subject—the "space of awareness"—ever remains, independent of its contents.
+The _individual_ subject has disappeared, but the _pure, transcendent, eternal_ subject—the "space of awareness"—ever remains, _independent_ of its contents.
 
 Arvind Sharma, in _The Experiential Dimension of Advaita Vedanta_, elucidates this distinction between "true self" (or Universal Self) and "objectified self" (personal self):
 
-> According to Advaita, the pure subject is our true self whose knowledge is liberative, while all the while we function with the objectified self—that is, with a self which is the subject in a subject-object relationship in the course of ordinary living. If the subject could be realised in its purity then all misery would cease: this is called self-knowledge.
+> According to Advaita, the pure subject is our true self whose knowledge is liberative, while all the while we function with the objectified self—that is, with a self which is the subject in a subject-object relationship in the course of ordinary living. **If the subject could be realised in its purity** then all misery would cease: this is called self-knowledge.
 
 Philosopher Bernardo Kastrup:
 
@@ -159,6 +163,27 @@ Hakuin:
 
 Truly, nothing can be said of this wonder of wonders.
 
+Angelo Dilullo:
+
+> Reality is like a magician that can do anything, **including being nothing at all**. It can do seemingly contradictory things simultaneously. It can stop being any certain way and effortlessly transition in marvelous and profoundly mysterious ways. Indeed, there is not even a thing called “reality.”
+
+
+---
+
+To say it another way: in stage 2, what we are — pure awareness — still has an **essential nature**. It is **prior** to experience; **behind** it, even though it also manifests _as_ it. It is the ultimate **background** or **substratum**; a universal **identity**.
+
+Spira:
+
+> Just as nothing that takes place in a movie adds or removes anything from the screen, nothing that takes place in experience adds or removes anything from our **essential nature** of pure awareness. [...] Our **essential being** or self, [is] the ever-present **background** of all experience. [...] The **background** of awareness is never disturbed by experience.  [...] Awareness is the **substratum** of the entire universe. [...] I am the awareness that is aware that I am.
+It is a simple and profound statement of our essential **identity.**
+
+This most fundamental illusion is precisely what gets dispelled in stage 3.
+
+Dilullo:
+
+> A different way of saying this is that reality, as self-experiencing, radiant phenomena, has no location or boundary, and also **no absolute or essential nature**. [...] There is **no substratum** here. There is **no background** or foreground. [...] You could say this quantum fluctuation between nothingness and somethingness is the fabric or most fundamental identity of reality itself. **This is not the same as personal identity or universal identity/consciousness**. [...] The salient feature that occurs at this stage is a **dissolving of the paradigm of identity altogether.**
+
+
 ---
 
 Now let us try to bring the distinction between stages two and three out of the abstract and into the experiential. Long before one accomplishes either of these realizations, these distinctions can inspire two quite different styles of practice.
@@ -176,10 +201,10 @@ Advaita guru [Pravrajika Brahmaprana](http://www.vedantadfw.org/PravrajikaBrahma
 
 Musician Shimshai, roughly translating an ancient Hindu hymn in a popular modern song:
 
-> You are forever pure, you are forever true, and the dream of this world can never touch you.<br/>
+> You are forever pure, you are forever true, and the dream of this world **can never touch you.**<br/>
 > So give up your attachment; give up your confusion, and fly to that space that's beyond all illusion.<br/> 
 
-Because Brahman _transcends_ its appearances, it is eternally detached from (and thus ultimately indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to fly off to: This Is It, and insofar as "you" means anything, you are precisely This.
+Because Brahman _transcends_ its appearances, it is eternally detached from (and thus ultimately indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to "fly off" to: This Is It, and insofar as "you" means anything, you are precisely This and nothing else.
 
 Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) powerfully conveys this intimacy. Compare the feeling with the above:
 
@@ -326,3 +351,19 @@ And:
 
 > In a place called Bodhgaya [...] he finally discovered what he was looking for: a fundamental awareness that was unchanging, indestructible, and infinite in scope.
  
+---
+
+Rupert Spira:
+
+> Just as empty space, before anything appears in it, cannot be agitated, for there is nothing there which could do so, our essential self or being, before the arising of any experience, contains nothing in itself, other than itself, which could possibly disturb it.
+
+> And just as the condition of empty space does not change when objects appear within it, so the nature of our essential self remains the same during any experience, irrespective of its content.
+
+> Nothing ever happens to awareness. It is never changed, moved or harmed by any experience, just as a screen is never stained or tarnished by the content of a movie. Awareness is always in the same transparent, luminous, spacious, welcoming condition.
+
+
+
+---
+
+Angelo Dilullo:
+
