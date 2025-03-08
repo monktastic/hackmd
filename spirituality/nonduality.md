@@ -104,7 +104,7 @@ This is _asymmetrical nonduality_. This asymmetry can be hard to detect in writi
 
 > All subjects and all objects have disappeared. The mountain is still the mountain, but it is not an object being looked at, and I am not a separate subject staring at it. 
 
-So far, so good. But he continues (emphasis mine):
+So far, so good. But he continues:
 
 > Both I and the mountain arise **in simple, ever-present awareness**, and we are both set free in that clearing, we are both liberated in that nondual space, we are both enlightened in **the opening that is ever-present awareness**.
 
@@ -118,19 +118,15 @@ Philosopher Bernardo Kastrup:
 
 > Literally everything can be reduced to the **ultimate subject** of experience.
 
-Object cannot exist without subject, but the ultimate Subject exists independently of objects.
+Objects cannot exist without a subject, but the ultimate Subject exists _independently_ of objects. To paraphrase George Orwell's Animal Farm, it is as though _Subject and object are nondual, but the Subject is more nondual_.
 
 Hakuin:
 
-> Mind and the objects of mind are one and the same; things and oneself are not two... But if the student, having reached this state, were to be satisfied with it, then, as before, he would be living in the deep pit of "fixation in a lesser rank of bodhisattvahood."
-
-Rob Burbea, perhaps the [clearest expositor of Mahayana in modern times](https://www.reddit.com/r/streamentry/comments/55vryt/insight_rob_burbea_seeing_that_frees/):
-
-> One time the Buddha went to a group of monks and he basically told them not to see Awareness as The Source of all things. [...] This group of monks didn’t want to hear that. [...] And similarly, one runs into this as a teacher, I have to say. **This level is so attractive, it has so much of the flavor of something ultimate, that often times people are unbudgeable there.**
+> Mind and the objects of mind are one and the same; things and oneself are not two. [...] the Universal Nature Wisdom manifests itself before your very eyes [...] But if the student, having reached this state, were to be satisfied with it, then, as before, he would be living in the deep pit of "fixation in a lesser rank of bodhisattvahood."
 
 ### Stage 3: No-self (anatman / anatta)
 
-While stage two is a high (and relatively uncommon) stage of realization, there is still one final (and large) step to take: the subtle asymmetry must dissolve. Appearances are indeed consciousness, and _consciousness is seen to be nothing but appearances_. "Consciousness" is not a standalone phenomenon, but a simple label for the (utterly miraculous) fact that anything appears at all.
+While stage two is a high (and relatively uncommon) stage of realization, there is still one final (and large) step to take: the subtle asymmetry must dissolve. Appearances are indeed consciousness, and _consciousness is seen to be nothing but appearances_. "Consciousness" is not a standalone phenomenon or "more fundamental than" appearances, but a conventional label for the (utterly miraculous) fact that anything appears at all.
 
 Zen master Thích Nhất Hạnh (*[The Buddhist Understanding of Reality](https://www.mindfulnessbell.org/archive/2015/01/dharma-talk-the-buddhist-understanding-of-reality-2)*):
 > Without subject, there is no object; without object, there is no subject. They manifest at the same time.
@@ -143,7 +139,7 @@ At first, this sounds like the Wilber quote above ("All subjects and all objects
 
 > When you are in the second stage, although you feel that the ‘I’ does not exist, the basic substance of the universe, or the Supreme Truth, still exists. Although you recognise that all the different phenomena are the extension of this basic substance or Supreme Truth, yet there still exists the opposition of basic substance versus external phenomena. Not until the distinctions of all phenomena disappear, and everything goes back to truth or Heaven, will you have absolute peace and unity... This is because phenomena themselves are basic substance, and **apart from phenomena there is no basic substance to be found.** The reality of basic substance exists right in the unreality of phenomena, which change ceaselessly and have no constant form. This is the Truth.
 
-Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of continuity or a unifying principle that suggests a singular entity spanning time / space / experiences is seen to be utterly imaginary — and the very question "well then who / what is imagining it?" is also seen to be fundamentally confused.
+Consciousness / awareness / mind does not "precede" or "transcend" or "host" or "manifest as" appearances; it IS precisely those appearances, _and nothing else besides_. The feeling of continuity or a unifying principle that suggests a singular entity spanning time / space / experiences is finally seen to be utterly imaginary — and the very question "well then who / what is imagining it?" is also seen to be fundamentally confused.
 
 [Rob Burbea](http://www.awakeningtoreality.com/2009/07/realizing-nature-of-mind.html):
 
@@ -153,20 +149,17 @@ To this, the seasoned Stage 2 practitioner will instinctively answer: "Aha! Caug
 
 > It is not that while everything else is fabricated by the mind, the mind itself is somehow real, a really existing basis for the fabrication. The mind, whether conceived as mental processes or 'Awareness'—even the awareness that we can know as vast and unperturbed, that seems natural and effortless—is also fabricated in the process. We find, in the end, that **there is no 'ground'** to fabrication.
 
-Again, compare this to Kastrup:
-
-> Consciousness is the **ground** of all reality.
-
 Hakuin:
 
-> Were anyone to try to indicate his mind, it would be no more existent than the horns of a rabbit or the hairs of a tortoise that have gone beyond the farthest mountain.
+> Were anyone to try to indicate his mind, it would be **no more existent** than the horns of a rabbit or the hairs of a tortoise that have gone beyond the farthest mountain.
 
 Truly, nothing can be said of this wonder of wonders.
 
 Angelo Dilullo:
 
-> Reality is like a magician that can do anything, **including being nothing at all**. It can do seemingly contradictory things simultaneously. It can stop being any certain way and effortlessly transition in marvelous and profoundly mysterious ways. Indeed, there is not even a thing called “reality.”
+> Reality is like a magician that can do anything, **including being nothing at all**. It can do seemingly contradictory things simultaneously. It can stop being any certain way and effortlessly transition in marvelous and profoundly mysterious ways. Indeed, there is not even a thing called reality.
 
+The defining characteristic of this stage — if there can even be said to be one — is _pure paradox_. It may sound like a subtle difference from the last stage, but it is anything but.
 
 ---
 
@@ -174,15 +167,27 @@ To say it another way: in stage 2, what we are — pure awareness — still has 
 
 Spira:
 
-> Just as nothing that takes place in a movie adds or removes anything from the screen, nothing that takes place in experience adds or removes anything from our **essential nature** of pure awareness. [...] Our **essential being** or self, [is] the ever-present **background** of all experience. [...] The **background** of awareness is never disturbed by experience.  [...] Awareness is the **substratum** of the entire universe. [...] I am the awareness that is aware that I am.
-It is a simple and profound statement of our essential **identity.**
+> Just as nothing that takes place in a movie adds or removes anything from the screen, nothing that takes place in experience adds or removes anything from our **essential nature** of pure awareness. [...] Our **essential being** or self, [is] the ever-present **background** of all experience. [...] The **background** of awareness is never disturbed by experience.  [...] Awareness is the **substratum** of the entire universe. [...] I am the awareness that is aware that I am. It is a simple and profound statement of our essential **identity.**
 
-This most fundamental illusion is precisely what gets dispelled in stage 3.
+Nisargadatta Maharaj:
+
+> **There must be a source** from which all this flows, a **foundation** on which all stands. [...] Consciousness itself is the source of everything.
+
+Sri Ramana Maharshi:
+
+> **Hold the substratum** of the ‘I’. After the substratum is held what does it matter if the world appears or disappears?
+
+This most fundamental illusion that there _must_ be a "source" or "foundation" is precisely what gets dispelled in stage 3, as illogical as this may seem to our intellects. It is that extremely subtle "holding" of a "substratum" that must finally be noticed and released.
+
+Rob Burbea, perhaps the [clearest expositor of Mahayana in modern times](https://www.reddit.com/r/streamentry/comments/55vryt/insight_rob_burbea_seeing_that_frees/):
+
+> One time the Buddha went to a group of monks and he basically told them not to see Awareness as The Source of all things. [...] This group of monks didn’t want to hear that. [...] And similarly, one runs into this as a teacher, I have to say. **This level is so attractive, it has so much of the flavor of something ultimate, that often times people are unbudgeable there.**
 
 Dilullo:
 
-> A different way of saying this is that reality, as self-experiencing, radiant phenomena, has no location or boundary, and also **no absolute or essential nature**. [...] There is **no substratum** here. There is **no background** or foreground. [...] You could say this quantum fluctuation between nothingness and somethingness is the fabric or most fundamental identity of reality itself. **This is not the same as personal identity or universal identity/consciousness**. [...] The salient feature that occurs at this stage is a **dissolving of the paradigm of identity altogether.**
+> There is **no way that things actually are**. [...] A different way of saying this is that reality, as self-experiencing, radiant phenomena, has no location or boundary, and also **no absolute or essential nature**. [...] There is **no substratum here**. There is **no background** or foreground. [...] You could say this quantum fluctuation between nothingness and somethingness is the fabric or most fundamental identity of reality itself. **This is not the same as personal identity or universal identity/consciousness**. [...] The salient feature that occurs at this stage is a **dissolving of the paradigm of identity altogether.**
 
+Keep in mind that these teachers are not denying the validity or value of the second stage. They had to go through it themselves — though surely not at the profound depth of great sages like Maharshi or Maharaj — and so there is a basis for comparison. By contrast, if someone has "only" gone as far as stage 2 and hears descriptions of stage 3, they will usually not be motivated to discover what it is pointing at. For such a one, there is _obviously_ and _self-evidently_ nothing beyond The Ultimate. Therefore, they will take descriptions of stage 3 to be either alternate ways of talking about the same thing, or else foolish delusion. On the other hand, for someone who has experienced both, the difference is clear and unmistakable.
 
 ---
 
@@ -192,7 +197,7 @@ Now let us try to bring the distinction between stages two and three out of the 
 
 Stage two emphasizes _detachment_ from the world. 
 
-Adi Shankara, founder of Advaita Vedanta (speaking as Brahman):
+Shankara:
 > I am eternally **pure and detached**. I am formless, imperishable. I manifest myself as the Perfect Bliss. I am that absolute I. — (as translated in A History of The Dasnami Naga Sannyasis)
 
 Advaita guru [Pravrajika Brahmaprana](http://www.vedantadfw.org/PravrajikaBrahmaprana.php) in ["Consciousness in Advaita Vedanta"](https://www.hindupedia.com/en/Consciousness_in_Advaita_Vedanta):
@@ -204,9 +209,9 @@ Musician Shimshai, roughly translating an ancient Hindu hymn in a popular modern
 > You are forever pure, you are forever true, and the dream of this world **can never touch you.**<br/>
 > So give up your attachment; give up your confusion, and fly to that space that's beyond all illusion.<br/> 
 
-Because Brahman _transcends_ its appearances, it is eternally detached from (and thus ultimately indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to "fly off" to: This Is It, and insofar as "you" means anything, you are precisely This and nothing else.
+Because Brahman _transcends_ its appearances, it is eternally detached from (and thus ultimately indifferent to) them. In no-self realization, on the other hand, there is radical intimacy and interdependence. There is no transcendent space to "fly off" to: This Is It, and insofar as "you" means anything, you are precisely This **and nothing else besides**.
 
-Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) powerfully conveys this intimacy. Compare the feeling with the above:
+Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/mindfulnessbell/article/poem-please-call-me-by-my-true-names/) powerfully conveys this incredible intimacy. Compare the feeling of this with the above:
 
 > I am a mayfly metamorphosing (...)<br/>
 > I am a frog swimming happily (...)<br/>
@@ -216,7 +221,7 @@ Thích Nhất Hạnh's poem [Call Me By My True Names](https://www.parallax.org/
 > My joy is like Spring, so warm (...)<br/>
 > Please call me by my true names (...)<br/>
 
-"My true names" are only the mayfly; frog; etc. — never some universal principle like Brahman or Awareness. While the idea of "detachment" does appear in Buddhism, it does not refer to oneself being separate from the world; it is merely about not fixating.
+Notice how there is no fixation on the Absolute, because the Absolute is seen to be _precisely_ the relative. "My true names" are only the mayfly; frog; etc. — never some universal or detached principle like Brahman or Awareness or Self. While the idea of "detachment" does appear in Buddhism, it does not refer to oneself being separate from the world; it is merely about not fixating on anything, _including_ "the Absolute."
 
 ### Different meanings of "unreality"
 
@@ -228,11 +233,11 @@ The Godhead is a fixed, singular reference point that every moment of experience
 
 Shankara:
 
-> You, the Self, are proved to be free from change and therefore perpetually the same on the ground that all the modifications of the mind without a single exception are (simultaneously) known by you. [...] If you were changeful like the mind or the senses, you would not simultaneously know all the mental modifications, the objects of your knowledge.
+> You, the Self, are proved to be free from change and therefore perpetually the same on the ground that all the modifications of the mind without a single exception are (simultaneously) known by you.
 
 In no-self realization, on the other hand, each moment stands entirely on its own, ever-fresh. There is no continuous entity that links moments together, and so in each moment there is a completely fresh awe and miraculousness—a sort of "reality out of a hat" magic trick that never started and yet never lets up. This is the realm of pure reality-shattering paradox.
 
-In this way, the gulf between stages 2 and 3 is perhaps far more vast than that between our default experience and stage 2 — a state which itself feels unmistakably like "enlightenment."
+In this way, the gulf between stages 2 and 3 is perhaps far more vast than that between our default experience and stage 2 — a state which itself feels unmistakably like "enlightenment." To conflate them is a profound mistake.
 
 ---
 
@@ -249,7 +254,7 @@ Nonduality teacher Judith Blackstone:
 > Fundamental consciousness is experienced as luminous stillness, or **emptiness**. ... **Within this luminous, all-pervasive stillness** moves the constantly changing dance of our thoughts, emotions, sensations and perceptions.
 
 Kastrup:
-> [I]n order to directly experience the nature of reality for himself; he might then find out that that **'emptiness' is mind at rest, a subject without objects**, pregnant with the potential for every conceivable internal relationship.
+> [I]n order to directly experience the nature of reality for himself; he might then find out that **'emptiness' is mind at rest, a subject without objects**, pregnant with the potential for every conceivable internal relationship.
 
 Wilber:
 > ... your True Nature—which you can call God, Allah, Jahweh, Brahman, Tao, Ein Sof—it doesn’t really matter, because the core of the Big Mind Process is **Emptiness** itself, which, **having no specific content** at all, can and does embrace anything that arises, integrating it all.
@@ -270,18 +275,6 @@ Burbea:
 
 In Buddhism, absolutely everything—including *consciousness*—is "empty." Not in the sense of being *devoid of content*, but in the (admittedly idiosyncratic) sense of *not having inherent existence*. In particular, "consciousness" is not the fundamentally existent background space or principle it so clearly seems to be in stage two.
 
-To get a sense of how tricky it can be to tell these descriptions apart, consider the following two quotes, both from Tibetans:
-
-"Popular Tibetan teacher":
-
-> As you look nakedly with open awareness, what you observe dissolves. You actually experience that **it dissolves into vast space**. Nothing remains. We use the word _emptiness_ for that experience. [...] That openness is called emptiness. Mind is empty. [...] Empty means clear, open, and free.
-
-Dakpo Tashi Namgyal:
-
-> When you look into a thought's identity, **without having to dissolve the thought** and without having to force it out by meditation, the vividness of the thought is itself the indescribable and naked state of aware emptiness.
-
-In the first (erroneous) quote, appearances dissolve "into" the vast "emptiness" that is mind. In the latter, the "vividness" of the thought is _itself_ what is conventionally called "mind" or "awareness." Mind does not have a standalone existence that appearances could dissolve "into."
-
 ### No-self
 
 The other common mistake is to believe that "no self" means only "no _individual_ self."
@@ -297,17 +290,21 @@ Wilber:
 
 But it is this very sense of an "underlying experience" that is the core illusion! In Advaita Vedanta, this underlying Self is sometimes referred to as the "unseen seer"; "unthought thinker"; etc. [Adi Shankara](https://www.shankaracharya.org/upadesa_sahasri.php):
 
-> [The Self is] the unseen seer, the unheard listener, the unthought thinker, the unknown knower ...
+> The innermost Self is [...] the unseen seer, the unheard listener, the unthought thinker, the unknown knower ...
 
 This idea of a Universal Self was already well-known at the time of the Buddha. Why did he take such great pains to differentiate his teaching if it's really the same? As he put it:
 
-> In reference to the seen, there will be only the seen. In reference to the heard, only the heard. [...] When there is no you there, **you are neither here nor yonder** nor between the two. This, just this, is the end of stress.
+> In reference to the seen, there will be only the seen. In reference to the heard, only the heard. [...] When there is no you there, you are neither here **nor yonder** nor between the two. This, just this, is the end of stress.
 
 Theravadan monk Bhikkhu K Ñāṇananda [comments](https://media.dharmaseed.org/documents/Nibbana-25.pdf):
 
 > There is therefore **no seer**, apart from the phenomenon of seeing, according to the [Buddha]. He does not imagine a seer. For the worldling, the bare act of seeing carries with it a perception of 'one who sees'. He has a notion of a self and something belonging to a self. [...] The [Buddha] **does not even imagine a thinker apart from thought**.
 
-In other words, in Buddhism there is no "unseen seer"; "unthought thinker"; etc. Thought _experiences itself_, as do all the other sense fields. The sense of there being a phenomenon (Awareness) that is _independent_ of its manifestations is seen to be the ultimate illusion.
+Thích Nhất Hạnh:
+
+> There is **no thinker** behind the thinking — there is just the thinking; that’s enough.
+
+The difference in experience between an "unseen seer" and "no seer"; "unthought thinker" and "no thinker" cannot be overstated. Thought _experiences itself_, as do all the other sense fields. The sense of there being a phenomenon (Awareness) that is _independent_ of its manifestations is seen to be the ultimate illusion.
 
 ## A brief note on Theravada
 
@@ -327,21 +324,37 @@ May all beings attain full enlightenment.
 
 ---
 
-## Addendum
+## Addenda
+
+### Emptiness, revisited
+
+To make things extra confusing, the Dalai Lama has [this to say](https://hhdl.dharmakara.net/hhdlquotes22.html) about emptiness as a space akin to Brahman:
+
+> I understand the Primordial Buddha [...] to be the ultimate reality, the realm of the Dharmakaya — **the space of emptiness** — where all phenomena, pure and impure, are dissolved. [...] We can say, therefore, that this **ultimate source**, clear light, is close to the notion of a Creator, since all phenomena, whether they belong to samsara or nirvana, originate therein. But we must be careful in speaking of this source, we must not be led into error. I do not mean chat there exists somewhere, there, a sort of collective clear light, analogous to the non-Buddhist concept of [Brahman] as a substratum. We must not be inclined to deify this luminous space. We must understand that when we speak of ultimate or inherent clear light, we are speaking on an individual level.
+> 
+> [...]
+> 
+> It would be a grave error to conceive of it as an independent and autonomous existence from beginningless time. [...] If a sutra describes the Primordial Buddha as an autonomous entity, we must be able to interpret this assertion without taking it literally. We call this type of sutra an "interpretable" sutra.
+
+Similarly, compare the descriptions given by these two Tibetan teachers.
+
+"Popular Tibetan teacher" referenced earlier:
+
+> As you look nakedly with open awareness, what you observe dissolves. You actually experience that **it dissolves into vast space**. Nothing remains. We use the word _emptiness_ for that experience.
+
+Dakpo Tashi Namgyal:
+
+> If the meditator says [that mind is an aware emptiness _after_ the thought has dissolved], he has not cleared up the former uncertainties and should therefore be set to resolve this for a few days. [...] When you look into a thought's identity, **without having to dissolve the thought** [...] the vividness of the thought is itself the indescribable and naked state of aware emptiness.
+
+In the first quote, appearances dissolve "into" the vast "emptiness" that is mind. In the latter, the "vividness" of the thought is _itself_ emptiness. Mind does not have a standalone existence that appearances could dissolve "into."
+
+### Quotes
 
 See if you can determine which stage the following quotes are pointing at.
 
 Another very popular Tibetan teacher:
 
 > [A]wareness remained with me, unchanging. I saw that awareness was beyond the pain and suffering I was experiencing—beyond life or death. ... This experience echoed what I had always heard from my father, the great Dzogchen master [...]. “Whatever arises—concepts, feelings, your body, subject and object, everything—is like clouds in the sky,” he said. “They come and they go. **Your true nature, awareness imbued with love, compassion, and wisdom, is like the sky itself.**”
-
-And:
-
-> So what is the true nature of mind? It is taught that mind has three qualities. [...]
-> 
-> The first of these qualities is emptiness [...] **a space out of which everything arises**. The second quality of mind is [that] it is luminous in the sense that it knows, it experiences. The third quality is that the emptiness and luminosity of mind are inseparable. [...] All that we experience arises **within this and out of this**.[...]
-> 
-> In the moment of recognition of our true nature, we realize who we are and always have been. We see our buddhanature at last.
 
 And:
 
@@ -353,17 +366,11 @@ And:
  
 ---
 
-Rupert Spira:
+Spira:
 
 > Just as empty space, before anything appears in it, cannot be agitated, for there is nothing there which could do so, our essential self or being, before the arising of any experience, contains nothing in itself, other than itself, which could possibly disturb it.
 
 > And just as the condition of empty space does not change when objects appear within it, so the nature of our essential self remains the same during any experience, irrespective of its content.
 
 > Nothing ever happens to awareness. It is never changed, moved or harmed by any experience, just as a screen is never stained or tarnished by the content of a movie. Awareness is always in the same transparent, luminous, spacious, welcoming condition.
-
-
-
----
-
-Angelo Dilullo:
 
