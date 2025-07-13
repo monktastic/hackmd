@@ -1,0 +1,92 @@
+# Dzogchen vis-a-vis algorithmic idealism
+
+This paper explores profound connections between a physical framework called *algorithmic idealism* and the Buddhist school of Dzogchen.
+## Algorithmic Idealism in a nutshell
+
+*[Algorithmic Idealism](https://arxiv.org/abs/2412.02826)* is a conceptual framework put forth by physicist Markus Mueller. It posits that the fundamental question of physics is not "what is the case in the world?", but "what should I believe I will experience next?", providing a formal answer using algorithmic information theory. From this first-person starting point, it predicts that our familiar "objective external world" with its simple physical laws is not fundamental, but rather emerges as a highly probable and stable pattern for the observer. 
+
+Müller's key contribution is to take the formal machinery of AIT and propose that its "inverse" application — where the universal prior _generates_ reality rather than just predicting it — can serve as a fundamental law of physics.
+### Universal Induction
+
+To make sense of this, let us first give a rough overview of the principle of *Universal Induction* (aka Solomonoff Induction) from the field of Algorithmic Information Theory.
+
+Imagine that you are observing a stream of discrete data (encoded in bits) that you know to have come from some algorithmic process (that has access to a random number generator). For example, you may observe:
+
+`1100100100001111110110101`
+
+Your job is to predict the *most likely next bit.* 
+
+It turns out that a very good way to do so is to ask which next bit (0 or 1) would make the overall sequence *simpler* in a certain sense. Namely:
+
+1. Consider *all possible programs* that could have generated that sequence. 
+2. Assign each a simplicity score (shorter is better) and sum up all those scores. 
+3. Compare the results for the two choices (0/1) and pick whichever scores better. 
+
+(In actuality, we don't simply pick the better one, but choose *probabilistically* according to their scores. For example, if the scores are 7 and 3, then we use probabilities 70% and 30% to guess the next bit. This will become relevant later.)
+
+In our case, it turns out that the above bits represent the binary expansion of pi — and since programs that *continue* to print pi are simpler than those that either *just happen* to print the first 20 bits of pi or that print it with some interspersed noise, we should guess that 0 (the real next bit of pi) comes next.
+
+This process is called *Universal Induction* (UI) or *Solomonoff Induction* (after Ray Solomonoff). Why is it a good way to make predictions? Because of an important theorem that he proved in 1968, which says the following. Suppose the process *actually* generating those bits is some program P. Then, the longer the sequence it gives us, the more likely UI is make correct guesses for the next bit, eventually reaching 100% accuracy. (This is where the probabilistic angle comes in: recall that programs have access to a random number generator. So we can never guess their output with 100% accuracy — but the *probabilities* we assign can match the true probabilities. This is what is actually proved.)
+
+In other words, it provides a concrete and provably optimal way to make (eventually) perfect predictions for any possible (computable) sequence of data whatsoever. And lest the word "computable" make you visualize the machines sitting on our laps (and hands), recall that per the Church-Turing thesis, the class of computable processes is believed to include *every process that could conceivably occur in the physical universe*.
+
+Alas, it turns out that iterating over all possible programs that could have produced a given bit string is impossible not only in practice, but in theory as well. Thus, Universal Induction cannot actually be implemented (and is itself not an *algorithm* or *program*) — but it provides a beautiful conceptual framework to think about such problems. Notice in particular how the preference for simplicity naturally mirrors the principle of Occam's Razor.
+
+### Inverse Universal Induction
+
+Now suppose that instead of using a particular program P to generate bits, we instead use Universal Induction *itself*, in the following way. Start with the empty string (ε) and feed it to UI (which will at first generate a 50-50 distribution for 0/1). Then sample according to that distribution and append the resulting bit to the input. This gives us a new input that we can feed back in, etc., looping forever. 
+
+What will the resulting sequence look like? Because it is probabilistically generated, there are of course infinitely many possibilities. But suppose you now interpret that sequence as having come from some particular program. Is it more likely to have come from a *simple* program or a *complex* one? The answer is a *simple* one. A key theorem shows that with high probability, the sequence will appear to be governed by simple, computable laws, even though it is generated by the universal process.
+
+What does this tell us?
+
+Imagine that you are strapped into a fully immersive VR environment, which is at first blank. A flash spontaneously appears, and you — forgetting where you are, and desperately trying to make sense of your "environment" — subconsciously use it to guess what will come next. Your guess then manifests as the next bit of content, and this process repeats. What will eventually happen is that you will appear to be inhabiting a world with relatively simple rules, with bits of randomness sprinkled in — perhaps not entirely unlike ours — but that is *entirely generated by your assumptions.*
+
+Of course, this tacitly assumes that you are somehow able to implement Universal Induction — which is intractable for any sensible meaning of "you." But what if...
+
+## The Dzogchen connection
+
+Consider the following quotes from Dzogchen masters and texts:
+
+> _When you start to dream, the dream begins as a thought, like one you would have in the daytime. But you’re asleep, so the thought intensifies and becomes something like talk or gossip, and then the gossip intensifies or solidifies into images, and then you really think that you’re seeing people, seeing places, going places, and so on. And that is how it works with conventional (N.B.: "real-world") appearances as well._
+> — Thrangu Rinpoche
+
+> _I, the supreme source, the ultimate nature of mind, am the fundamental substance of all phenomena ... **When my nature is not understood** and the phenomena that manifest from me become the object of judgement, desire and attachment **give rise to the creation of concrete vision that is impermanent** and destined to vanish like a magical apparition, and one becomes like a blind man who does not know what is happening._
+> — The Supreme Source
+
+> _As this habitual tendency is then reinforced, Samsāra unfolds in its regular progression._ — The prayer of Kuntuzangpo
+
+In other words, the cosmogony of Dzogchen is roughly this: You — Primordial Consciousness — were floating in the Void. You observed a spontaneous emission, which emanated from You. But, not recognizing your own nature, you assumed it to be external. This caused it to intensify in a feedback loop, eventually resulting in the apparent external reality you see around you today.
+
+Sound familiar?
+
+On the other hand, Dzogchen also offers a way out of this predicament:
+
+> _If, at the moment the energy of the base manifests, one does not consider it something other than oneself and one recognizes one's own state as the indivisibility of essence, nature, and potentiality of energy, the movement of energy self-liberates...._ —The Supreme Source
+
+What happens as this process continues?
+
+> _Memories, aspects of your conditioning, arise and are viewed from the perspective of awakening. Once seen in this way, they are drained of their causal powers._ —[Paul Litvak's Blog](https://www.paullitvak.com/p/a-vajrayana-path)
+
+A model for this is that the bits in the string either start becoming erased (or perhaps only reinterpreted). As this happens, the apparent "laws" that predict future experiences begin to loosen. At first, it is only the "psychological laws" — the conditioning that holds us back in life. But just how deep can this process go?
+
+> *With continuing practice, we see less and less difference between the waking and the dream state. Our experiences in waking life become more vivid and varied, the result of a lighter and more refined awareness. We are no longer bound by conventional conceptions of time, space, [form], and energy. Within this vaster perspective we may also find that the so-called supernatural feats and legends of the great yogis and masters are not myths or miracles. When the consciousness unites the various poles of experience and moves beyond the limits of conventional thought, psychic powers or abilities are actually natural.* — Tarthang Tulku, in Openness Mind
+
+I believe this describes what happens when the process begins to undermine even the seemingly fixed "physical laws."
+
+But if this can really happen, why isn't there evidence for it "out there"? Because, crucially, there *is no "out there."* If this hypothesis is correct, then *you* will only begin to detect evidence for it (whether in your own life or in that of the apparent others) only as your *own* practice deepens.
+
+### Other people?
+
+As a final point, we might ask ourselves: if this is true, then why do there even appear to be "other people" in the first place? I believe that a brief answer is the following. Consider these two possible worlds:
+
+- **Universe A:** The laws of this universe are designed to produce only one observer. Its program contains a huge, specific, and ad-hoc set of instructions to "brute-force" the creation of a single, complex mind.
+
+- **Universe B:** The laws of this universe are based on simple, scalable, and iterative rules (like evolution, the laws of chemistry, etc.) that are simple to state, but when they are allowed to run, generate immense, structured complexity as an emergent property. This universe doesn't specify how to build an observer; it specifies a simple _process_ that naturally leads to the evolution of many interacting observers.
+
+I would argue that Universe B seems to be algorithmically simpler — and thus, by the principle of universal induction, an exponentially more probable reality to emerge.
+
+## Conclusion
+
+Algorithmic Idealism, though being a new and untested framework, bears a striking resemblance to the worldview espoused in the Dzogchen tradition (among others). It shows how our assumptions of a real, external reality can ultimately *lead* to one, starting from scratch. And if this really *is* the way our world is generated, Dzogchen (and Buddhism, more generally) gives us a recipe by which to undo it, returning us to our Primordial State.
+
